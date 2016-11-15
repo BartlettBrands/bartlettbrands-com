@@ -1,0 +1,213 @@
+/* Enter Your Custom CSS Here */
+
+.container {
+    padding-left: 10px; // they have borders on nav which is weird. this would be 10px otherwise.
+    padding-right: 10px;
+    @media only screen and (min-width: 1160px) {
+        width: 1140px;
+    }
+    @media only screen and (min-width: 960px) and (max-width: 1159px) {
+        width: 960px;
+    }
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+        width: 768px;
+    }
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+        width: 80%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+        width: 80%;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    @media only screen and (max-width: 479px) {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+.hidden-desktop {
+    display: none;
+    @media screen and (max-width: 767px) {
+        display: block;
+    }
+}
+
+span.last-letter {
+    letter-spacing: 0;
+}
+
+html {
+
+    // DIRECT OVERRIDES.
+    // For some reason the parent CSS overrides the child CSS so I nested these inside the <HTML>
+    h1, h2, h3, h4, h5, h6, h2.penci-heading-video, .penci-photo-2-effect figcaption h2, .headline-title, a.penci-topbar-post-title, #navigation .menu li a, #sidebar-nav .menu li a, .penci-slider .pencislider-container .pencislider-content .pencislider-title, .penci-slider .pencislider-container .pencislider-content .pencislider-button, .author-quote span, .penci-more-link a.more-link, .penci-post-share-box .dt-share, .post-share a .dt-share, .author-content h5, .post-pagination h5, .post-box-title, .penci-countdown .countdown-amount, .penci-countdown .countdown-period, .penci-pagination a, .penci-pagination .disable-url, ul.footer-socials li a span, .widget input[type="submit"], #sidebar .widget-title, #respond h3.comment-reply-title span, .widget-social.show-text a span, .footer-widget-wrapper .widget .widget-title, .container.penci-breadcrumb span, .container.penci-breadcrumb span a, .error-404 .go-back-home a, .post-entry .penci-portfolio-filter ul li a, .portfolio-overlay-content .portfolio-short .portfolio-title a, .home-featured-cat-content .magcat-detail h3 a, .post-entry blockquote cite, .post-entry blockquote .author, .tags-share-box.hide-tags.page-share .share-title, .widget ul.side-newsfeed li .side-item .side-item-text h4 a, .thecomment .comment-text span.author, .thecomment .comment-text span.author a, .post-comments span.reply a, #respond h3, #respond label, .wpcf7 label, #respond #submit, .wpcf7 input[type="submit"], .widget_wysija input[type="submit"], .archive-box span, .archive-box h1, .gallery .gallery-caption, .contact-form input[type=submit], ul.penci-topbar-menu > li a, div.penci-topbar-menu > ul > li a {
+        font-family: 'Gotham SSm A', 'Gotham SSm B', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    h1, h2, h3, h4, h5, h6, #navigation .menu li a, #sidebar-nav .menu li a, a.penci-topbar-post-title, .penci-slider .pencislider-container .pencislider-content .pencislider-title, .penci-slider .pencislider-container .pencislider-content .pencislider-button, .headline-title, .author-quote span, .penci-more-link a.more-link, .author-content h5, .post-pagination h5, .post-box-title, .penci-countdown .countdown-amount, .penci-countdown .countdown-period, .penci-pagination a, .penci-pagination .disable-url, ul.footer-socials li a span, #sidebar .widget-title, #respond h3.comment-reply-title span, .widget-social.show-text a span, .footer-widget-wrapper .widget .widget-title, .error-404 .go-back-home a, .home-featured-cat-content .magcat-detail h3 a, .post-entry blockquote cite, .post-entry blockquote .author, .tags-share-box.hide-tags.page-share .share-title, .widget ul.side-newsfeed li .side-item .side-item-text h4 a, .thecomment .comment-text span.author, .thecomment .comment-text span.author a, #respond h3, #respond label, .wpcf7 label, #respond #submit, .wpcf7 input[type="submit"], .widget_wysija input[type="submit"], .archive-box span, .archive-box h1, .gallery .gallery-caption, .widget input[type="submit"], .contact-form input[type=submit], ul.penci-topbar-menu > li a, div.penci-topbar-menu > ul > li a {
+        font-weight: 600;
+    }
+
+    .post-share .count-number-like, .post-share a:hover, .post-share a.liked {
+        color: #000;
+    }
+    #respond h3.comment-reply-title span:before, #respond h3.comment-reply-title span:after, .post-box-title:before, .post-box-title:after {
+        background: #000;
+    }
+    #respond #submit:hover, .wpcf7 input[type="submit"]:hover, .widget_wysija input[type="submit"]:hover {
+        background: #000;
+    }
+    .post-share a .dt-share {
+        width: 80px;
+        margin-left: -40px;
+        padding-left: 2px;
+    }
+
+    ul.footer-socials li a span {
+        display: none;
+    }
+
+    // NAV
+    // .sticky-wrapper {
+    //     height: auto !important;
+    // }
+
+    .is-sticky {
+        #navigation {
+            // border-width: 0 !important;
+            position: fixed;
+        }
+    }
+    #navigation {
+        font-size: 16px;
+        height: auto !important;
+        box-shadow: none !important;
+        border: 0 solid black !important;
+
+        // border-width: 1px 0 0 !important; // they have a border-top that makes nav jump when removed
+        // margin-top: -1px;
+        // border-width: 0 !important;
+
+        // LOGO is a add-in from the BB main site
+        &.header-1,
+        &.header-4,
+        &.header-layout-bottom {
+            border: 0 solid black !important;
+        }
+
+        .logo {
+            float: left;
+            margin: 15px 0 0 0;
+            text-align: left;
+            font-size: 16px;
+
+            @media only screen and (max-width: 960px) {
+                margin-top: 16px;
+            }
+            p.hidden-mobile {
+                letter-spacing: 9px;
+                font-size: 1.1em;
+                line-height: 1.3em;
+                font-family: 'Gotham SSm A', 'Gotham SSm B', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+                font-weight: 700;
+                color: #fff;
+                text-transform: uppercase;
+                @media only screen and (max-width: 960px) {
+                    font-size: 1em;
+                }
+                @media only screen and (max-width: 767px) {
+                    display: none;
+                }
+            }
+            img.hidden-desktop {
+                height: 40px;
+                margin-top: -5px;
+                margin-bottom: 10px;
+                @media only screen and (max-width: 767px) {
+                    display: block;
+                }
+            }
+        }
+        .menu {
+            padding-top: 10px;
+            float: right;
+            font-size: 0.875em;
+            line-height: 1em;
+            li {
+                padding: 0 18px;
+                margin-right: 0;
+                &:first-child {
+                    padding-left: 0;
+                }
+                a {
+                    font-weight: 700;
+                    font-style: normal;
+                    line-height: inherit;
+                    letter-spacing: 1px;
+                    color: #fff;
+                    padding: 25px 0;
+                    display: block;
+                    text-decoration: none;
+                    font-size: 1.0em;
+                    text-transform: uppercase;
+                    -webkit-transition: color 0.1s ease-in;
+                    -moz-transition: color 0.1s ease-in;
+                    -o-transition: color 0.1s ease-in;
+                    transition: color 0.1s ease-in;
+                    &:hover, &:focus, &:active {
+                        color: #aaa;
+                    }
+                    &:before {
+                        display: none;
+                    }
+                }
+                &:last-child {
+                    padding-right: 0;
+                }
+            }
+            @media only screen and (max-width: 959px) {
+                font-size: 0.8em;
+            }
+            @media only screen and (min-width: 768px) {
+                display: block !important;
+                li {
+                    padding: 0 12px;
+                }
+            }
+            @media only screen and (min-width: 960px) {
+                li {
+                    padding-left: 18px;
+                    padding-right: 18px;
+                }
+            }
+        }
+        .button-menu-mobile {
+            float: right;
+            color: white;
+            font-size: 30px;
+            line-height: 20px;
+            font-family: Arial;
+            letter-spacing: 2px;
+            padding: 8px 0 15px 5px;
+            margin-top: 10px;
+            &:after {
+                content: "•••";
+            }
+            .fa {
+                display: none;
+            }
+            @media only screen and (min-width: 768px) {
+                display: none;
+            }
+            @media only screen and (max-width: 767px) {
+                display: inline-block;
+            }
+
+        }
+    }
+}

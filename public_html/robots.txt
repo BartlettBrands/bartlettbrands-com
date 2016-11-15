@@ -1,0 +1,9 @@
+User-Agent: *
+
+Disallow: /includes/
+Disallow: /bartlettbrands.git/
+Disallow: /work?filter=branding
+Disallow: /work?filter=messaging
+Disallow: /work?filter=design
+Disallow: /work?filter=digital
+Disallow: /work?filter=direction

@@ -1,0 +1,7 @@
+[19-Apr-2016 19:07:48 UTC] PHP Warning:  filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for assets/img/favicon.ico in /home/slowyiom/public_html/blog/wp-content/themes/soledad-child/header.php on line 16
+[19-Apr-2016 19:10:15 UTC] PHP Warning:  filemtime() [<a href='function.filemtime'>function.filemtime</a>]: stat failed for assets/img/favicon.ico in /home/slowyiom/public_html/blog/wp-content/themes/soledad-child/header.php on line 16
+[10-Jul-2016 22:07:35 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/slowyiom/public_html/blog/wp-includes/class-wp-xmlrpc-server.php on line 596
+[28-Sep-2016 03:55:00 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/slowyiom/public_html/blog/wp-includes/class-wp-xmlrpc-server.php on line 596
+[24-Oct-2016 10:34:39 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/slowyiom/public_html/blog/wp-includes/class-wp-xmlrpc-server.php on line 596
+[10-Nov-2016 08:31:47 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/slowyiom/public_html/blog/wp-includes/class-wp-xmlrpc-server.php on line 596
+[10-Nov-2016 20:50:11 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/slowyiom/public_html/blog/wp-includes/class-wp-xmlrpc-server.php on line 596

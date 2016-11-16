@@ -238,16 +238,17 @@ section#welcome .content-wrap.hide-elements-when-short .logo-name,
 section#welcome .content-wrap.hide-elements-when-short .logo-location {position:absolute; left:-5000px;}
 section#welcome .content-wrap.hide-elements-when-short svg {display:none;}
 
-.home-page--test section#welcome {text-align:left;}
-.home-page--test section#welcome .logogroup {width:auto; text-align:center;}
-.home-page--test section#welcome .logogroup .logo-name {background-color:transparent; color:#000; margin-left:auto; margin-right:auto; margin-bottom: 0.25em;}
-.home-page--test section#welcome .logogroup .logo-subtext {color:#000;}
-.home-page--test section#welcome .logogroup .logo-location {color:#000;}
-.home-page--test section#welcome .logogroup svg {background:transparent; border:0 none;}
-.home-page--test section#welcome .content-wrap svg #Arrow {fill:#000;}
+/* home-page--v2 is live. if home-page--v1 is deleted (currently index-v1) then these can be combined into the other css */
+.home-page--v2 section#welcome {text-align:left;}
+.home-page--v2 section#welcome .logogroup {width:auto; text-align:center;}
+.home-page--v2 section#welcome .logogroup .logo-name {background-color:transparent; color:#000; margin-left:auto; margin-right:auto; margin-bottom: 0.25em;}
+.home-page--v2 section#welcome .logogroup .logo-subtext {color:#000;}
+.home-page--v2 section#welcome .logogroup .logo-location {color:#000;}
+.home-page--v2 section#welcome .logogroup svg {background:transparent; border:0 none;}
+.home-page--v2 section#welcome .content-wrap svg #Arrow {fill:#000;}
 
 @media screen and (min-width:768px) {
-    .home-page--test section#welcome .logogroup {display:inline-block; margin:0 10px;}
+    .home-page--v2 section#welcome .logogroup {display:inline-block; margin:0 10px;}
 }
 
 

@@ -13,27 +13,24 @@ include( $base_dir . '/includes/html-app-header.php' );
 
 
 
-<body class="home-page">
+<body class="home-page home-page--v2">
 
-    <div class="bg-images-fade">
-        <div class="bg-img bg-img--fade bg-img--under"></div>
-        <div class="bg-img bg-img--fade bg-img--over"></div>
+    <div class="bg-images-rotating-banner">
+        <?php /* Include Bg Images List */ echo $bgImages; ?>
     </div>
-
 
 
     <?php // WELCOME
        // this needs a #welcome because of justmotion.js (whatever that is) ?>
     <section id="welcome">
-        <div class="content-wrap">
+        <div class="content-wrap container12">
             <div class="logogroup">
-                <img class="logo hidden-mobile" src="assets/img/brand-logo-alt.png" alt="Bartlett Brands">
-                <img class="logo hidden-desktop" src="assets/img/brand-logo-mobile.png" alt="Bartlett Brands">
+                <img class="logo" src="assets/img/brand-logo-transparent.png" alt="Bartlett Brands">
                 <h1 class="logo-name">Bartlett Brand<span class="last-letter">s</span></h1>
-                <h3 class="logo-subtext">Award-Winning&nbsp;Boutique&nbsp;Branding&nbsp;Agenc<span class="last-letter">y</span></h3>
+                <h3 class="logo-subtext">Award-Winning&nbsp;Boutique<br>Branding&nbsp;Agenc<span class="last-letter">y</span></h3>
                 <h5 class="logo-location">Based in San Francisco</h5>
+                <?php echo $svg_icon_arrow; ?>
             </div>
-            <?php echo $svg_icon_arrow; ?>
         </div>
     </section>
 
@@ -140,12 +137,13 @@ include( $base_dir . '/includes/html-app-header.php' );
     <?php // SERVICES ?>
     <section id="services">
         <div class="container12">
-            <h2 class="h2 section-title">Yes, We Are.</h2>
+            <h2 class="screen-reader-only">Our Services</h2>
+            <h3 class="h2 section-title">Yes, We Are.</h3>
             <hr class="title-underline">
             <p class="section-subtitle">We are an award-winning, boutique branding agency with expertise in creative brand development.</p>
             <p class="common-center">From cosmetics and consumables to restaurants and tech, we craft premium brand experiences that are both relevant and timeless—but never expected. We wear many hats and shades of lipstick but always look best with clients who are as passionate about their projects as we are about&nbsp;ours.</p>
 
-            <h2 class="h2 section-title">Yes, We Do.</h2>
+            <h3 class="h2 section-title">Yes, We Do.</h3>
             <hr class="title-underline">
 
             <?php // Strategy ?>
@@ -203,7 +201,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <section class="parallax" id="services-statement">
         <div class="container12">
 
-            <h2 class="h2 section-title"><q>Yes And&hellip;</q> Creative Philosophy</h2>
+            <h3 class="h2 section-title"><q>Yes And&hellip;</q> Creative Philosophy</h3>
             <hr class="title-underline">
             <p class="section-subtitle">Based on the fundamental rule of improv, <q>Yes. And&hellip;</q> is about listening first, then collaborating to move a story forward, even when there is no defined script. The result is the creation of something entirely new—unexpected, relevant and&nbsp;interesting.</p>
 

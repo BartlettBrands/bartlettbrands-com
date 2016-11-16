@@ -333,6 +333,19 @@ section#team .hover-group-inner {
     transform: translateY(-40%);
 }
 
+/* all stuff that helps with this damned cursor easter egg. delete this to get rid of it. */
+section#team .container12 .item {padding-left:10px; padding-right:10px; margin-left:0; margin-right:0;}
+section#team .container12 a.item .hover-group {left:10px;}
+section#team .container12 a.item:hover .hover-group,
+section#team .container12 a.item:focus .hover-group,
+section#team .container12 a.item:active {width:calc(100% - 20px);}
+section#team .container12 .item[data-url="carolina-pistone"],
+section#team .container12 .item[data-url="lauren-golik"] {cursor:url("../img/TEAMMATES/teammate-nathan-sticker.gif"), auto;}
+section#team .container12 .item[data-url="carolina-pistone"] img,
+section#team .container12 .item[data-url="carolina-pistone"] .hover-group,
+section#team .container12 .item[data-url="lauren-golik"] img,
+section#team .container12 .item[data-url="lauren-golik"] .hover-group {cursor:auto;}
+
 
 
 

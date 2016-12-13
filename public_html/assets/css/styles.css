@@ -297,6 +297,7 @@ section#services a.service-item img[src*="-hover"] {position:absolute; left:0; t
     body:not(.mobile) section#services a.service-item:focus img[src*="-hover"],
     body:not(.mobile) section#services a.service-item:active img[src*="-hover"] {z-index:2;}
     /* if mobile, just don't even display the hover image */
+    body.mobile section#services a.service-item img {position:static;}
     body.mobile section#services a.service-item img:not([src*="-hover"]) {display:none;}
 
 
@@ -335,19 +336,14 @@ section#team .hover-group-inner {
 }
 
 /* all stuff that helps with this damned cursor easter egg. delete this to get rid of it. */
-section#team .container12 .item {padding-left:10px; padding-right:10px; margin-left:0; margin-right:0;}
-section#team .container12 a.item .hover-group {left:10px;}
-section#team .container12 a.item:hover .hover-group,
-section#team .container12 a.item:focus .hover-group,
-section#team .container12 a.item:active {width:calc(100% - 20px);}
-section#team .container12 .item[data-url="carolina-pistone"],
-section#team .container12 .item[data-url="lauren-golik"] {cursor:url("../img/TEAMMATES/teammate-nathan-sticker.gif"), auto;}
-section#team .container12 .item[data-url="carolina-pistone"] img,
-section#team .container12 .item[data-url="carolina-pistone"] .hover-group,
-section#team .container12 .item[data-url="lauren-golik"] img,
-section#team .container12 .item[data-url="lauren-golik"] .hover-group {cursor:auto;}
-
-
+section#team a.item[data-url="carolina-pistone"],
+section#team a.item[data-url="lauren-golik"] {overflow:visible;}
+section#team a.item[data-url="carolina-pistone"]::before,
+section#team a.item[data-url="carolina-pistone"]::after,
+section#team a.item[data-url="lauren-golik"]::before,
+section#team a.item[data-url="lauren-golik"]::after {cursor:url("../img/TEAMMATES/teammate-nathan-sticker.gif"), auto; content:""; display:block; position:absolute; left:-5px; top:0; width:5px; bottom:0; z-index:1;}
+section#team a.item[data-url="carolina-pistone"]::after,
+section#team a.item[data-url="lauren-golik"]::after {right:-5px; left:auto;}
 
 
 /* ---------------------------------

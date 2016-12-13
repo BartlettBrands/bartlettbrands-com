@@ -172,6 +172,23 @@ $pages = array(
         'urlLinkedin'       => 'https://www.linkedin.com/profile/view?id=141571753&trk=nav_responsive_tab_profile',
         'urlTumblr'         => 'http://clpcm.tumblr.com/',
     ),
+    'Helga The Brand Wench' => array(
+        'url'               => 'helga',
+        'pageType'          => 'teammate',
+        'htmlSpecialName'   => 'Helga <br>The Brand Wench',
+        'metaDescription'   => 'Spirit Animal at Bartlett Brands.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-helga.jpg',
+        'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-helga-square.jpg',
+        'jobPosition'       => 'Spirit Animal',
+        'htmlBio'           => '<p>It all started with a traumatic personal branding experience at the hand of an acerbic artist along Route 36. The poorly chosen font, the wrong color ink and the awkward placement on my backside—I knew I had been misbranded. Determined to do better, I made my way west.</p>
+                                <p>After reinventing myself with a new name and identity, I entered the profession of Spirit Animal with a fierce determination to prevent individuals and companies from having similar branding misfortunes. After a serendipitous meeting with Bartlett Brands on a <a href="http://us7.campaign-archive1.com/?u=ea8809791249ba98e2379bcb8&id=44ff27eda9&e=[UNIQID]" about="_blank">cold winter’s night</a> in the heart of the Mission, I knew I had found my calling.</p>
+                                <p>What can you expect from me? <br>Measuring up at just under one inch, I stand tall atop a tiny platform of judgement. My job is to stay behind and make sure things keep on brand, moving forward according to plan. It’s easy, it just takes work. Respect the brand, no need to be a jerk. #respectthebrand</p>',
+        'urlInstagram'      => '',
+        'urlLinkedin'       => '',
+        'urlTumblr'         => '',
+    ),
     // 'Nathan Akers' => array(
     //     'url'               => 'nathan-akers',
     //     'pageType'          => 'teammate',
@@ -782,7 +799,28 @@ $pages = array(
         'navProjectType'    => 'Design',
     ),
 
-    'Gift Good' => array(
+    'Gift Good 2016' => array(
+        'url'               => 'giftgood2016',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'In 2016, Bartlett Brands is giving by giving back to local charities that support women and children. We’re Gifting Good. Happy holidays to our clients, friends and millennials everywhere.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy, branding, messaging, design, marketing',
+        'navImg'            => 'assets/img/PROJECTS/giftgood2016/giftgood-holiday2016-cover.gif',
+        'navProjectType'    => 'Branding & Charity',
+        'client'            => 'Holidays, Inc.',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>The holidays may be nice. But holiday customers had gotten naughty—more interested in the latest Snap than the spirit of the season.</p>
+                                <p>Holidays, Inc. came to us in need of a refresh to help them appeal to millennials.  After six months of brand strategizing, we realized that the holidays are not about the perfect positioning of cold-pressed snowflakes or sustainable packaging made from reindeer droppings. They’re about celebrating the true essence of the Holidays, Inc. brand—the spirit of giving.</p>
+                                <p>In 2016, Bartlett Brands is giving by giving back to local charities that support women and children. We’re Gifting Good.</p>
+                                <p>Happy holidays to our clients, friends and millennials everywhere.</p>',
+        'projectServices'   => 'Competitive Season Analysis, Multi-faith Immersion, Executive Workshop with Lead Elves, Mistletoe Research, Dreidel Alignment, Volunteering, Adopting a Family, Fulfilling Holiday Wish Lists, Teen Mentoring',
+        'projectSiteName'   => 'bartlettbrands.com',
+        'projectSiteUrl'    => 'http://www.bartlettbrands.com/',
+    ),
+
+    'Gift Good 2015' => array(
         'url'               => 'giftgood',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',

@@ -28,12 +28,12 @@ $bgs = array(
         'hexcolor' => '#5587a2',
     ),
     1 => array(
-        'filename' => 'bb-splash-bravon.jpg',
-        'hexcolor' => '#fff',
+        'filename' => 'bb-splash-biossance.jpg',
+        'hexcolor' => '#fff2eb',
     ),
     2 => array(
-        'filename' => 'bb-splash-camp.jpg',
-        'hexcolor' => '#f6d258',
+        'filename' => 'bb-splash-naya.jpg',
+        'hexcolor' => '#dcdcdc',
     ),
 	3 => array(
         'filename' => 'bb-splash-ipsy.jpg',
@@ -239,6 +239,28 @@ $pages = array(
     //  :projectSiteUrl     = the url of the client or project link
     //  :projectHtmlDesc    = the project desription using html
 
+'Biossance' => array(
+        'url'               => 'biossance',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Biotech does it better. Squalane-based skincare, designed without compromise.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/biossance/biossance-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Biossance',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
+                               <p>When Sephora gave Biossance the green light to rebrand, repackage, remarket and get to the shelf in 9 months, we ran with it—turning another average “nature meets science” brand into a standout concept that is differentiated, memorable and cool.</p>
+                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and relate to—no PhD required. A new tagline, fresh product names and an updated communication strategy married science and sustainably in a unique way.</p>
+							   <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing sustainable packaging that’s green without the crunch and biotech-y without the boring. Keeping a premium product experience top of mind, we sourced recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
+							   <p>Finally, we developed a comprehensive marketing and editorial plan for launch and post-launch. Biotech and Bartlett: bringing it in a big way.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
+        'projectSiteName'   => 'biossance.com',
+        'projectSiteUrl'    => 'https://www.biossance.com/',
+    ),
+
 'Colada Shop' => array(
         'url'               => 'colada',
         'pageType'          => 'project',
@@ -276,6 +298,27 @@ $pages = array(
         'projectServices'   => 'Marketing Campaigns, Copywriting, Collateral',
         'projectSiteName'   => 'ipsy.com',
         'projectSiteUrl'    => 'https://www.ipsy.com/',
+    ),
+	
+	'Naya' => array(
+        'url'               => 'naya',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Naya is the first high end breast pump that makes pumping suck less.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/naya/naya-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Naya',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Ask any mom. Pumping sucks.</p>
+                               <p>Enter Naya and their revolutionary Smart Breast Pump. They discovered that pumping technology hadn’t changed since the 1950’s, yet moms have evolved significantly. So, we put five brains and ten boobs to work making the Naya brand as smart as their hydrocomfort technology.</p>
+							   <p>We navigated the sensitive and often volatile terrain of breastfeeding to develop a unifying message that speaks to all moms who want better for their babies—and themselves. Then, we created an elegant brand identity with an easy-to-navigate information architecture. Skillfully sourcing and producing the largest magnetic setup box in the world (literally), we fulfilled the founder’s dreams of the most premium packaging the medical device industry has ever seen.</p>
+							   <p>Finally, someone is looking out for mom while she looks out for her baby.</p>',
+        'projectServices'   => 'Identity, Taglines, Package Design, Collateral',
+        'projectSiteName'   => 'nayahealth.com',
+        'projectSiteUrl'    => 'https://www.nayahealth.com/',
     ),
 
 'Patchology' => array(
@@ -474,26 +517,6 @@ $pages = array(
         'projectSiteUrl'    => 'http://www.beautybooked.com',
     ),
 
-  'Cubert' => array(
-        'url'               => 'cubert',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'BeautyBooked, an online service for booking appointments, came to us for a full-on facelift. We restructured their web experience and gave them a new identity and fresh messaging.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'branding messaging design',
-        'navImg'            => 'assets/img/PROJECTS/cubert/cubert-off-the-grid-branding-design-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Off the Grid',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>From crate to create, open up to the possibilities.</p>
-                                <p>As the branding agency of choice for several distinguished San Francisco-based restaurants and long-time fans of the Off the Grid food truck gatherings (yum), Bartlett Brands was still a bit surprised when Off the Grid asked us to brand… a large metal box.</p>
-                                <p>Never one to back down from a challenge, we gave their invention a life of its own. We named it Cubert—and animated the mobile pop-up venue with a friendly personality, an engaging voice and a refreshing design aesthetic alive with possibilities. Then to formally introduce Cubert, we created marketing collateral and built a site as responsive as Cubert himself.</p>',
-        'projectServices'   => 'Brand Development, Naming, Taglines, Identity, Website Design, Copy, Collateral Design, Photography',
-        'projectSiteName'   => 'cubert.com',
-        'projectSiteUrl'    => 'http://www.cubert.com/',
-    ),
-
   'Mina Private Dining' => array(
         'url'               => 'minaprivatedining',
         'pageType'          => 'project',
@@ -533,43 +556,6 @@ $pages = array(
         'projectSiteUrl'    => '',
     ),
 
-    'Michael Mina Tailgate' => array(
-        'url'               => 'michael-mina-tailgate',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Bourbon Pub is the official host of the NFL’s most extravagant tailgate party. We ran this one in for a touchdown with a witty brand concept that translated to collateral, retail swag and an advertising campaign.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/michael-mina-tailgate/mt-menu-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Advertising',
-        'client'            => 'Michael Mina Group',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>For fans of football and food. The insatiable hunger for victory paired with an unrivaled tailgate experience by celebrity chef Michael Mina. Together, we win.</p>
-                                <p>Bourbon Pub in Levi’s Stadium (the new home of the 49ers) is the official host of the NFL’s most extravagant tailgate party. We ran this one in for a touchdown with a witty brand concept that translated to collateral, retail swag and an advertising campaign. Game on!</p>',
-        'projectServices'   => 'Brand Development, Positioning, Copy, Collateral Design, Advertising Campaign',
-        'projectSiteName'   => 'michaelminastailgate.com',
-        'projectSiteUrl'    => 'http://michaelminastailgate.com',
-    ),
-
-    'Patter' => array(
-        'url'               => 'patter',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'The project started as a rebrand and app design for this tech startup, but it quickly became much more. We strategize, wireframe, design, write, brainstorm, pivot, design, strategize, and so on.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'branding messaging design',
-        'navImg'            => 'assets/img/PROJECTS/patter/patter-appbranding-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Wag Ideas, Inc.',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Patter’s mission is to make exchanging iPhone photos in collaborative albums easy. And fun. And social. But can be private. Or public. By location. Or just by your interests. Or by your friends’ friends’ interest—right now. Easy, huh?</p>
-                                <p>The project started as a rebrand and app design for this tech startup, but it quickly became much more. Like working with any startup client, we wear a lot of hats. We strategize, wireframe, design, write, brainstorm, pivot, design, strategize, and so on.</p>',
-        'projectServices'   => 'Brand Development, Identity, UI/UX, Website Design, Mobile App Design, Messaging, Video Art Direction',
-        'projectSiteName'   => 'patter.com',
-        'projectSiteUrl'    => 'http://www.patter.com',
-    ),
     'Bourbon Steak' => array(
         'url'               => 'bourbon-steak',
         'pageType'          => 'project',
@@ -677,42 +663,7 @@ $pages = array(
         'projectSiteName'   => 'bareescentuals.com',
         'projectSiteUrl'    => 'http://www.bareescentuals.com/',
     ),
-    'Buxom Branding' => array(
-        'url'               => 'buxom-branding',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => '',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'branding design marketing',
-        'navImg'            => 'assets/img/PROJECTS/buxom-branding/buxom-branding-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Bare Escentuals',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>It all started as a popular lip gloss with a cult following. Then, Buxom got a now-or-never opportunity to launch as a standalone brand in Sephora.</p>
-                                <p>On an impossibly short timeline, we brought the Buxom brand to life. We built an entire POS environment. Then, we positioned, packaged and launched multiple categories of products in rapid succession to fill out the experience. Recognizing the opportunity to tap into Sephora’s younger, edgier market, we gave Buxom a larger-than-life personality with an unapologetic attitude.',
-        'projectServices'   => 'Brand Development, Brand Guidelines, Package Design, Photography Art Direction, Video Art Direction, Retail Design Direction',
-        'projectSiteName'   => 'bareescentuals.com',
-        'projectSiteUrl'    => 'http://www.bareescentuals.com/',
-    ),
-    'Bare Escentuals Holiday' => array(
-        'url'               => 'bare-escentuals-holiday',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Slip into something a little more swanky and indulge in a holiday spiked with pure pleasure. It’s time to party.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'design marketing',
-        'navImg'            => 'assets/img/PROJECTS/bare-escentuals-holiday/be-holiday-cover.jpg',
-        'navProjectType'    => 'Concept &amp; Creative Direction',
-        'client'            => 'Bare Escentuals',
-        'clientIsInHouse'   => true,
-        'projectHtmlDesc'   => '<p>Your invitation to gorgeous.</p>
-                                <p>You’re cordially invited to the beauty bash of the century. Celebrate the season of giving and self-gifting with a fabulous fete of flashy gold and resplendent red. Glimmering lights, ravishing gifts—mix, mingle and be marvelous. Slip into something a little more swanky and indulge in a holiday spiked with pure pleasure. It’s time to party.</p>',
-        'projectServices'   => 'Concept Development, Photography Art Direction, Package Design, Retail Design Direction',
-        'projectSiteName'   => 'bareescentuals.com',
-        'projectSiteUrl'    => 'http://www.bareescentuals.com/',
-    ),
+
     'BareMinerals Matte Foundation' => array(
         'url'               => 'bareminerals-matte-foundation',
         'pageType'          => 'project',
@@ -728,60 +679,6 @@ $pages = array(
         'projectHtmlDesc'   => '<p>Friends with benefits.</p>
                                 <p>Matte became popular among the ladies with this quirky campaign that we concepted, wrote and designed to advertise the launch of bareMinerals Matte SPF 15 Foundation. Winning praise from the beauty industry, it was awarded The WWD Beauty Biz Award for <q>Beauty’s Boldest Thinkers</q> in the prestige category.</p>',
         'projectServices'   => 'Conceptual Development, Copy, Marketing Campaign, Collateral Design, Photography Art Direction, Retail Design Direction',
-        'projectSiteName'   => 'bareescentuals.com',
-        'projectSiteUrl'    => 'http://www.bareescentuals.com/',
-    ),
-    'Pretty Amazing Lipcolor' => array(
-        'url'               => 'bareminerals-pretty-amazing-lipcolor',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Read my lips. This is Pretty Amazing. We captured the spirit of Bare Escentuals Pretty Amazing brand with unique packaging and a playful campaign.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/bareminerals-pretty-amazing-lipcolor/bm-prettyamazing-cover.jpg',
-        'navProjectType'    => 'Concept &amp; Creative Direction',
-        'client'            => 'Bare Escentuals',
-        'clientIsInHouse'   => true,
-        'projectHtmlDesc'   => '<p>Read my lips. This is Pretty Amazing.</p>
-                                <p>Be bold, hold your chin high and take a risk for no reason. With the power to inspire the kind of adventures that legends are made of, Pretty Amazing was the first of its kind for Bare Escentuals. We captured the spirit of the brand with unique packaging and a playful campaign.</p>',
-        'projectServices'   => 'Concept Development, Marketing Campaign, Package Design, Collateral Design, Photography Art Direction, Retail Design Direction',
-        'projectSiteName'   => 'bareescentuals.com',
-        'projectSiteUrl'    => 'http://www.bareescentuals.com/',
-    ),
-    'BareMinerals Skincare' => array(
-        'url'               => 'bareminerals-skincare',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Skincare built on a famous foundation. Powered by dirt, bareMinerals Skincare was the first skincare line ever developed by Bare Escentuals.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'design marketing',
-        'navImg'            => 'assets/img/PROJECTS/bareminerals-skincare/bm-skincare-cover.jpg',
-        'navProjectType'    => 'Packaging &amp; Photography',
-        'client'            => 'Bare Escentuals',
-        'clientIsInHouse'   => true,
-        'projectHtmlDesc'   => '<p>Skincare built on a famous foundation.</p>
-                                <p>Powered by dirt (very <q>active</q> dirt), bareMinerals Skincare was the first skincare line ever developed by Bare Escentuals. Luxurious and feminine, our hand-painted design was inspired by founder Leslie Blodgett’s house in Marin. Modern yet nostalgic, this tactile package portrays its authenticity using elements of the human touch. The photography and marketing campaign tied the product back to its roots (literally).</p>',
-        'projectServices'   => 'Package Design, Collateral Design, Photography Art Direction',
-        'projectSiteName'   => 'bareescentuals.com',
-        'projectSiteUrl'    => 'http://www.bareescentuals.com/',
-    ),
-    'BareMinerals Eyecolors' => array(
-        'url'               => 'bareminerals-eyecolors',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'We developed elevated, sleek packaging and memorable marketing campaigns for new bareMinerals eye color launches. Ready for anything, anywhere.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/bareminerals-color-cosmetics/bm-colorcosmetics-cover.jpg',
-        'navProjectType'    => 'Packaging &amp; Photography',
-        'client'            => 'Bare Escentuals',
-        'clientIsInHouse'   => true,
-        'projectHtmlDesc'   => '<p>Ready for anything, anywhere.</p>
-                                <p>bareMinerals, a leading innovator of unique mineral eye colors, expanded its line to include an assortment of easily portable products. We developed elevated, sleek packaging and memorable marketing campaigns for all new launches.</p>',
-        'projectServices'   => 'Package Design, Photography Art Direction, Retail Design Direction',
         'projectSiteName'   => 'bareescentuals.com',
         'projectSiteUrl'    => 'http://www.bareescentuals.com/',
     ),

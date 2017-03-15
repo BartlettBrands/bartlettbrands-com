@@ -77,15 +77,15 @@ include( $base_dir . '/includes/html-app-header.php' );
                 </div>
             </a>
 
-            <?php // HIGHLIGHT 3 - "Bravon" ?>
-            <a class="column4 item" href="<?php echo $pages['Bravon Beauty']['url']; ?>" data-url="<?php echo $pages['Bravon Beauty']['url']; ?>" title="Bravon Beauty">
-                <img src="<?php echo $pages['Bravon Beauty']['navImg']; ?>" alt="Preview of Bravon Beauty">
+            <?php // HIGHLIGHT 3 - "Biossance" ?>
+            <a class="column4 item" href="<?php echo $pages['Biossance']['url']; ?>" data-url="<?php echo $pages['Biossance']['url']; ?>" title="Biossance">
+                <img src="<?php echo $pages['Biossance']['navImg']; ?>" alt="Preview of Biossance">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>
                         <hr>
-                        <h4 class="h4 project-name">Bravon Beauty</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Bravon Beauty']['navProjectType']; ?></h5>
+                        <h4 class="h4 project-name">Biossance</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Biossance']['navProjectType']; ?></h5>
                     </div>
                 </div>
             </a>
@@ -116,15 +116,15 @@ include( $base_dir . '/includes/html-app-header.php' );
                 </div>
             </a>
 
-            <?php // HIGHLIGHT 6 - "Rodan + Fields" ?>
-            <a class="column4 item" href="<?php echo $pages['Rodan + Fields']['url']; ?>" data-url="<?php echo $pages['Rodan + Fields']['url']; ?>" title="Rodan + Fields">
-                <img src="<?php echo $pages['Rodan + Fields']['navImg']; ?>" alt="Preview of Rodan + Fields">
+            <?php // HIGHLIGHT 6 - "Naya" ?>
+            <a class="column4 item" href="<?php echo $pages['Naya']['url']; ?>" data-url="<?php echo $pages['Naya']['url']; ?>" title="Naya">
+                <img src="<?php echo $pages['Naya']['navImg']; ?>" alt="Preview of Naya">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>
                         <hr>
-                        <h4 class="h4 project-name">Rodan + Fields</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Rodan + Fields']['navProjectType']; ?></h5>
+                        <h4 class="h4 project-name">Naya</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Naya']['navProjectType']; ?></h5>
                     </div>
                 </div>
             </a>
@@ -239,7 +239,7 @@ include( $base_dir . '/includes/html-app-header.php' );
                 <img src="assets/img/CLIENTS/client-marin-french-cheese.png" alt="Marin French Cheese Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/clients-beauty-booked.jpg" alt="Beauty Booked Logo">
+                <img src="assets/img/CLIENTS/clients-biossance.jpg" alt="Biossance Logo">
             </div>
             <div class="column2">
                 <img src="assets/img/CLIENTS/clients-ipsy.jpg" alt="Ipsy Logo">
@@ -254,7 +254,7 @@ include( $base_dir . '/includes/html-app-header.php' );
                 <img src="assets/img/CLIENTS/clients-patchology.jpg" alt="Patchology Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/clients-la-mienne.jpg" alt="La Mienne Logo">
+                <img src="assets/img/CLIENTS/clients-hintmd.jpg" alt="HintMD Logo">
             </div>
             <div class="column2">
                 <img src="assets/img/CLIENTS/clients-quay.jpg" alt="Quay Australia Logo">
@@ -309,7 +309,7 @@ include( $base_dir . '/includes/html-app-header.php' );
 
             <h2 class="h2 section-title">Team</h2>
             <hr class="title-underline">
-            <p class="section-subtitle">Idea makers. Art creators. Story shapers. Industry shakers. And good&nbsp;people.</p>
+            <p class="section-subtitle">Idea makers. Art creators. Story shapers. Industry shakers.</p>
             <p class="section-subtitle">We love talented people. Send your portfolio and resume to <a href=mailto:hello@bartlettbrands.com?subject=JobInquiry>hello@bartlettbrands.com</a>.</p>
 
         </div>

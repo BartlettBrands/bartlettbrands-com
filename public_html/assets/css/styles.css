@@ -308,9 +308,9 @@ section#services a.service-item img[src*="-hover"] {position:absolute; left:0; t
 ------------------------------------ */
 section#services-statement {background:url(../img/BGS/bg-parallax-services-statement.jpg) no-repeat center center #262626; padding:140px 0;}
     body:not(.mobile) section#services-statement {background-attachment:fixed;}
-section#services-statement .section-title {color:#fff;}
-section#services-statement hr {background-color:#fff;}
-section#services-statement p.section-subtitle {color:#fff;}
+section#services-statement .section-title {color:#000;}
+section#services-statement hr {background-color:#000;}
+section#services-statement p.section-subtitle {color:#000;}
 
 
 

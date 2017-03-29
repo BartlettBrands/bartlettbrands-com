@@ -322,6 +322,31 @@ include( $base_dir . '/includes/html-app-header.php' );
 
 
 
+    <?php // AS SEEN IN ?>
+    <section id="promos">
+        <div class="container12">
+
+            <h2 class="h2 section-title">As Seen In</h2>
+            <hr class="title-underline">
+
+        </div>
+        <div class="container12">
+
+            <div class="item column4">
+                <img src="assets/img/PROMOS/logo-eater.png" alt="Eater">
+            </div>
+            <div class="item column4">
+                <img src="assets/img/PROMOS/logo-wwd.png" alt="WWD">
+            </div>
+            <div class="item column4">
+                <img src="assets/img/PROMOS/logo-graphis.png" alt="Graphis">
+            </div>
+
+        </div>
+    </section>
+
+
+
 <?php
 // Include Functions & Headers
 include( $base_dir . '/includes/html-app-footer.php' );

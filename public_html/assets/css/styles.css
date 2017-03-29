@@ -346,6 +346,17 @@ section#team a.item[data-url="carolina-pistone"]::after,
 section#team a.item[data-url="lauren-golik"]::after {right:-5px; left:auto;}
 
 
+
+
+/* ---------------------------------
+    PROMOS SECTION
+------------------------------------ */
+section#promos {padding-top:0;}
+section#promos .item {text-align: center;}
+section#promos .item img {width:67%; max-width:210px;}
+
+
+
 /* ---------------------------------
     CONTACT SECTION
 ------------------------------------ */

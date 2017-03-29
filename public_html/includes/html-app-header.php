@@ -30,7 +30,7 @@
     <!-- <link rel="stylesheet" href="assets/css/vendor/jquery.vegas.min.css"> -->
 
     <!-- Custom CSS. filemtime just uses recently edited time to create a pseudo file. gets around some caching issues -->
-    <link rel="stylesheet" href="assets/css/styles.min.css?t=<?php echo filemtime('assets/css/styles.min.css'); ?>">
+    <link rel="stylesheet" href="assets/css/styles.css?t=<?php echo filemtime('assets/css/styles.css'); ?>">
 
     <!-- jQuery hosted by Google. all other JS is in footer -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

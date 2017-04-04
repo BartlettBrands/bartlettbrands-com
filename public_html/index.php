@@ -294,9 +294,9 @@ include( $base_dir . '/includes/html-app-header.php' );
                 <h6 class="h6 compliment-position">Startup Investor, Switch VC</h6>
             </div>
             <div class="column6">
-                <p class="common-center"><q>With unparalleled understanding of the business needs and challenges unique to the beauty industry, Bartlett Brands is one of the only studios that has experience bridging beauty and&nbsp;technology.</q></p>
-                <h4 class="h2 compliment-name">Hillary Hutchenson</h4>
-                <h6 class="h6 compliment-position">Co-Founder at BeautyBooked</h6>
+                <p class="common-center"><q>Bartlett Brands’ strategic vision guided our rebrand and launch in Sephora. They consistently think big (without overlooking the details) and demand perfection. With deep knowledge of the beauty industry and the complexities of skincare, they also proved to be adept at every point of execution. As our trusted agency partner, I'd recommend them to anyone.</q></p>
+                <h4 class="h2 compliment-name">Caroline Hadfield</h4>
+                <h6 class="h6 compliment-position">SVP of Personal Care, Biossance</h6>
             </div>
         </div>
     </section>

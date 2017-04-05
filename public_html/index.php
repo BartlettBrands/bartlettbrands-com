@@ -233,10 +233,10 @@ include( $base_dir . '/includes/html-app-header.php' );
                 <img src="assets/img/CLIENTS/client-mgm-grand.png" alt="MGM Grand Logo">
             </div>
             <div class="column2 prefix1">
-                <img src="assets/img/CLIENTS/client-rodan-fields.png" alt="Rodan Fields Logo">
+                <img src="assets/img/CLIENTS/clients-randf.jpg" alt="Rodan and Fields Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/client-marin-french-cheese.png" alt="Marin French Cheese Logo">
+                <img src="assets/img/CLIENTS/clients-greenleaf.jpg" alt="Greenleaf Logo">
             </div>
             <div class="column2">
                 <img src="assets/img/CLIENTS/clients-biossance.jpg" alt="Biossance Logo">

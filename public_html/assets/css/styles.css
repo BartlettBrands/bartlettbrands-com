@@ -172,7 +172,7 @@ a.item svg #Arrow {fill:#fff;}
 .modal__body [id^="mc_embed_signup"] button.button:hover svg #Arrow,
 .modal__body [id^="mc_embed_signup"] button.button:focus svg #Arrow {fill:#000;}
 
-.modal--visible {z-index:9000001; pointer-events:auto;}
+.modal--visible {z-index:9000001; pointer-events:auto; overflow: visible;}
 
 
 

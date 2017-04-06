@@ -19,6 +19,17 @@ include( $base_dir . '/includes/html-app-header.php' );
 
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
+	<img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-1.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-2.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-3.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-4.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-5.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-6.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-7.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-8.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-9.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-10.jpg" alt="Ipsy Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-11.jpg" alt="Ipsy Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-1.jpg" alt="Ipsy Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-2.jpg" alt="Ipsy Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-3.jpg" alt="Ipsy Marketing | Bartlett Brands">

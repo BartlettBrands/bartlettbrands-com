@@ -289,13 +289,14 @@ $pages = array(
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
         'navSortingClasses' => 'messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-cover.jpg',
+        'navImg'            => 'assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-cover.jpg',
         'navProjectType'    => 'Marketing &amp; Design',
         'client'            => 'Ipsy',
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>At Bartlett Brands, we believe that true beauty comes from within. We also believe it comes from using an excessive amount of cosmetics, lotions and potions. So when ipsy, the thriving beauty subscription service founded by YouTube sensation Michelle Phan, asked us to help make their marketing campaigns, copywriting and collateral more gorge—we said, “Sign me up.”</p>
-                               <p>We started by concepting more robust storylines for their monthly GlamBags, including detailed photoshoot direction and social activations with Insta-aspirational appeal. We upped the ante on the monthly collateral by developing a collectible (and educational) card game concept. Then, evolving the voice of ipsy to better appeal to their bizillion GlamBag subscribers, we created unique copy for over 250 products and brands. We got this beauty in the bag.</p>',
-        'projectServices'   => 'Marketing Campaigns, Copywriting, Collateral',
+                               <p>Robust storylines for their monthly GlamBags. Creative photoshoot direction. Social activations with Insta-aspirational appeal. Monthly collateral for a collectible (and educational) card game concept. 
+An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. Unique copy for over 250 products and brands. And a super stunning catalog for ipsy’s new cash rewards program. We got this beauty in the bag.</p>',
+        'projectServices'   => 'Positioning, Taglines, Messaging, Collateral Design, Photo Direction',
         'projectSiteName'   => 'ipsy.com',
         'projectSiteUrl'    => 'https://www.ipsy.com/',
     ),

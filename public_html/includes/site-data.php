@@ -37,7 +37,7 @@ $bgs = array(
     ),
 	3 => array(
         'filename' => 'bb-splash-ipsy.jpg',
-        'hexcolor' => '#dcd5e1',
+        'hexcolor' => '#e7e7df',
     ),
 );
 

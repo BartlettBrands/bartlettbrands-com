@@ -31,6 +31,8 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/colada/colada-shop-branding-design-10.jpg" alt="Colada Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/colada/colada-shop-branding-design-11.jpg" alt="Colada Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/colada/colada-shop-branding-design-12.jpg" alt="Colada Branding + Design | Bartlett Brands">
+    <img src="assets/img/PROJECTS/colada/colada-shop-branding-design-13.jpg" alt="Colada Branding + Design | Bartlett Brands">
+    <img src="assets/img/PROJECTS/colada/colada-shop-branding-design-14.jpg" alt="Colada Branding + Design | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

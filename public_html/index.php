@@ -140,7 +140,7 @@ include( $base_dir . '/includes/html-app-header.php' );
             <h2 class="screen-reader-only">Our Services</h2>
             <h3 class="h2 section-title">Yes, We Are.</h3>
             <hr class="title-underline">
-            <p class="section-subtitle">We are an award-winning, boutique branding agency with expertise in creative brand development.</p>
+            <p class="section-subtitle">We are an award-winning, boutique branding agency with expertise in strategic brand development.</p>
             <p class="common-center">From cosmetics and consumables to restaurants and tech, we craft premium brand experiences that are both relevant and timeless—but never expected. We wear many hats and shades of lipstick but always look best with clients who are as passionate about their projects as we are about&nbsp;ours.</p>
 
             <h3 class="h2 section-title">Yes, We Do.</h3>

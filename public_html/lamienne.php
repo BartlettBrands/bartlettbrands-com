@@ -31,7 +31,6 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-10.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
     <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-11.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
     <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-12.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
-    <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-13.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
     <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-14.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>

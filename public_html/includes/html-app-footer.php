@@ -9,7 +9,6 @@
 <?php
  // THE PAGE CONTENT WAS INSERTED HERE ?>
 
-
     <section class="contact" id="contact">
         <div class="container12">
 
@@ -69,32 +68,22 @@
     <?php
         // The initial developer used a template from http://themeforest.net/item/justmotion-one-page-html-template/6806656
         // This has since been utterly reworked and no longer tries to use that theme's design or structure.
-        // However, there are legacy components, like these scripts.
         // I've opted only to remove the ones we don't use and continue with the ones that seem to work.
+        // These are notes on the ones I've kept
 
-        // -> Retina: grabs @2x images if there are any. we don't use 'em
         // -> Smooth Scroll: nicely transitions the URL #hashtag links
-        // -> Smooth Scroll .9.9: Not sure
-        // -> Vegas: a nice hero image/slider management tool.
         // -> Sticky: sticks nav to top
         // -> jquery.Nav: required by Just Motion, but I'm not sure it does much with the Nav
-        // -> Knob: a data UI script we don't use
         // -> Isotope: Manages animation for the Work Page
         // -> Parallax: Nice scrolling transition on bg images
-        // -> YT Player: A script for YouTube videos
         // -> Just Motion: a script written by the template creators at theme forest that utilizes these earlier scripts.
     ?>
 
-    <!--script src="assets/js/vendor/retina-1.1.0.min.js?t=<?php echo filemtime('assets/js/vendor/retina-1.1.0.min.js'); ?>"></script-->
     <script src="assets/js/vendor/smooth-scroll.min.js?t=<?php echo filemtime('assets/js/vendor/smooth-scroll.min.js'); ?>"></script>
-    <!--script src="assets/js/vendor/smoothscroll-0.9.9.min.js?t=<?php echo filemtime('assets/js/vendor/smoothscroll-0.9.9.min.js'); ?>"></script-->
-    <!--script src="assets/js/vendor/jquery.vegas.min.js?t=<?php echo filemtime('assets/js/vendor/jquery.vegas.min.js'); ?>"></script-->
     <script src="assets/js/vendor/jquery.sticky.min.js?t=<?php echo filemtime('assets/js/vendor/jquery.sticky.min.js'); ?>"></script>
     <script src="assets/js/vendor/jquery.nav.min.js?t=<?php echo filemtime('assets/js/vendor/jquery.nav.min.js'); ?>"></script>
-    <!--script src="assets/js/vendor/jquery.knob.min.js?t=<?php echo filemtime('assets/js/vendor/jquery.knob.min.js'); ?>"></script-->
     <script src="assets/js/vendor/jquery.isotope.min.js?t=<?php echo filemtime('assets/js/vendor/jquery.isotope.min.js'); ?>"></script>
     <script src="assets/js/vendor/jquery.parallax.min.js?t=<?php echo filemtime('assets/js/vendor/jquery.parallax.min.js'); ?>"></script>
-    <!--script src="assets/js/vendor/jquery.mb.ytplayer.min.js?t=<?php echo filemtime('assets/js/vendor/jquery.mb.ytplayer.min.js'); ?>"></script-->
     <script src="assets/js/vendor/justmotion.min.js?t=<?php echo filemtime('assets/js/vendor/justmotion.min.js'); ?>"></script>
 
     <!-- CUSTOM -->

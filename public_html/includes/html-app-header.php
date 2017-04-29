@@ -26,8 +26,6 @@
     <link rel="stylesheet" href="assets/css/vendor/normalize.min.css?t=<?php echo filemtime('assets/css/vendor/normalize.min.css'); ?>">
     <link rel="stylesheet" href="assets/css/vendor/grid.1140px.min.css?t=<?php echo filemtime('assets/css/vendor/grid.1140px.min.css'); ?>">
     <link rel="stylesheet" href="assets/css/vendor/isotope.min.css?t=<?php echo filemtime('assets/css/vendor/isotope.min.css'); ?>">
-    <!-- this vegas css goes with some js that used to be here. if you re-add the js then re-add the css -->
-    <!-- <link rel="stylesheet" href="assets/css/vendor/jquery.vegas.min.css"> -->
 
     <!-- Custom CSS. filemtime just uses recently edited time to create a pseudo file. gets around some caching issues -->
     <link rel="stylesheet" href="assets/css/styles.css?t=<?php echo filemtime('assets/css/styles.css'); ?>">
@@ -45,5 +43,4 @@
         ga('create', 'UA-42694416-2', 'auto');
         ga('send', 'pageview');
     </script>
-
 </head>

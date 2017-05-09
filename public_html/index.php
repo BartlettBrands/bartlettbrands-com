@@ -140,8 +140,10 @@ include( $base_dir . '/includes/html-app-header.php' );
             <h2 class="screen-reader-only">Our Services</h2>
             <h3 class="h2 section-title">Yes, We Are.</h3>
             <hr class="title-underline">
-            <p class="section-subtitle">We are an award-winning, boutique branding agency with expertise in strategic brand development.</p>
-            <p class="common-center">From cosmetics and consumables to restaurants and tech, we craft premium brand experiences that are both relevant and timeless—but never expected. We wear many hats and shades of lipstick but always look best with clients who are as passionate about their projects as we are about&nbsp;ours.</p>
+            <p class="section-subtitle">Bartlett Brands is an award-winning boutique branding agency.
+From cosmetics to consumables, we bring the all-girl power to creating brands that challenge the status and cut through the quo.</p>
+            <p class="common-center">Our snappy strategies, stylish stories and standout designs attract the attention of even the world’s most distracted humans, engaging and entertaining them for the long haul.</p>
+            <p class="common-center">We never met a branding boundary we couldn’t break. Or a lipstick shade we couldn’t pull off. </p>
 
             <h3 class="h2 section-title">Yes, We Do.</h3>
             <hr class="title-underline">

@@ -142,8 +142,7 @@ include( $base_dir . '/includes/html-app-header.php' );
             <hr class="title-underline">
             <p class="section-subtitle">Bartlett Brands is an award-winning boutique branding agency.
 From cosmetics to consumables, we bring the all-girl power to creating brands that challenge the status and cut through the quo.</p>
-            <p class="common-center">Our snappy strategies, stylish stories and standout designs attract the attention of even the world’s most distracted humans, engaging and entertaining them for the long haul.</p>
-            <p class="common-center">We never met a branding boundary we couldn’t break. Or a lipstick shade we couldn’t pull off. </p>
+            <p class="common-center">Our snappy strategies, stylish stories and standout designs attract the attention of even the world’s most distracted humans, engaging and entertaining them for the long haul. We never met a branding boundary we couldn’t break. Or a lipstick shade we couldn’t pull off. </p>
 
             <h3 class="h2 section-title">Yes, We Do.</h3>
             <hr class="title-underline">

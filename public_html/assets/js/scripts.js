@@ -86,6 +86,10 @@ $(document).ready(function(){
         $('#modal-email').addClass('modal--visible');
         var cookie_value = 'yayyy_they_came_to_our_site';
         create_cookie(cookie_name, cookie_value, 365, '/' ); // expire in 1 year
+        // google analytics -- show when modal shows
+        dataLayer.push({
+            'event':'newsletterModal'
+        });
     }
 
 

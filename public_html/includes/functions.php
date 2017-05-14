@@ -33,7 +33,7 @@ $emailSignup = '
 
     // real people should not fill this in and expect good things - do not remove this or risk form bot signups
     '<div class="move-off-screen"><input type="text" name="b_ea8809791249ba98e2379bcb8_60dbd1ac33" tabindex="-1" value=""></div>
-    <button type="submit" value="" name="Subscribe" id="mc-embedded-subscribe" class="button">'. $svg_icon_arrow . '</button>
+    <button type="submit" value="" name="Subscribe" id="mc-embedded-subscribe" class="button" onclick="dataLayer.push({'event':'newsletterModalSuccess'});">'. $svg_icon_arrow . '</button>
 </form>';
 
 

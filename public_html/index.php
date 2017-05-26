@@ -237,7 +237,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                 <img src="assets/img/CLIENTS/clients-randf.jpg" alt="Rodan and Fields Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/clients-greenleaf.jpg" alt="Greenleaf Logo">
+                <img src="assets/img/CLIENTS/clients-patchology.jpg" alt="Greenleaf Logo">
             </div>
             <div class="column2">
                 <img src="assets/img/CLIENTS/clients-biossance.jpg" alt="Biossance Logo">
@@ -246,13 +246,13 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                 <img src="assets/img/CLIENTS/clients-ipsy.jpg" alt="Ipsy Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/client-marriott.png" alt="Marriott Logo">
+                <img src="assets/img/CLIENTS/clients-paulaschoice.jpg" alt="Paula's Choice Logo">
             </div>
             <div class="column2 prefix1">
                 <img src="assets/img/CLIENTS/clients-coya.jpg" alt="Coya Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/clients-patchology.jpg" alt="Patchology Logo">
+                <img src="assets/img/CLIENTS/clients-greenleaf.jpg" alt="Patchology Logo">
             </div>
             <div class="column2">
                 <img src="assets/img/CLIENTS/clients-hintmd.jpg" alt="HintMD Logo">

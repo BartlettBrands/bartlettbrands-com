@@ -19,7 +19,6 @@ include( $base_dir . '/includes/html-app-header.php' );
 
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
-	<iframe src="//player.vimeo.com/video/213582843?byline=0&amp;portrait=0&amp;badge=0" allowfullscreen></iframe>
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-1.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-2.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-3.jpg" alt="Biossance Branding + Design | Bartlett Brands">
@@ -30,6 +29,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-8.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-9.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-10.gif" alt="Biossance Branding + Design | Bartlett Brands">
+    <iframe src="//player.vimeo.com/video/213582843?byline=0&amp;portrait=0&amp;badge=0" allowfullscreen></iframe>
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-11.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-12.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-13.jpg" alt="Biossance Branding + Design | Bartlett Brands">

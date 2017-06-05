@@ -20,7 +20,6 @@ include( $base_dir . '/includes/html-app-header.php' );
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-1.jpg" alt="Biossance Branding + Design | Bartlett Brands">
-    <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-2.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-3.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-4.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-5.jpg" alt="Biossance Branding + Design | Bartlett Brands">
@@ -36,6 +35,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-14.gif" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-15.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-16.jpg" alt="Biossance Branding + Design | Bartlett Brands">
+        <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-2.jpg" alt="Biossance Branding + Design | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

@@ -301,6 +301,26 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'https://www.ipsy.com/',
     ),
 	
+	'Freya' => array(
+        'url'               => 'freya',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Hat Cases for the fashionable nomad.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/freya/freya-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Freya',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Trek boldly. Wander wildly. Explore boundlessly.</p>
+                               <p>Freya believes that what you carry with you is as important as the places you go. So they created luggage that colors your travels and styles your journey.</p>
+							   <p>We brought the bygone elegance of their modern hat boxes into the Insta-era with branding that speaks to women with a lust for experience. An iconic identity, colorful textile designs for the inside of the hat boxes and scarves, and a photoshoot on SF’s infamously foggy beaches with just the right amount of tasteful nudity. Adventure, let’s get it on—carried wherever the wind and untamed imagination takes us.</p>',
+        'projectServices'   => 'Positioning, Taglines, Identity, Textile Design, Collateral, Photography',
+        'projectSiteName'   => 'thefreyabrand.com',
+        'projectSiteUrl'    => 'https://www.thefreyabrand.com/',
+    ),
+	
 	'Naya' => array(
         'url'               => 'naya',
         'pageType'          => 'project',

@@ -92,7 +92,7 @@ include( $base_dir . '/includes/html-app-header.php' );
 
             <?php // HIGHLIGHT 4 - "Saucy Asian" ?>
             <a class="column4 item" href="<?php echo $pages['Saucy Asian']['url']; ?>" data-url="<?php echo $pages['Saucy Asian']['url']; ?>" title="Saucy Asian">
-                <img src="<?php echo $pages['Pub 1842']['navImg']; ?>" alt="Preview of Saucy Asian">
+                <img src="<?php echo $pages['Saucy Asian']['navImg']; ?>" alt="Preview of Saucy Asian">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>

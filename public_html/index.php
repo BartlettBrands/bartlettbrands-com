@@ -90,15 +90,15 @@ include( $base_dir . '/includes/html-app-header.php' );
                 </div>
             </a>
 
-            <?php // HIGHLIGHT 4 - "Pub 1842" ?>
-            <a class="column4 item" href="<?php echo $pages['Pub 1842']['url']; ?>" data-url="<?php echo $pages['Pub 1842']['url']; ?>" title="Pub 1842">
-                <img src="<?php echo $pages['Pub 1842']['navImg']; ?>" alt="Preview of Pub 1842">
+            <?php // HIGHLIGHT 4 - "Saucy Asian" ?>
+            <a class="column4 item" href="<?php echo $pages['Saucy Asian']['url']; ?>" data-url="<?php echo $pages['Saucy Asian']['url']; ?>" title="Saucy Asian">
+                <img src="<?php echo $pages['Pub 1842']['navImg']; ?>" alt="Preview of Saucy Asian">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>
                         <hr>
-                        <h4 class="h4 project-name">Pub 1842</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Pub 1842']['navProjectType']; ?></h5>
+                        <h4 class="h4 project-name">Saucy Asian</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Saucy Asian']['navProjectType']; ?></h5>
                     </div>
                 </div>
             </a>

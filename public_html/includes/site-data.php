@@ -301,6 +301,26 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'https://www.ipsy.com/',
     ),
 	
+	'Saucy Asian' => array(
+        'url'               => 'saucyasian',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => '#GetSauced at Saucy Asian with an around-the-world Korean remix.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/saucyasian/saucy-asian-branding-design-cover.gif',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Saucy Asian',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Inspired by the Korean street eats he craved after clubbing ’til dawn in Seoul, restaurateur Andrew Shinn put us in the booth to spin a clever concept for his new SF hot spot.</p>
+                               <p>We analyzed the unique potential of the Castro location and dug into San Francisco’s food trends to create a hook everyone would remember. Smart brand strategy, standout interior design and an identity that’s meant to be Insta’d upped the volume on Saucy Asian.</p>
+							   <p>The fine tune? An around-the-world Korean remix with a Cali kick in the buds. #GetSauced</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Naming, Taglines, Identity, Collateral, Packaging, Interior Design, Photography',
+        'projectSiteName'   => 'saucyasian.com',
+        'projectSiteUrl'    => 'https://www.saucyasian.com/',
+    ),
+	
 	'Freya' => array(
         'url'               => 'freya',
         'pageType'          => 'project',

@@ -16,7 +16,7 @@
             <p class="common-center section-subtitle">Contact Us</p>
 
             <div class="column6">
-                <a class="map" href="https://www.google.com/maps/place/1540+Market+St+%23130,+San+Francisco,+CA+94102/@37.775068,-122.4199144,17z/data=!3m1!4b1!4m2!3m1!1s0x8085809eed02996f:0xa71be270de7aa4ea" target="_blank"><img src="assets/img/brand-map.jpg" alt="Location for Bartlett Brands Map" nopin="nopin"></a>
+                <a class="map" href="https://www.google.com/maps/place/977+Valencia+St,+San+Francisco,+CA+94110/@37.7573387,-122.4231243,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7e3e82029dab:0x18a23a2f8eeb0be9!8m2!3d37.7573387!4d-122.4209356" target="_blank"><img src="assets/img/brand-map.jpg" alt="Location for Bartlett Brands Map" nopin="nopin"></a>
             </div>
 
             <div class="column6">
@@ -29,7 +29,7 @@
                 <p><a href="mailto:hello@bartlettbrands.com"><?php echo $site['bb-email']; ?></a></p>
                 <hr>
                 <h3 class="h3 contact-header">Visit</h3>
-                <p>1540 Market Street, Suite 130</br>San Francisco, California 94102</p>
+                <p>977 Valencia Street</br>San Francisco, California 94110</p>
                 <hr>
                 <h3 class="h3 contact-header">Follow Us</h3>
                 <div class="social-icons">

@@ -154,7 +154,7 @@ a.item svg #Arrow {fill:#fff;}
 /* ---------------------------------
     MODALS (z-index: -99, 9000001)
 ------------------------------------ */
-.modal {z-index:-99; position:relative; pointer-events:none; overflow: hidden;}
+.modal {z-index:-99; position:relative; pointer-events:none; overflow: hidden; visibility: hidden;}
 .modal__bg {position:fixed; top:0; right:0; bottom:0; left:0; z-index:0; background:rgba(0,0,0,0.7);}
 .modal__body {position:fixed; top:50%; left:50%; width:550px; z-index:1; background:#fff; box-sizing:border-box; padding:35px 30px; text-align:center;
     /* fix for transition issue in chrome */
@@ -172,7 +172,7 @@ a.item svg #Arrow {fill:#fff;}
 .modal__body [id^="mc_embed_signup"] button.button:hover svg #Arrow,
 .modal__body [id^="mc_embed_signup"] button.button:focus svg #Arrow {fill:#000;}
 
-.modal--visible {z-index:9000001; pointer-events:auto; overflow: visible;}
+.modal--visible {z-index:9000001; pointer-events:auto; overflow: visible; visibility: visible;}
 
 
 

@@ -26,17 +26,21 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/logos/logos-visual-wednesdayseven.jpg"              alt="Wednesday Seven Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_Naya.jpg"              alt="Naya Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_LaMienne.jpg"            alt="La Mienne Logo | Bartlett Brands">
+    <img src="assets/img/PROJECTS/logos/Branding_logo_design_SaucyAsian.jpg"            alt="Saucy Asian Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_BCBroth.jpg"            alt="BC Broth Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_MarinFrenchCheese150.jpg"              alt="Marin French Cheese 150 Year Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_Camp.jpg"                alt="Camp Collection Logo | Bartlett Brands">
+    <img src="assets/img/PROJECTS/logos/Branding_logo_design_Bresca.jpg"                alt="Bresca Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_Patchology.jpg" alt="Patchology Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_Optical_Underground.jpg" alt="Optical Underground Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_Bravon.jpg"              alt="Bravon Beauty Logo | Bartlett Brands">
-        <img src="assets/img/PROJECTS/logos/Branding_logo_design_Colada.jpg"              alt="Colada | Bartlett Brands">
+    <img src="assets/img/PROJECTS/logos/Branding_logo_design_Colada.jpg"              alt="Colada Logo | Bartlett Brands">
+    <img src="assets/img/PROJECTS/logos/Branding_logo_design_LittleLafa.jpg"              alt="Little Lafa Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_Cubert.jpg"              alt="Cubert Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_Hashed.jpg"              alt="Hashed Logo | Bartlett Brands">
-        <img src="assets/img/PROJECTS/logos/Branding_logo_design_Switch.jpg"                     alt="Switch VC Logo | Bartlett Brands">
+    <img src="assets/img/PROJECTS/logos/Branding_logo_design_Switch.jpg"              alt="Switch VC Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/logos-visual-beautybooked.jpg"                alt="Beauty Booked Logo | Bartlett Brands">
+    <img src="assets/img/PROJECTS/logos/Branding_logo_design_Afore.jpg"                alt="Afore Logo | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

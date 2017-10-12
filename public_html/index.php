@@ -334,13 +334,27 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
         <div class="container12">
 
             <div class="item column4">
-                <img src="assets/img/PROMOS/logo-eater.png" alt="Eater">
-            </div>
-            <div class="item column4">
                 <img src="assets/img/PROMOS/logo-wwd.png" alt="WWD">
             </div>
             <div class="item column4">
+                <img src="assets/img/PROMOS/logo-fastco.png" alt="Fast Company">
+            </div>
+            <div class="item column4">
+                <img src="assets/img/PROMOS/logo-eater.png" alt="Eater">
+            </div>
+
+        </div>
+               
+                <div class="container12">
+
+            <div class="item column4">
                 <img src="assets/img/PROMOS/logo-graphis.png" alt="Graphis">
+            </div>
+            <div class="item column4">
+                <img src="assets/img/PROMOS/logo-clio.png" alt="Clio Shortlist">
+            </div>
+            <div class="item column4">
+                <img src="assets/img/PROMOS/logo-beautyid.png" alt="Beauty ID Awards">
             </div>
 
         </div>

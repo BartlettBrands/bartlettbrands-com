@@ -252,10 +252,10 @@ $pages = array(
         'client'            => 'Biossance',
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
-                               <p>When Sephora gave Biossance the green light to rebrand, repackage, remarket and get to the shelf in 9 months, we ran with it—turning another average “nature meets science” brand into a standout concept that is differentiated, memorable and cool.</p>
-                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and relate to—no PhD required. A new tagline, fresh product names and an updated communication strategy married science and sustainably in a unique way.</p>
-							   <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing sustainable packaging that’s green without the crunch and biotech-y without the boring. Keeping a premium product experience top of mind, we sourced recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
-							   <p>Finally, we developed a comprehensive marketing and editorial plan for launch and post-launch. Biotech and Bartlett: bringing it in a big way.</p>',
+                               <p>Bartlett Brands took Biossance from an average “nature meets science” brand into a standout concept. Sephora called their launch “unprecedented.”</p>
+                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and remember.</p>
+							   <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
+							   <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
         'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
         'projectSiteName'   => 'biossance.com',
         'projectSiteUrl'    => 'https://www.biossance.com/',

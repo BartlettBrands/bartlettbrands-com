@@ -327,7 +327,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
     <section id="promos">
         <div class="container12">
 
-            <h2 class="h2 section-title">As Seen In</h2>
+            <h2 class="h2 section-title">Awards</h2>
             <hr class="title-underline">
 
         </div>
@@ -340,7 +340,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                 <img src="assets/img/PROMOS/logo-fastco.png" alt="Fast Company">
             </div>
             <div class="item column4">
-                <img src="assets/img/PROMOS/logo-eater.png" alt="Eater">
+                <img src="assets/img/PROMOS/logo-gdusa.png" alt="GD USA">
             </div>
 
         </div>

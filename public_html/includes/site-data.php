@@ -280,8 +280,29 @@ $pages = array(
         'projectSiteName'   => 'coladashop.com',
         'projectSiteUrl'    => 'https://www.coladashop.com/',
     ),
+	
+'Paula’s Choice' => array(
+        'url'               => 'paulaschoice',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Skincare that’s a matter of fact.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Marketing',
+        'client'            => 'Paula’s Choice',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Truth in Beauty.</p>
+                               <p>Paula Begoun didn’t set out to disrupt the beauty industry. But after 30 years of calling the industry out on their B.S., it’s clear that she was first to make dream creams without their heads in the clouds.</p>
+							   <p>Paula’s Choice, a global skincare brand that now features over 300 skincare products, came to us after noting that times had changed and the brand had lost it’s voice.</p>
+                               <p>We strategically repositioned the brand to appeal to the discerning customer who wants radical results—without the high price or the marketing hype. Skincare that is a matter of fact. Then, we redesigned the brand’s identity and marketing approach from the ground up, including developing a full packaging overhaul that makes shopping the assortment easy.</p>',
+        'projectServices'   => 'Brand Positioning, Identity, Package Design, Identity, Web Design, Brand Guidelines, Digital Standards, Social Media Standards, Collateral, Photography, Video',
+        'projectSiteName'   => 'paulaschoice.com',
+        'projectSiteUrl'    => 'http://www.paulaschoice.com/',
+    ),
 
-    'Ipsy' => array(
+'Ipsy' => array(
         'url'               => 'ipsy',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -301,7 +322,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'https://www.ipsy.com/',
     ),
 	
-	'Saucy Asian' => array(
+'Saucy Asian' => array(
         'url'               => 'saucyasian',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -321,7 +342,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'https://www.saucyasian.com/',
     ),
 	
-	'Freya' => array(
+'Freya' => array(
         'url'               => 'freya',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -341,7 +362,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'https://www.thefreyabrand.com/',
     ),
 	
-	'Naya' => array(
+'Naya' => array(
         'url'               => 'naya',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -381,7 +402,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'https://www.patchology.com/',
     ),
 
-  'Rodan + Fields' => array(
+'Rodan + Fields' => array(
         'url'               => 'randfbrand',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -402,7 +423,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'https://www.rodanandfields.com/',
     ),
 
-  'Bravon Beauty' => array(
+'Bravon Beauty' => array(
         'url'               => 'bravon',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -421,7 +442,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'http://bravonbeauty.com/',
     ),
 
-  'La Mienne' => array(
+'La Mienne' => array(
         'url'               => 'lamienne',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -442,7 +463,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'https://www.lamienne.com/',
     ),
 
-  'Pub 1842' => array(
+'Pub 1842' => array(
         'url'               => 'pub-1842',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -461,7 +482,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'http://www.michaelmina.net',
     ),
 
-  'Camp Collection' => array(
+'Camp Collection' => array(
         'url'               => 'camp',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -481,7 +502,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'http://www.shopcamp.com',
     ),
 
-  'Proposition Chicken' => array(
+'Proposition Chicken' => array(
         'url'               => 'proposition-chicken',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -501,7 +522,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'http://www.propositionchicken.com',
     ),
 
-   'Michael Mina Group' => array(
+'Michael Mina Group' => array(
         'url'               => 'michael-mina-group',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -520,7 +541,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'http://www.michaelmina.net',
     ),
 
-  'Hashed' => array(
+'Hashed' => array(
         'url'               => 'hashed',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -539,7 +560,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'http://www.gethashed.com',
     ),
 
-  'Beauty Booked' => array(
+'Beauty Booked' => array(
         'url'               => 'beauty-booked',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -558,7 +579,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'http://www.beautybooked.com',
     ),
 
-    'BareMinerals Branding' => array(
+'BareMinerals Branding' => array(
         'url'               => 'bareminerals-branding',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -577,7 +598,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectSiteUrl'    => 'http://www.bareescentuals.com/',
     ),
 
-    'BareMinerals Matte Foundation' => array(
+'BareMinerals Matte Foundation' => array(
         'url'               => 'bareminerals-matte-foundation',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',

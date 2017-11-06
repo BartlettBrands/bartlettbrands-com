@@ -249,7 +249,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                 <img src="assets/img/CLIENTS/clients-paulaschoice.jpg" alt="Paula's Choice Logo">
             </div>
             <div class="column2 prefix1">
-                <img src="assets/img/CLIENTS/clients-coya.jpg" alt="Coya Logo">
+                <img src="assets/img/CLIENTS/clients-freya.jpg" alt="Freya Logo">
             </div>
             <div class="column2">
                 <img src="assets/img/CLIENTS/clients-greenleaf.jpg" alt="Patchology Logo">

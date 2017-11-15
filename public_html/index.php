@@ -283,9 +283,9 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                 <h6 class="h6 compliment-position">C.E.O. COYA Americas</h6>
             </div>
             <div class="column6">
-                <p class="common-center"><q>Rebecca and her team at Bartlett Brands have been invaluable partners to us. They helped us refine our brand strategy and then executed it with excellence on package design, copy and collateral. They are a trusted and valued extension of our marketing team. I recommend them and would work with them again in a heartbeat.</q></p>
-                <h4 class="h2 compliment-name">Chris Hobson</h4>
-                <h6 class="h6 compliment-position">C.E.O. &amp; President, Patchology</h6>
+                <p class="common-center"><q>Bartlett Brands brought insight and perspective to every conversation. I could always count on them to collaborate but also challenge me to think harder and bigger. I found myself feeling reenergized and seeing new, amazing possibilities for the brand. I would definitely work with them again.</q></p>
+                <h4 class="h2 compliment-name">Stephanie Lin</h4>
+                <h6 class="h6 compliment-position">Head of Marketing, ipsy</h6>
             </div>
         </div>
         <div class="container12">

@@ -31,6 +31,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/saucyasian/saucy-asian-branding-design-10.jpg" alt="Saucy Asian Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/saucyasian/saucy-asian-branding-design-11.jpg" alt="Saucy Asian Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/saucyasian/saucy-asian-branding-design-12.jpg" alt="Saucy Asian Branding + Design | Bartlett Brands">
+    <img src="assets/img/PROJECTS/saucyasian/saucy-asian-branding-design-13.jpg" alt="Saucy Asian Branding + Design | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

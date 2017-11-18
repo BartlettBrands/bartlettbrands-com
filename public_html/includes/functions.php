@@ -104,15 +104,7 @@ $i = 0;
 foreach ($bgs as $ID => $img) {
     $currentBgName = $ID;
     $currentBg = $img;
-    $bgImages .= '
-    <div class="bg-img bg-img--item-' . $i . '">
-        <style>
-            .bg-img--item-' . $i . ' {
-                background-image: url("/assets/img/BGS/' . $currentBg['filename'] . '");
-                background-color: ' . $currentBg['hexcolor'] . ';
-            }
-        </style>
-    </div>';
+    $bgImages .= '<div class="bg-img bg-img--item-' . $i . '" style="background-image: url(\'/assets/img/BGS/' . $currentBg['filename'] . '\');"></div>';
     $i++;
 };
 

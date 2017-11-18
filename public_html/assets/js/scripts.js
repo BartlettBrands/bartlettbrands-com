@@ -138,7 +138,7 @@ $(document).ready(function(){
         welcomeHeight,
         logoContentHeight,
         logoImgHeight,
-        logoGroup_width,
+        bgImageHeight,
         isMobile = false,
         isSmallMobile = false,
         isHomePage = false,
@@ -162,9 +162,7 @@ $(document).ready(function(){
             welcomeHeight = $('#welcome').innerHeight();
             logoContentHeight = logoContent.innerHeight();
             logoImgHeight = logoImg.height();
-            logoGroupWidth = logoGroup.width();
-            logoGroupOffset = logoGroup.offset().left;
-            logoGroupOffsetRight = logoGroupOffset + logoGroupWidth + 30;
+            bgImageHeight = welcomeHeight - navbarHeight; // using welcomeHeight instead of winHeight fixes a bg-img height 'jump' that happens on mobile browsers
         }
 
 
@@ -184,10 +182,7 @@ $(document).ready(function(){
         if (isHomePage === true) {
 
             // SET BG IMG HEIGHT
-            // this fixes a bg-img height 'jump' that happens on mobile browsers
-            $('style[data-name="bg-img-pos"]').remove();
-            $('.bg-img').css({height: welcomeHeight});
-            $('.bg-images').prepend('<style data-name="bg-img-pos">.bg-img {background-position: ' + logoGroupOffsetRight + 'px 0;}</style>');
+            $('.bg-images').css('height', bgImageHeight + 'px');
 
             // SET LOGO HEIGHT
             function getLogoImgHeight() {
@@ -206,7 +201,6 @@ $(document).ready(function(){
 
             // REMOVE WELCOME CONTENT WHEN VIEWPORT IS SMALL
             function hideElemWhenShort() {
-                console.log("run 4");
                 if ((welcomeHeight - navbarHeight) < (logoContentHeight + 30)) {
                     logoGroup.addClass('logogroup--hide-elements-when-short');
                 }

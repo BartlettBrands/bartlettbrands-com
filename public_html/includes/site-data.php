@@ -25,19 +25,15 @@ $site = array(
 $bgs = array(
     0 => array(
         'filename' => 'bb-splash-colada.jpg',
-        'hexcolor' => '#5587a2',
     ),
     1 => array(
         'filename' => 'bb-splash-biossance.jpg',
-        'hexcolor' => '#fff2eb',
     ),
     2 => array(
         'filename' => 'bb-splash-naya.jpg',
-        'hexcolor' => '#dcdcdc',
     ),
-	3 => array(
+    3 => array(
         'filename' => 'bb-splash-ipsy.jpg',
-        'hexcolor' => '#e7e7df',
     ),
 );
 
@@ -253,8 +249,8 @@ $pages = array(
         'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
                                <p>Bartlett Brands took Biossance from an average “nature meets science” brand into a standout concept. Sephora called their launch “unprecedented.”</p>
                                <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and remember.</p>
-							   <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
-							   <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
+                               <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
+                               <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
         'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
         'projectSiteName'   => 'biossance.com',
         'projectSiteUrl'    => 'https://www.biossance.com/',
@@ -279,7 +275,7 @@ $pages = array(
         'projectSiteName'   => 'coladashop.com',
         'projectSiteUrl'    => 'https://www.coladashop.com/',
     ),
-	
+
 //'Paula’s Choice' => array(
 //        'url'               => 'paulaschoice',
 //        'pageType'          => 'project',
@@ -294,7 +290,7 @@ $pages = array(
 //        'clientIsInHouse'   => false,
 //        'projectHtmlDesc'   => '<p>Truth in Beauty.</p>
 //                               <p>Paula Begoun didn’t set out to disrupt the beauty industry. But after 30 years of calling the industry out on their B.S., it’s clear that she was first to make dream creams without their heads in the clouds.</p>
-//							   <p>Paula’s Choice, a global skincare brand that now features over 300 skincare products, came to us after noting that times had changed and the brand had lost it’s voice.</p>
+//                               <p>Paula’s Choice, a global skincare brand that now features over 300 skincare products, came to us after noting that times had changed and the brand had lost it’s voice.</p>
 //                               <p>We strategically repositioned the brand to appeal to the discerning customer who wants radical results—without the high price or the marketing hype. Skincare that is a matter of fact. Then, we redesigned the brand’s identity and marketing approach from the ground up, including developing a full packaging overhaul that makes shopping the assortment easy.</p>',
 //        'projectServices'   => 'Brand Positioning, Identity, Package Design, Identity, Web Design, Brand Guidelines, Digital Standards, Social Media Standards, Collateral, Photography, Video',
 //        'projectSiteName'   => 'paulaschoice.com',
@@ -314,13 +310,13 @@ $pages = array(
         'client'            => 'Ipsy',
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>At Bartlett Brands, we believe that true beauty comes from within. We also believe it comes from using an excessive amount of cosmetics, lotions and potions. So when ipsy, the thriving beauty subscription service founded by YouTube sensation Michelle Phan, asked us to help make their marketing campaigns, copywriting and collateral more gorge—we said, “Sign me up.”</p>
-                               <p>Robust storylines for their monthly GlamBags. Creative photoshoot direction. Social activations with Insta-aspirational appeal. Monthly collateral for a collectible (and educational) card game concept. 
+                               <p>Robust storylines for their monthly GlamBags. Creative photoshoot direction. Social activations with Insta-aspirational appeal. Monthly collateral for a collectible (and educational) card game concept.
 An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. Unique copy for over 250 products and brands. And a super stunning catalog for ipsy’s new cash rewards program. We got this beauty in the bag.</p>',
         'projectServices'   => 'Positioning, Taglines, Messaging, Collateral Design, Photo Direction',
         'projectSiteName'   => 'ipsy.com',
         'projectSiteUrl'    => 'https://www.ipsy.com/',
     ),
-	
+
 'Saucy Asian' => array(
         'url'               => 'saucyasian',
         'pageType'          => 'project',
@@ -335,12 +331,12 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>Inspired by the Korean street eats he craved after clubbing ’til dawn in Seoul, restaurateur Andrew Shinn put us in the booth to spin a clever concept for his new SF hot spot.</p>
                                <p>We analyzed the unique potential of the Castro location and dug into San Francisco’s food trends to create a hook everyone would remember. Smart brand strategy, standout interior design and an identity that’s meant to be Insta’d upped the volume on Saucy Asian.</p>
-							   <p>The fine tune? An around-the-world Korean remix with a Cali kick in the buds. #GetSauced</p>',
+                               <p>The fine tune? An around-the-world Korean remix with a Cali kick in the buds. #GetSauced</p>',
         'projectServices'   => 'Brand Strategy, Positioning, Naming, Taglines, Identity, Collateral, Packaging, Interior Design, Photography',
         'projectSiteName'   => 'saucyasian.com',
         'projectSiteUrl'    => 'https://www.saucyasian.com/',
     ),
-	
+
 'Freya' => array(
         'url'               => 'freya',
         'pageType'          => 'project',
@@ -355,12 +351,12 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>Trek boldly. Wander wildly. Explore boundlessly.</p>
                                <p>Freya believes that what you carry with you is as important as the places you go. So they created luggage that colors your travels and styles your journey.</p>
-							   <p>We brought the bygone elegance of their modern hat boxes into the Insta-era with branding that speaks to women with a lust for experience. An iconic identity, colorful textile designs for the inside of the hat boxes and scarves, and a photoshoot on SF’s infamously foggy beaches with just the right amount of tasteful nudity. Adventure, let’s get it on—carried wherever the wind and untamed imagination takes us.</p>',
+                               <p>We brought the bygone elegance of their modern hat boxes into the Insta-era with branding that speaks to women with a lust for experience. An iconic identity, colorful textile designs for the inside of the hat boxes and scarves, and a photoshoot on SF’s infamously foggy beaches with just the right amount of tasteful nudity. Adventure, let’s get it on—carried wherever the wind and untamed imagination takes us.</p>',
         'projectServices'   => 'Positioning, Taglines, Identity, Textile Design, Collateral, Photography',
         'projectSiteName'   => 'thefreyabrand.com',
         'projectSiteUrl'    => 'https://www.thefreyabrand.com/',
     ),
-	
+
 'Naya' => array(
         'url'               => 'naya',
         'pageType'          => 'project',
@@ -375,8 +371,8 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>Ask any mom. Pumping sucks.</p>
                                <p>Enter Naya and their revolutionary Smart Breast Pump. They discovered that pumping technology hadn’t changed since the 1950’s, yet moms have evolved significantly. So, we put five brains and ten boobs to work making the Naya brand as smart as their hydrocomfort technology.</p>
-							   <p>We navigated the sensitive and often volatile terrain of breastfeeding to develop a unifying message that speaks to all moms who want better for their babies—and themselves. Then, we created an elegant brand identity with an easy-to-navigate information architecture. Skillfully sourcing and producing the largest magnetic setup box in the world (literally), we fulfilled the founder’s dreams of the most premium packaging the medical device industry has ever seen.</p>
-							   <p>Finally, someone is looking out for mom while she looks out for her baby.</p>',
+                               <p>We navigated the sensitive and often volatile terrain of breastfeeding to develop a unifying message that speaks to all moms who want better for their babies—and themselves. Then, we created an elegant brand identity with an easy-to-navigate information architecture. Skillfully sourcing and producing the largest magnetic setup box in the world (literally), we fulfilled the founder’s dreams of the most premium packaging the medical device industry has ever seen.</p>
+                               <p>Finally, someone is looking out for mom while she looks out for her baby.</p>',
         'projectServices'   => 'Identity, Taglines, Package Design, Collateral',
         'projectSiteName'   => 'nayahealth.com',
         'projectSiteUrl'    => 'https://www.nayahealth.com/',

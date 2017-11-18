@@ -78,14 +78,10 @@ input:focus {background-color:transparent;}
 /* ---------------------------------
     HOME BG (z-index: -13, -12, -11)
 ------------------------------------ */
-.bg-images {position:fixed; top:0; left:0; width:100%; height:100%; z-index:-20;}
-.bg-img {position:absolute; top:0; left:0; bottom:0; width:100%; background:#fff none center center no-repeat; z-index:-13; background-size:contain;}
-.bg-img.bg-img--active {z-index:-11;}
-.bg-img.bg-img--prev {z-index:-12;}
-
-@media screen and (max-width:959px) and (orientation:portrait), screen and (max-width:767px) {
-    .bg-img {background-image:none;}
-}
+.bg-rotate {position:fixed; top:0; right:0; bottom:0; left:0; z-index:-20;}
+.bg-rotate__img {position:absolute; top:0; left:0; bottom:0; width:100%; min-width:160vh; z-index:-13; background:#fff none center center no-repeat; background-size:contain;}
+.bg-rotate__img.bg-rotate__img--active {z-index:-11;}
+.bg-rotate__img.bg-rotate__img--prev {z-index:-12;}
 
 
 
@@ -221,7 +217,7 @@ section {padding-top:100px; padding-bottom:100px; background-color:#fff; positio
 ------------------------------------ */
 section#welcome {height:100%; clear:both; background-color:transparent; padding:0; text-align:left; z-index:auto;}
 section#welcome .content-wrap {position:fixed; top:45%; left:50%; transform:translate(-50%,-50%) !important;}
-section#welcome .logogroup {font-size:16px; width:auto; margin:0 auto; position:relative; z-index:4; text-align:center;}
+section#welcome .logogroup {font-size:16px; width:auto; margin:0 10px; position:relative; z-index:4; text-align:center; display:inline-block;}
 section#welcome .logo {margin:0 auto; width:16em; margin-bottom:2.5em;}
 section#welcome .logo-name {font-size:1.5em; padding:0.45em 0; letter-spacing:0.5em; white-space:nowrap; margin:0 auto 0.25em; background-color:transparent; color:#000;}
 section#welcome .logo-subtext {font-size:1.7em; font-weight:normal; letter-spacing:0.12em; color:#000; margin-bottom:0.75em;}
@@ -483,10 +479,6 @@ body.work-page .nav-wrap hr.title-underline {display:none;}
 /* -------------------------------------------------------------------------------------------------------------
     MEDIA STYLES
 -------------------------------------------------------------------------------------------------------------*/
-@media screen and (min-width:960px) {
-    section#welcome .logogroup {display:inline-block; margin:0 10px;}
-}
-
 @media screen and (min-width:768px) {
     section#client-compliments .container12:last-of-type .column6 {margin-bottom:0;}
 }
@@ -497,6 +489,8 @@ body.work-page .nav-wrap hr.title-underline {display:none;}
 }
 
 @media screen and (max-width:959px) {
+    .bg-rotate__img {min-width:0; background-size:cover; background-position:center !important;}
+
     a.item .hover-group .project-category,
     a.item .hover-group .teammate-position { margin-bottom:8px;}
     a.item .hover-group hr {margin-bottom:10px;}
@@ -509,7 +503,7 @@ body.work-page .nav-wrap hr.title-underline {display:none;}
     header#navbar nav ul li {padding:0 12px;}
     header#navbar nav a svg {height:1.1em; width:1.1em; margin-top:-2px;}
 
-    section#welcome .logogroup {font-size:14px;}
+    section#welcome .content-wrap {display:none;}
 }
 
 @media screen and (max-width:767px) {
@@ -536,8 +530,6 @@ body.work-page .nav-wrap hr.title-underline {display:none;}
     header#navbar nav ul li a:focus {background-color:#000;}
 
     section#contact .container12 {max-width:480px;}
-
-    section#welcome .logogroup {font-size:12px;}
 
     .container12 .column1,
     .container12 .column2,
@@ -596,14 +588,6 @@ body.work-page .nav-wrap hr.title-underline {display:none;}
 
     .modal__body {width:90%;}
 
-    section#welcome .logogroup {font-size:10px;}
-    section#welcome .logogroup svg {display:none;}
-
     body.team-page .teammate-position span {display:block; line-height:1.3em;}
     body.team-page .teammate-position span.position-title-header {padding-right:0;}
-}
-
-
-@media screen and (max-width:339px) {
-    section#welcome .logogroup {font-size:9px;}
 }

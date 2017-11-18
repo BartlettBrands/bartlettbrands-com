@@ -15,7 +15,7 @@ include( $base_dir . '/includes/html-app-header.php' );
 
 <body class="home-page">
 
-    <div class="bg-images">
+    <div class="bg-rotate">
         <?php /* Include Bg Images List */ echo $bgImages; ?>
     </div>
 

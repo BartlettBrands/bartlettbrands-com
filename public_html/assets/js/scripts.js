@@ -94,21 +94,23 @@ $(document).ready(function(){
 
     // BG ITERATION
     // the flashing image banner for the home page
-    var bgImgCount = $('.bg-images .bg-img').length - 1,
+    var bgImgCount = $('.bg-rotate__img').length - 1,
         bgImgNumber = 0;
 
     // only call function if the bg-images wrapper div exists on the page
-    if ($('.bg-images').length > 0) showBgImage();
+    if ($('.bg-rotate').length > 0) {
+        showBgImage();
+    }
 
     function showBgImage() {
         // remove current 'prev' class
-        $('.bg-img.bg-img--prev').removeClass('bg-img--prev');
+        $('.bg-rotate__img.bg-rotate__img--prev').removeClass('bg-rotate__img--prev');
         // set the current active to 'prev'
-        $('.bg-img.bg-img--active').addClass('bg-img--prev');
+        $('.bg-rotate__img.bg-rotate__img--active').addClass('bg-rotate__img--prev');
         // set the current img to active
-        $('.bg-img--item-' + bgImgNumber).addClass('bg-img--active');
+        $('.bg-rotate__img--index-' + bgImgNumber).addClass('bg-rotate__img--active');
         // now remove the active from the .active.prev img
-        $('.bg-img.bg-img--active.bg-img--prev').removeClass('bg-img--active');
+        $('.bg-rotate__img.bg-rotate__img--active.bg-rotate__img--prev').removeClass('bg-rotate__img--active');
 
         // setup next img number
         (bgImgNumber === bgImgCount)? bgImgNumber = 0 : bgImgNumber++;
@@ -185,9 +187,8 @@ $(document).ready(function(){
 
             // SET BG IMG HEIGHT
             // this fixes a bg-img height 'jump' that happens on mobile browsers
-            $('style[data-name="bg-img-pos"]').remove();
-            $('.bg-img').css({height: welcomeHeight});
-            $('.bg-images').prepend('<style data-name="bg-img-pos">.bg-img {background-position: ' + logoGroupOffsetRight + 'px 0;}</style>');
+            $('style[data-name="bg-img-position"]').remove();
+            $('.bg-rotate').prepend('<style data-name="bg-img-position">.bg-rotate__img {background-position: ' + logoGroupOffsetRight + 'px 0;}</style>');
 
             // SET LOGO HEIGHT
             function getLogoImgHeight() {

@@ -87,7 +87,7 @@
     <script src="assets/js/vendor/justmotion.min.js?t=<?php echo filemtime('assets/js/vendor/justmotion.min.js'); ?>"></script>
 
     <!-- CUSTOM -->
-    <script src="assets/js/scripts.min.js?t=<?php echo filemtime('assets/js/scripts.min.js'); ?>"></script>
+    <script src="assets/js/scripts.js?t=<?php echo filemtime('assets/js/scripts.js'); ?>"></script>
 </body>
 </html>
 

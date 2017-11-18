@@ -13,9 +13,9 @@ include( $base_dir . '/includes/html-app-header.php' );
 
 
 
-<body class="home-page home-page--v2">
+<body class="home-page">
 
-    <div class="bg-images-rotating-banner">
+    <div class="bg-images">
         <?php /* Include Bg Images List */ echo $bgImages; ?>
     </div>
 
@@ -344,7 +344,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
             </div>
 
         </div>
-        
+
         <div class="container12">
 
             <div class="item column4">

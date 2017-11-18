@@ -105,9 +105,9 @@ foreach ($bgs as $ID => $img) {
     $currentBgName = $ID;
     $currentBg = $img;
     $bgImages .= '
-    <div class="bg-img bg-img--rotating-banner bg-img-' . $i . '">
+    <div class="bg-img bg-img--item-' . $i . '">
         <style>
-            .bg-img-' . $i . ' {
+            .bg-img--item-' . $i . ' {
                 background-image: url("/assets/img/BGS/' . $currentBg['filename'] . '");
                 background-color: ' . $currentBg['hexcolor'] . ';
             }

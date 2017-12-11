@@ -132,16 +132,8 @@ $(document).ready(function(){
     // VARIABLES FOR RUN ON RESIZE
     // these vars i don't want to override when i rerun the function
     var homePage = $('body.home-page'),
-        logoContent = $('#welcome .content-wrap'),
-        logoImg = $('#welcome .content-wrap .logo.hidden-mobile'),
-        logoGroup = $('#welcome .logogroup'),
-        welcomeHeight,
-        logoContentHeight,
-        logoImgHeight,
-        bgImageHeight,
         isMobile = false,
         isSmallMobile = false,
-        isHomePage = false,
         isLogoLoaded = false;
 
     // RERUN ON RESIZE
@@ -149,20 +141,19 @@ $(document).ready(function(){
     // screen changes could be b/c of development or b/c of mobile-related screen size changes on scroll, or anything else
     function rerunOnResize() {
 
-        logoGroup.removeClass('logogroup--hide-elements-when-short');
-
         // VARIABLES
         var winHeight = $(window).height(),
             winWidth = $(window).width(),
             navbarHeight = $('#navbar').innerHeight(),
             contactTop = $('#contact').offset().top;
 
+        // RUN ONLY ON HOMEPAGE
         if (homePage.length) {
-            isHomePage = true;
-            welcomeHeight = $('#welcome').innerHeight();
-            logoContentHeight = logoContent.innerHeight();
-            logoImgHeight = logoImg.height();
-            bgImageHeight = welcomeHeight - navbarHeight; // using welcomeHeight instead of winHeight fixes a bg-img height 'jump' that happens on mobile browsers
+            var welcomeHeight = $('#welcome').innerHeight();
+            var bgImageHeight = welcomeHeight - navbarHeight; // using welcomeHeight instead of winHeight fixes a bg-img height 'jump' that happens on mobile browsers
+
+            // SET BG IMG HEIGHT
+            $('.bg-images').css('height', bgImageHeight + 'px');
         }
 
 
@@ -176,36 +167,6 @@ $(document).ready(function(){
         // SET 'STICKY WRAPPER' NAVBAR HEIGHT
         // helps with funky jump when nav becomes affixed on home page
         $('.sticky-wrapper').css({height: navbarHeight});
-
-
-        // RUN THIS ONLY ON HOME PAGE
-        if (isHomePage === true) {
-
-            // SET BG IMG HEIGHT
-            $('.bg-images').css('height', bgImageHeight + 'px');
-
-            // SET LOGO HEIGHT
-            function getLogoImgHeight() {
-                if (isLogoLoaded === false) {
-                    logoImg.load(function() {
-                        logoImgHeight = logoImg.height();
-                        logoContentHeight = logoContent.innerHeight();
-                        isLogoLoaded = true;
-                        hideElemWhenShort();
-                    });
-                } else {
-                    hideElemWhenShort();
-                }
-            }
-            getLogoImgHeight();
-
-            // REMOVE WELCOME CONTENT WHEN VIEWPORT IS SMALL
-            function hideElemWhenShort() {
-                if ((welcomeHeight - navbarHeight) < (logoContentHeight + 30)) {
-                    logoGroup.addClass('logogroup--hide-elements-when-short');
-                }
-            }
-        }
 
 
         // BEGIN FUNCTIONS THAT DEAL WITH SCROLLING

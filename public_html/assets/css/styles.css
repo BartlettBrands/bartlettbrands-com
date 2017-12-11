@@ -216,8 +216,8 @@ section {padding-top:100px; padding-bottom:100px; background-color:#fff; positio
     WELCOME SECTION (z-index: -10)
 ------------------------------------ */
 section#welcome {height:100%; clear:both; background-color:transparent; padding:0; text-align:left; z-index:auto;}
-section#welcome .content-wrap {position:fixed; top:45%; left:50%; transform:translate(-50%,-50%) !important;}
-section#welcome .logogroup {font-size:15px; width:45%; margin:0 10px; position:relative; z-index:4; text-align:center; display:inline-block;}
+section#welcome .content-wrap {position:fixed; top:45%; left:0; width:47.5%; transform:translate(0,-50%) !important; text-align:center;}
+section#welcome .logogroup {font-size:15px; margin:0 10px; position:relative; z-index:4; text-align:center; display:inline-block;}
 section#welcome .logo {margin:0 auto; width:14em; margin-bottom:1.5em;}
 section#welcome .logo-name {font-size:1.5em; padding:0.45em 0; letter-spacing:0.67em; white-space:nowrap; margin:0 auto 1.5em; background-color:transparent; color:#000; font-weight:normal;}
 section#welcome .logo-subtext {font-size:1.7em; font-weight:bold; letter-spacing:0.12em; color:#000; margin-bottom:0.75em;}
@@ -479,6 +479,10 @@ body.work-page .nav-wrap hr.title-underline {display:none;}
 /* -------------------------------------------------------------------------------------------------------------
     MEDIA STYLES
 -------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-height:800px) {
+    section#welcome .logogroup {font-size:1.875vh;} // 15px % 800px
+}
+
 @media screen and (min-width:768px) {
     section#client-compliments .container12:last-of-type .column6 {margin-bottom:0;}
 }
@@ -488,6 +492,10 @@ body.work-page .nav-wrap hr.title-underline {display:none;}
 
     section#services a.service-item .services-title {letter-spacing:3px;}
     section#services a.service-item .services-list {letter-spacing:1px;}
+}
+
+@media screen and (max-height:800px) and (max-width:1160px) {
+    section#welcome .logogroup {font-size:1.75vh;} // 14px % 800px
 }
 
 @media screen and (max-width:959px) {

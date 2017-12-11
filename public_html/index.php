@@ -23,7 +23,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <?php // WELCOME
        // this needs a #welcome because of justmotion.js (whatever that is) ?>
     <section id="welcome">
-        <div class="content-wrap container12">
+        <div class="content-wrap">
             <div class="logogroup">
                 <img class="logo" src="assets/img/brand-logo-transparent.png" alt="Bartlett Brands">
                 <h1 class="logo-name">Bartlett Brand<span class="last-letter">s</span></h1>

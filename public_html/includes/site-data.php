@@ -625,46 +625,25 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'navProjectType'    => 'Design',
     ),
 
-    'Gift Good 2016' => array(
-        'url'               => 'giftgood2016',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'In 2016, Bartlett Brands is giving by giving back to local charities that support women and children. We’re Gifting Good. Happy holidays to our clients, friends and millennials everywhere.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'strategy, branding, messaging, design, marketing',
-        'navImg'            => 'assets/img/PROJECTS/giftgood2016/giftgood-holiday2016-cover.gif',
-        'navProjectType'    => 'Branding & Charity',
-        'client'            => 'Holidays, Inc.',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>The holidays may be nice. But holiday customers had gotten naughty—more interested in the latest Snap than the spirit of the season.</p>
-                                <p>Holidays, Inc. came to us in need of a refresh to help them appeal to millennials.  After six months of brand strategizing, we realized that the holidays are not about the perfect positioning of cold-pressed snowflakes or sustainable packaging made from reindeer droppings. They’re about celebrating the true essence of the Holidays, Inc. brand—the spirit of giving.</p>
-                                <p>In 2016, Bartlett Brands is giving by giving back to local charities that support women and children. We’re Gifting Good.</p>
-                                <p>Happy holidays to our clients, friends and millennials everywhere.</p>',
-        'projectServices'   => 'Competitive Season Analysis, Multi-faith Immersion, Executive Workshop with Lead Elves, Mistletoe Research, Dreidel Alignment, Volunteering, Adopting a Family, Fulfilling Holiday Wish Lists, Teen Mentoring',
-        'projectSiteName'   => 'bartlettbrands.com',
-        'projectSiteUrl'    => 'http://www.bartlettbrands.com/',
-    ),
 
-    'Gift Good 2015' => array(
+    'Gift Good' => array(
         'url'               => 'giftgood',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'We turned the gifting tables on the typical holiday agency present by donating our clients’ holiday gifts, volunteer days and other actual necessities to five Bay Area charities focused on helping women.',
+        'metaDescription'   => 'When the holidays roll around, we ditch the fancy client presents and boozy parties—and show our appreciation by giving back to those who really need it.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
-        'navSortingClasses' => 'marketing',
-        'navImg'            => 'assets/img/PROJECTS/giftgood/giftgood-holiday2015-cover.jpg',
+        'navSortingClasses' => 'strategy, branding, messaging, design, marketing',
+        'navImg'            => 'assets/img/PROJECTS/giftgood/giftgood-cover.gif',
         'navProjectType'    => 'Red, White &amp; Filled With Hope',
         'client'            => 'To All of Them',
         'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>2015 was a good year for Bartlett Brands and for our clients.</p>
-                                <p>As the holidays rolled around, we began the typical agency hustle to come up with the world&#39s most incredible client holiday present. After completing a comprehensive audit of our clients’ wants and desires, we realized they had no need for yet another gift basket or any other standard agency swag.</p>
-                                <p>We donated what could have been our clients’ gifts to five Bay Area charities focused on helping women and families—in the form of actual necessities as well as volunteer days. Then, we surprised our clients with a Gift Good tote bag filled with hope, instead of a bunch of stuff. Because who needs another organic, artisanal fruitcake handmade with berries locally grown on a sustainable farm anyway?</p>
-                                <p>Happy Holidays to our clients and partners. Keep the good going in 2016.</p>',
+        'projectHtmlDesc'   => '<p>Stick with the Good.</p>
+                                <p>When the holidays roll around, we ditch the fancy client presents and boozy parties—and show our appreciation by giving back to those who really need it. Since 2015, we’ve been Gifting Good by donating to local charities that support women and children. </p>
+                                <p>Happy Holidays to our clients, partners and friends. Keep the good going.</p>',
         'projectServices'   => 'Wish List Donations, Volunteer Days',
-        'projectSiteName'   => 'bartlettbrands.com',
-        'projectSiteUrl'    => 'http://www.bartlettbrands.com/',
+        'projectSiteName'   => 'Download Stickers',
+        'projectSiteUrl'    => 'https://itunes.apple.com/us/app/stick-with-the-good/id1318400479?mt=8',
     ),
 
 );

@@ -19,12 +19,22 @@ include( $base_dir . '/includes/html-app-header.php' );
 
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
-    <img src="assets/img/PROJECTS/giftgood/giftgood-holiday2015-1.jpg" alt="Gift Good Holiday 2015 | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-1.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-2.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <iframe src="https://player.vimeo.com/video/247557964?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <img src="assets/img/PROJECTS/giftgood/giftgood-4.gif" alt="Gift Good Holiday | Bartlett Brands">
+    <a href="https://itunes.apple.com/us/app/stick-with-the-good/id1318400479?mt=8" target="_blank"><img src="assets/img/PROJECTS/giftgood/giftgood-5.gif" alt="Gift Good Holiday | Bartlett Brands"></a>
+    <img src="assets/img/PROJECTS/giftgood/giftgood-6.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-7.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <iframe src="//player.vimeo.com/video/194091312?byline=0&amp;portrait=0&amp;badge=0" allowfullscreen></iframe>
+    <img src="assets/img/PROJECTS/giftgood/giftgood-9.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-10.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-11.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-12.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-13.jpg" alt="Gift Good Holiday | Bartlett Brands">
     <iframe src="//player.vimeo.com/video/149318160?byline=0&amp;portrait=0&amp;badge=0" allowfullscreen></iframe>
-    <img src="assets/img/PROJECTS/giftgood/giftgood-holiday2015-3.jpg" alt="Gift Good Holiday 2015 | Bartlett Brands">
-    <img src="assets/img/PROJECTS/giftgood/giftgood-holiday2015-4.jpg" alt="Gift Good Holiday 2015 | Bartlett Brands">
-    <img src="assets/img/PROJECTS/giftgood/giftgood-holiday2015-5.jpg" alt="Gift Good Holiday 2015 | Bartlett Brands">
-    <img src="assets/img/PROJECTS/giftgood/giftgood-holiday2015-7.jpg" alt="Gift Good Holiday 2015 | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-15.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-16.jpg" alt="Gift Good Holiday | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

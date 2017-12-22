@@ -278,9 +278,9 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
 
         <div class="container12">
             <div class="column6">
-                <p class="common-center"><q>I have worked with Bartlett Brands at two different restaurant companies, COYA and the MINA Group. The team is dedicated, detailed and delivers the highest quality every time, on time. Rebecca has never promised and not come through. She is well connected and up to speed with all the trends in our&nbsp;industry.</q></p>
+                <p class="common-center"><q>I have worked with Bartlett Brands at two different restaurant groups, Dogus Group and the MINA Group. The team is dedicated, detailed and delivers the highest quality every time, on time. Rebecca has never promised and not come through. She is well connected and up to speed with all the trends in our&nbsp;industry.</q></p>
                 <h4 class="h2 compliment-name">Yavuz Pehlivanlar</h4>
-                <h6 class="h6 compliment-position">C.E.O. COYA Americas</h6>
+                <h6 class="h6 compliment-position">Executive V.P., Dogus Group</h6>
             </div>
             <div class="column6">
                 <p class="common-center"><q>Bartlett Brands brought insight and perspective to every conversation. I could always count on them to collaborate but also challenge me to think harder and bigger. I found myself feeling reenergized and seeing new, amazing possibilities for the brand. I would definitely work with them again.</q></p>

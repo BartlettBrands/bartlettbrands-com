@@ -19,7 +19,6 @@ include( $base_dir . '/includes/html-app-header.php' );
 
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
-    <img src="assets/img/PROJECTS/giftgood/giftgood-1.jpg" alt="Gift Good Holiday | Bartlett Brands">
     <img src="assets/img/PROJECTS/giftgood/giftgood-2.jpg" alt="Gift Good Holiday | Bartlett Brands">
     <iframe src="https://player.vimeo.com/video/247557964?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <img src="assets/img/PROJECTS/giftgood/giftgood-4.gif" alt="Gift Good Holiday | Bartlett Brands">

@@ -99,7 +99,7 @@ $pages = array(
                                 <p>What can you expect from me? I rarely speak with an indoor voice, usually prefer standing to sitting and always promise beautifully creative solutions that are unexpected, relevant and interesting.</p>',
         'urlInstagram'      => 'http://instagram.com/lovebeckybb',
         'urlLinkedin'       => 'http://www.linkedin.com/pub/rebecca-bartlett/4/661/222',
-        'urlTumblr'         => 'http://wandererbarcelona.tumblr.com/',
+        'urlTumblr'         => 'http://wandererbarcelona-blog.tumblr.com/',
     ),
     'Annette McCormick' => array(
         'url'               => 'annette-mccormick',

@@ -116,7 +116,7 @@ $(document).ready(function(){
         // use timeout to wait on calling the function again.
         window.setTimeout(function() {
             showBgImage();
-        }, 3000);
+        }, 800);
     }
 
 

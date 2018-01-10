@@ -30,9 +30,21 @@ $bgs = array(
         'filename' => 'bb-splash-biossance.jpg',
     ),
     2 => array(
-        'filename' => 'bb-splash-naya.jpg',
+        'filename' => 'bb-splash-saucyasian.jpg',
     ),
     3 => array(
+        'filename' => 'bb-splash-paula.jpg',
+    ),
+	4 => array(
+        'filename' => 'bb-splash-naya.jpg',
+    ),
+	5 => array(
+        'filename' => 'bb-splash-freya.jpg',
+    ),
+	6 => array(
+        'filename' => 'bb-splash-camp.jpg',
+    ),
+	7 => array(
         'filename' => 'bb-splash-ipsy.jpg',
     ),
 );

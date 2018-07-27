@@ -299,7 +299,7 @@ $pages = array(
         'navProjectType'    => 'Branding &amp; Design',
         'client'            => 'Da Mario',
         'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Food is life and life is good.</p>
+        'projectHtmlDesc'   => '<p>Italian that’s true to our home.</p>
                                <p>Settle in at a real Italian table, where rib eye comes after your pasta, ricotta pairs perfectly with chocolate and nine servings are par for the courses.</p>',
         'projectServices'   => 'Brand Development, Identity, Collateral, Brand Guidelines',
         'projectSiteName'   => 'damariorestaurant.com',

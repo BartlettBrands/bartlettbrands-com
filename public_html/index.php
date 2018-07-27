@@ -354,7 +354,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                 <img src="assets/img/PROMOS/logo-clio.png" alt="Clio">
             </div>
             <div class="item column4">
-                <img src="assets/img/PROMOS/logo-beautyid.png" alt="Beauty ID Awards">
+                <img src="assets/img/PROMOS/logo-dieline-color.png" alt="Beauty ID Awards">
             </div>
 
         </div>

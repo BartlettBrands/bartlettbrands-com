@@ -150,7 +150,7 @@ $pages = array(
         'url'               => 'lauren-golik',
         'pageType'          => 'teammate',
         'htmlSpecialName'   => '',
-        'metaDescription'   => '',
+        'metaDescription'   => 'Associate Art Director at Bartlett Brands.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
         'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-lauren.jpg',
@@ -162,6 +162,7 @@ $pages = array(
         'urlLinkedin'       => '',
         'urlTumblr'         => '',
     ),
+	
     'Carolina Pistone' => array(
         'url'               => 'carolina-pistone',
         'pageType'          => 'teammate',
@@ -173,12 +174,51 @@ $pages = array(
         'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-carolina-square.jpg',
         'jobPosition'       => 'Graphic Designer',
         'htmlBio'           => '<p>With an eclectic perspective developed from life in Argentina, several East Coast states and finally the City by the Bay, my unique style is somewhere between the worldly and the whimsical.</p>
-                                <p>As a graduate of The Academy of Art in San Francisco, I started on my path to becoming a multi-disciplined design pro at… Path (the other Facebook). I embrace ingenuity and flexibility with every design challenge. Identity, illustration, packaging, web design, app design and social media marketing—I’m on it.</p>
-                                <p>What can you expect from me? <br>Ninja-like design skills and a refreshing millennial perspective. #splash</p>',
-        'urlInstagram'      => 'http://instagram.com/_carubi_',
+                                <p>As a graduate of The Academy of Art in San Francisco, I started on my path to becoming a multi-disciplined design pro at… Path (the other Facebook). I embrace ingenuity and flexibility with every design challenge. Identity, illustration, packaging, print, digital design and social media marketing—I’m on it.</p>
+                                <p>What can you expect from me? <br>A curiosity for anything creative, with authenticity and gut. </p>',
+        'urlInstagram'      => '',
         'urlLinkedin'       => 'https://www.linkedin.com/profile/view?id=141571753&trk=nav_responsive_tab_profile',
-        'urlTumblr'         => 'http://clpcm.tumblr.com/',
+        'urlTumblr'         => '',
     ),
+	
+	    'Luisa Betancourt' => array(
+        'url'               => 'luisa-betancourt',
+        'pageType'          => 'teammate',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Graphic Designer at Bartlett Brands.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-luisa.jpg',
+        'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-luisa-square.jpg',
+        'jobPosition'       => 'Graphic Designer',
+        'htmlBio'           => '<p>Born in Venezuela, I grew up in Miami—and swapped the blazing sun for Karl the Fog when I went to the Academy of Art University for a BFA in Graphic Design. And after a stint working in Barcelona, the Bay beckoned me back.</p>
+                                <p>I worked in advertising as an art director and designer at Eleven Inc., Rumble Creative and Pereira O’Dell before finding a new forever home at Bartlett Brands. My love for design stems from variety, possibility and constant change—but branding design is my new forever focus.</p>
+                                <p>What can you expect from me? <br>A little bit of everything, with coffee on the side.</p>',
+        'urlInstagram'      => '',
+        'urlLinkedin'       => 'https://www.linkedin.com/in/betancourtluisa/',
+        'urlTumblr'         => '',
+    ),
+	
+		    'Angela Haughney' => array(
+        'url'               => 'angela-haughney',
+        'pageType'          => 'teammate',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Project &amp; Production Manager at Bartlett Brands.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-angela.jpg',
+        'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-angela-square.jpg',
+        'jobPosition'       => 'Project &amp; Production Manager',
+        'htmlBio'           => '<p>Born and raised in Maryland, I studied biology and journalism in Virginia. After graduating, I started as a print designer for the local newspaper where I was responsible for the daily front page and sports sections.</p>
+                                <p>After several years, the lure of living in California became too strong—and I packed my bags for San Francisco. I freelanced at various tech companies and nonprofits before finding my home at Bare Escentuals, where I led the Global Packaging Production team through product launches, annual holiday programs and two complete skincare redesigns. I honed my regulatory knowledge and am a master at making primary and secondary packaging globally compliant (including OTC products).</p>
+								<p>After Bare Escentuals, I did a 180 and switched to interactive design and production at Nest Labs. I partnered with art directors, writers and producers to create website and digital assets for product launch campaigns. I also worked with the UX/UI and localization teams to create translated UI screens for international launches.</p>
+								<p>I believe a holistic brand approach is best, where the customer is engaged and surprised throughout the experience—from packaging to emails to social media.</p>
+                                <p>What can you expect from me? <br>I thrive on aggressive deadlines and start every day with a cup of tea.</p>',
+        'urlInstagram'      => '',
+        'urlLinkedin'       => 'https://www.linkedin.com/in/angela-haughney/',
+        'urlTumblr'         => '',
+    ),
+	
     'Helga The Brand Wench' => array(
         'url'               => 'helga',
         'pageType'          => 'teammate',
@@ -246,7 +286,26 @@ $pages = array(
     //  :projectSiteUrl     = the url of the client or project link
     //  :projectHtmlDesc    = the project desription using html
 
-'Biossance' => array(
+'Da Mario' => array(
+        'url'               => 'damario',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Food is life and life is good. Italian that’s true to our home.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/damario/damario-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Da Mario',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Food is life and life is good.</p>
+                               <p>Settle in at a real Italian table, where rib eye comes after your pasta, ricotta pairs perfectly with chocolate and nine servings are par for the courses.</p>',
+        'projectServices'   => 'Brand Development, Identity, Collateral, Brand Guidelines',
+        'projectSiteName'   => 'damariorestaurant.com',
+        'projectSiteUrl'    => 'http://www.damariorestaurant.com/',
+    ),
+	
+	'Biossance' => array(
         'url'               => 'biossance',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',

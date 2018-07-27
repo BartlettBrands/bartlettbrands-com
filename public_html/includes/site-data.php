@@ -291,7 +291,7 @@ $pages = array(
         'url'               => 'damario',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'Food is life and life is good. Italian that’s true to our home.',
+        'metaDescription'   => 'Meet la famiglia DaMario. Classically prepared cuisine paired with a classically modern brand concept. #daMariolife',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
         'navSortingClasses' => 'branding messaging design',
@@ -300,8 +300,10 @@ $pages = array(
         'client'            => 'Da Mario',
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>Italian that’s true to our home.</p>
-                               <p>Settle in at a real Italian table, where rib eye comes after your pasta, ricotta pairs perfectly with chocolate and nine servings are par for the courses.</p>',
-        'projectServices'   => 'Brand Development, Identity, Collateral, Brand Guidelines',
+                               <p>In Dallas, Italian food means pizza served delivery-style. Enter DaMario, located in the The Star (the world headquarters of the Dallas Cowboys). They’re shaking parmesan over those perceptions with classically prepared flavors and a classically modern brand concept.</p>
+							   <p>We took our inspiration from the heart of Italian culture, the family, and developed a storytelling brand around la famiglia DaMario, complete with an 80-page saga detailing the lives of every member of the DaMario family (alongside over 500 wine options).</p>
+							   <p>Food is life and life is good.</p>',
+        'projectServices'   => 'Branding, Positioning, Taglines, Identity, Collateral',
         'projectSiteName'   => 'damariorestaurant.com',
         'projectSiteUrl'    => 'http://www.damariorestaurant.com/',
     ),

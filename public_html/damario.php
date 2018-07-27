@@ -23,6 +23,7 @@ include( $base_dir . '/includes/html-app-header.php' );
 	<img src="assets/img/PROJECTS/damario/damario-branding-design-2.jpg" alt="Da Mario Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/damario/damario-branding-design-3.jpg" alt="Da Mario Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/damario/damario-branding-design-4.jpg" alt="Da Mario Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/damario/damario-branding-design-4.2.jpg" alt="Da Mario Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/damario/damario-branding-design-5.jpg" alt="Da Mario Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/damario/damario-branding-design-6.gif" alt="Da Mario Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/damario/damario-branding-design-7.jpg" alt="Da Mario Branding + Design | Bartlett Brands">

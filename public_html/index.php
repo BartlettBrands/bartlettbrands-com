@@ -116,15 +116,15 @@ include( $base_dir . '/includes/html-app-header.php' );
                 </div>
             </a>
 
-            <?php // HIGHLIGHT 6 - "Naya" ?>
-            <a class="column4 item" href="<?php echo $pages['Naya']['url']; ?>" data-url="<?php echo $pages['Naya']['url']; ?>" title="Naya">
-                <img src="<?php echo $pages['Naya']['navImg']; ?>" alt="Preview of Naya">
+            <?php // HIGHLIGHT 6 - "Da Mario" ?>
+            <a class="column4 item" href="<?php echo $pages['Da Mario']['url']; ?>" data-url="<?php echo $pages['Da Mario']['url']; ?>" title="Da Mario">
+                <img src="<?php echo $pages['Da Mario']['navImg']; ?>" alt="Preview of Naya">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>
                         <hr>
-                        <h4 class="h4 project-name">Naya</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Naya']['navProjectType']; ?></h5>
+                        <h4 class="h4 project-name">Da Mario</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Da Mario']['navProjectType']; ?></h5>
                     </div>
                 </div>
             </a>

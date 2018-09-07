@@ -27,13 +27,13 @@ $bgs = array(
         'filename' => 'bb-splash-colada.jpg',
     ),
     1 => array(
-        'filename' => 'bb-splash-biossance.jpg',
+        'filename' => 'bb-splash-paula.jpg',
     ),
     2 => array(
         'filename' => 'bb-splash-saucyasian.jpg',
     ),
     3 => array(
-        'filename' => 'bb-splash-paula.jpg',
+        'filename' => 'bb-splash-biossance.jpg',
     ),
 	4 => array(
         'filename' => 'bb-splash-naya.jpg',
@@ -707,7 +707,27 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
     ),
 
     // PROJECT GROUPS
-    'Logos' => array(
+    'Naming' => array(
+        'url'               => 'naming',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'What’s in a name? Everything.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'messaging',
+        'navImg'            => 'assets/img/PROJECTS/naming/naming-branding-cover.jpg',
+        'navProjectType'    => 'Messaging',
+        'client'            => '',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>What’s in a name? Everything.</p>
+                                <p>It’s your first impression and your constant calling card. No matter what kind of business you’re in, you need a name that stands up and stands out for all the right reasons.</p>
+                                <p>When it comes to naming, we whip up our special sauce and serve up names you want to say and shout, wear on a shirt and write in a hashtag. </p>',
+        'projectServices'   => 'Naming',
+        'projectSiteName'   => '',
+        'projectSiteUrl'    => '',
+    ),
+	
+	'Logos' => array(
         'url'               => 'logos',
         'pageType'          => 'projectGroup',
         'htmlSpecialName'   => '',

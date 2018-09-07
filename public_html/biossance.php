@@ -26,7 +26,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-5.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-6.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-7.gif" alt="Biossance Branding + Design | Bartlett Brands">
-
+	<img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-8.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-13.gif" alt="Biossance Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/biossance/biossance-branding-packaging-10.jpg" alt="Biossance Branding + Design | Bartlett Brands">
     <iframe src="//player.vimeo.com/video/213582843?byline=0&amp;portrait=0&amp;badge=0" allowfullscreen></iframe>

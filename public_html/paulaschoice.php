@@ -22,11 +22,12 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-1.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-2.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-3.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
-    <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-4.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
-    <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-5.gif" alt="Paula's Choice Branding + Design | Bartlett Brands">
+    <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-4.gif" alt="Paula's Choice Branding + Design | Bartlett Brands">
+    <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-5.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-6.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-7.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
     <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-8.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-9.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

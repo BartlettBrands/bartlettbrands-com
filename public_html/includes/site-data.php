@@ -287,6 +287,27 @@ $pages = array(
     //  :projectSiteUrl     = the url of the client or project link
     //  :projectHtmlDesc    = the project desription using html
 
+'Paula’s Choice' => array(
+        'url'               => 'paulaschoice',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Skincare that’s a matter of fact.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'all branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Marketing',
+        'client'            => 'Paula’s Choice',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Truth in Beauty.</p>
+                               <p>Paula Begoun didn’t set out to disrupt the beauty industry. But after 30 years of calling the industry out on their B.S., it’s clear that she was first to make dream creams without their heads in the clouds.</p>
+							   <p>Paula’s Choice, a global skincare brand that now features over 300 skincare products, came to us after noting that times had changed and the brand had lost its voice.</p>
+							   <p>We strategically repositioned the brand to appeal to the discerning customer who wants radical results—without the high price or the marketing hype. Skincare that is a matter of fact. Then, we redesigned the brand’s identity and marketing approach from the ground up, including developing a full packaging overhaul that makes shopping the assortment easy.</p>',
+        'projectServices'   => 'Brand Positioning, Identity, Package Design, Web Design, Brand Guidelines, Digital Standards, Social Media Standards, Collateral, Photography, Video',
+        'projectSiteName'   => 'paulaschoice.com',
+        'projectSiteUrl'    => 'https://www.paulaschoice.com/',
+    ),	
+	
 'Da Mario' => array(
         'url'               => 'damario',
         'pageType'          => 'project',

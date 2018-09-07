@@ -22,15 +22,14 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-1.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-2.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-3.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/patchology/patchology-website-design-5.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-4.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/patchology/patchology-website-design-5.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/patchology/patchology-website-design-6.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
+    <img src="assets/img/PROJECTS/patchology/patchology-website-design-7.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-8.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-9.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/patchology/patchology-website-design-7.gif" alt="Patchology Branding + Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/patchology/patchology-website-design-6.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-10.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-11.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/patchology/patchology-website-design-12.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

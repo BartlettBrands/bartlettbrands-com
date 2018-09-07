@@ -51,15 +51,15 @@ include( $base_dir . '/includes/html-app-header.php' );
             <h2 class="h2 section-title">Recent Projects</h2>
             <hr class="title-underline">
 
-            <?php // HIGHLIGHT 1 - "Ipsy" ?>
-            <a class="column4 item" href="<?php echo $pages['Ipsy']['url']; ?>" data-url="<?php echo $pages['Ipsy']['url']; ?>" title="Ipsy">
-                <img src="<?php echo $pages['Ipsy']['navImg']; ?>" alt="Preview of Ipsy">
+            <?php // HIGHLIGHT 1 - "Paula’s Choice" ?>
+            <a class="column4 item" href="<?php echo $pages['Paula’s Choice']['url']; ?>" data-url="<?php echo $pages['Paula’s Choice']['url']; ?>" title="Paula’s Choice">
+                <img src="<?php echo $pages['Paula’s Choice']['navImg']; ?>" alt="Preview of Paula’s Choice">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>
                         <hr>
-                        <h4 class="h4 project-name">Ipsy</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Ipsy']['navProjectType']; ?></h5>
+                        <h4 class="h4 project-name">Paula’s Choice</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Paula’s Choice']['navProjectType']; ?></h5>
                     </div>
                 </div>
             </a>

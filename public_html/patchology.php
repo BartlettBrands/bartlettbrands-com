@@ -30,6 +30,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-9.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-10.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/patchology/patchology-website-design-11.jpg" alt="Patchology Branding + Marketing | Bartlett Brands">
+	<p style=font-size:16px;>Collaboration Credit: In-house Art Director Kate Zane. Photo Stylist Caitie Cawley.</p>
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

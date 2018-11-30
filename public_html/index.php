@@ -51,7 +51,46 @@ include( $base_dir . '/includes/html-app-header.php' );
             <h2 class="h2 section-title">Recent Projects</h2>
             <hr class="title-underline">
 
-            <?php // HIGHLIGHT 1 - "Paula’s Choice" ?>
+			<?php // HIGHLIGHT 1 - "First Day" ?>
+            <a class="column4 item" href="<?php echo $pages['First Day']['url']; ?>" data-url="<?php echo $pages['First Day']['url']; ?>" title="First Day">
+                <img src="<?php echo $pages['First Day']['navImg']; ?>" alt="Preview of First Day">
+                <div class="hover-group">
+                    <div class="hover-group-inner">
+                        <h3 class="h3 project-category"><span>New Work</span></h3>
+                        <hr>
+                        <h4 class="h4 project-name">First Day</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['First Day']['navProjectType']; ?></h5>
+                    </div>
+                </div>
+            </a>
+
+            <?php // HIGHLIGHT 2 - "Ao" ?>
+            <a class="column4 item" href="<?php echo $pages['Ao']['url']; ?>" data-url="<?php echo $pages['Ao']['url']; ?>" title="Ao">
+                <img src="<?php echo $pages['Ao']['navImg']; ?>" alt="Preview of Ao">
+                <div class="hover-group">
+                    <div class="hover-group-inner">
+                        <h3 class="h3 project-category"><span>New Work</span></h3>
+                        <hr>
+                        <h4 class="h4 project-name">Ao</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Ao']['navProjectType']; ?></h5>
+                    </div>
+                </div>
+            </a>
+
+            <?php // HIGHLIGHT 3 - "Bamboo Asia" ?>
+            <a class="column4 item" href="<?php echo $pages['Bamboo Asia']['url']; ?>" data-url="<?php echo $pages['Bamboo Asia']['url']; ?>" title="Bamboo Asia">
+                <img src="<?php echo $pages['Bamboo Asia']['navImg']; ?>" alt="Preview of Bamboo Asia">
+                <div class="hover-group">
+                    <div class="hover-group-inner">
+                        <h3 class="h3 project-category"><span>New Work</span></h3>
+                        <hr>
+                        <h4 class="h4 project-name">Bamboo Asia</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Bamboo Asia']['navProjectType']; ?></h5>
+                    </div>
+                </div>
+            </a>
+			
+            <?php // HIGHLIGHT 4 - "Paula’s Choice" ?>
             <a class="column4 item" href="<?php echo $pages['Paula’s Choice']['url']; ?>" data-url="<?php echo $pages['Paula’s Choice']['url']; ?>" title="Paula’s Choice">
                 <img src="<?php echo $pages['Paula’s Choice']['navImg']; ?>" alt="Preview of Paula’s Choice">
                 <div class="hover-group">
@@ -64,7 +103,7 @@ include( $base_dir . '/includes/html-app-header.php' );
                 </div>
             </a>
 
-            <?php // HIGHLIGHT 2 - "Colada Shop" ?>
+            <?php // HIGHLIGHT 5 - "Colada Shop" ?>
             <a class="column4 item" href="<?php echo $pages['Colada Shop']['url']; ?>" data-url="<?php echo $pages['Colada Shop']['url']; ?>" title="Colada Shop">
                 <img src="<?php echo $pages['Colada Shop']['navImg']; ?>" alt="Preview of Colada Shop">
                 <div class="hover-group">
@@ -77,7 +116,7 @@ include( $base_dir . '/includes/html-app-header.php' );
                 </div>
             </a>
 
-            <?php // HIGHLIGHT 3 - "Biossance" ?>
+            <?php // HIGHLIGHT 6 - "Biossance" ?>
             <a class="column4 item" href="<?php echo $pages['Biossance']['url']; ?>" data-url="<?php echo $pages['Biossance']['url']; ?>" title="Biossance">
                 <img src="<?php echo $pages['Biossance']['navImg']; ?>" alt="Preview of Biossance">
                 <div class="hover-group">
@@ -89,45 +128,7 @@ include( $base_dir . '/includes/html-app-header.php' );
                     </div>
                 </div>
             </a>
-
-            <?php // HIGHLIGHT 4 - "Saucy Asian" ?>
-            <a class="column4 item" href="<?php echo $pages['Saucy Asian']['url']; ?>" data-url="<?php echo $pages['Saucy Asian']['url']; ?>" title="Saucy Asian">
-                <img src="<?php echo $pages['Saucy Asian']['navImg']; ?>" alt="Preview of Saucy Asian">
-                <div class="hover-group">
-                    <div class="hover-group-inner">
-                        <h3 class="h3 project-category"><span>New Work</span></h3>
-                        <hr>
-                        <h4 class="h4 project-name">Saucy Asian</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Saucy Asian']['navProjectType']; ?></h5>
-                    </div>
-                </div>
-            </a>
-
-            <?php // HIGHLIGHT 5 - "Freya" ?>
-            <a class="column4 item" href="<?php echo $pages['Freya']['url']; ?>" data-url="<?php echo $pages['Freya']['url']; ?>" title="Freya">
-                <img src="<?php echo $pages['Freya']['navImg']; ?>" alt="Preview of Freya">
-                <div class="hover-group">
-                    <div class="hover-group-inner">
-                        <h3 class="h3 project-category"><span>New Work</span></h3>
-                        <hr>
-                        <h4 class="h4 project-name">Freya</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Freya']['navProjectType']; ?></h5>
-                    </div>
-                </div>
-            </a>
-
-            <?php // HIGHLIGHT 6 - "Da Mario" ?>
-            <a class="column4 item" href="<?php echo $pages['Da Mario']['url']; ?>" data-url="<?php echo $pages['Da Mario']['url']; ?>" title="Da Mario">
-                <img src="<?php echo $pages['Da Mario']['navImg']; ?>" alt="Preview of Naya">
-                <div class="hover-group">
-                    <div class="hover-group-inner">
-                        <h3 class="h3 project-category"><span>New Work</span></h3>
-                        <hr>
-                        <h4 class="h4 project-name">Da Mario</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Da Mario']['navProjectType']; ?></h5>
-                    </div>
-                </div>
-            </a>
+			
             <div class="common-center"><a href="work" class="button">See All Projects<br><?php echo $svg_icon_arrow; ?></a></div>
         </div>
     </section>

@@ -24,31 +24,40 @@ $site = array(
 // Index Page Images
 $bgs = array(
     0 => array(
+        'filename' => 'bb-splash-ao.jpg',
+    ),
+	1 => array(
         'filename' => 'bb-splash-colada.jpg',
     ),
-    1 => array(
+    2 => array(
         'filename' => 'bb-splash-paula.jpg',
     ),
-    2 => array(
-        'filename' => 'bb-splash-saucyasian.jpg',
-    ),
 	3 => array(
-        'filename' => 'bb-splash-paulaproduct.jpg',
+        'filename' => 'bb-splash-firstday.jpg',
     ),
     4 => array(
-        'filename' => 'bb-splash-biossance.jpg',
+        'filename' => 'bb-splash-saucyasian.jpg',
     ),
 	5 => array(
-        'filename' => 'bb-splash-naya.jpg',
+        'filename' => 'bb-splash-paulaproduct.jpg',
     ),
-	6 => array(
-        'filename' => 'bb-splash-freya.jpg',
+    6 => array(
+        'filename' => 'bb-splash-biossance.jpg',
     ),
 	7 => array(
-        'filename' => 'bb-splash-camp.jpg',
+        'filename' => 'bb-splash-naya.jpg',
     ),
 	8 => array(
+        'filename' => 'bb-splash-freya.jpg',
+    ),
+	9 => array(
+        'filename' => 'bb-splash-aoproduct.jpg',
+    ),
+	10 => array(
         'filename' => 'bb-splash-ipsy.jpg',
+    ),
+	11 => array(
+        'filename' => 'bb-splash-camp.jpg',
     ),
 );
 
@@ -289,7 +298,70 @@ $pages = array(
     //  :projectSiteName    = the name of the url to which you link
     //  :projectSiteUrl     = the url of the client or project link
     //  :projectHtmlDesc    = the project desription using html
-
+	
+'First Day' => array(
+        'url'               => 'firstday',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'At First Day, Your Health is Second to None.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/firstday/firstday-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'First Day',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Rise Healthy. Shine Strong.</p>
+                               <p>Not all vitamins are created equal—and neither are all wellness brands.</p>
+                               <p>We brought our A+ game with a brand designed to make the grade for today’s perceptive parents. Packaging that pops and doubles as a kid’s cup after your 30 days is up. A cool coloring brochure that creates an immediate Insta unboxing moment. And names like “Daily Enrichments” for the multivitamin Yummy Gummies, so parents feel super smart about their choice.</p>
+							   <p>Everyday should feel like a first.</p>',
+        'projectServices'   => 'Brand Development, Positioning, Identity, Package Design, Shipping Experience',
+        'projectSiteName'   => 'firstdaylife.com',
+        'projectSiteUrl'    => 'https://www.firstdaylife.com',
+    ),
+	
+'Ao' => array(
+        'url'               => 'ao',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Born from Wild Abundance. Cultivated by Cold Process.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/ao/ao-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Brand Strategy &amp; Design',
+        'client'            => 'Ao Skincare',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Raw Nature. Refined Skincare.</p>
+                               <p>Imagine your skin in its native state of health—perfectly pristine, naked, raw, untouched by the elements.</p>
+                               <p>When Ao originally launched, the doctor-led brand focused on the science behind their formulations, but their story didn’t stand out and connect with consumers in a compelling way. Our strategy elevated the raw elements—cold processed active ingredients sourced in the New Zealand wild—and surfaced founder Dr. Gray’s evolutionary approach to skin health. A provocative visual expression and product communication strategy work together to create a brand that’s both wild and cultivated.</p>
+							   <p>This is beauty and branding from the brink.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Copywriting, Collateral, Photography, Brand Guidelines',
+        'projectSiteName'   => 'aoskincare.com',
+        'projectSiteUrl'    => 'https://www.aoskincare.com',
+    ),
+	
+'Bamboo Asia' => array(
+        'url'               => 'bambooasia',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Far East Flavors. West Coast Vibes.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/bambooasia/bamboo-asia-branding-design-cover.jpg',
+        'navProjectType'    => 'Brand Strategy &amp; Design',
+        'client'            => 'Bamboo Asia',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>East Eats West.</p>
+                               <p>Bamboo Asia had made its name as a Fi-Di staple for the grab-n-go lunch crowd. But when they were ready to start expanding, they realized the brand wasn’t as fresh as the food.</p>
+                               <p>We started with strategy, diving deep into the customer expectations and Bamboo Asia’s unique value proposition. Then we reinvented everything but the food to create a buzz-worthy new concept: Bamboo Asia Far Out Market—a mashup of Far East flavors and West Coast vibes. The new heart-worthy identity and hip interior design have customers lining up—literally. And everyone is hella’ welcome.</p>
+							   <p>Love, peace and far out food.</p>',
+        'projectServices'   => 'Positioning, Brand Strategy, Positioning, Identity, Interior Design, Collateral',
+        'projectSiteName'   => 'bambooasia.com',
+        'projectSiteUrl'    => 'https://www.bambooasia.com',
+    ),
+	
 'Paula’s Choice' => array(
         'url'               => 'paulaschoice',
         'pageType'          => 'project',
@@ -351,69 +423,6 @@ $pages = array(
         'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
         'projectSiteName'   => 'biossance.com',
         'projectSiteUrl'    => 'https://www.biossance.com/',
-    ),
-	
-'Bamboo Asia' => array(
-        'url'               => 'bambooasia',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Far East Flavors. West Coast Vibes.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design',
-        'navImg'            => 'assets/img/PROJECTS/bambooasia/bamboo-asia-branding-design-cover.jpg',
-        'navProjectType'    => 'Brand Strategy &amp; Design',
-        'client'            => 'Bamboo Asia',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>East Eats West.</p>
-                               <p>Bamboo Asia had made its name as a Fi-Di staple for the grab-n-go lunch crowd. But when they were ready to start expanding, they realized the brand wasn’t as fresh as the food.</p>
-                               <p>We started with strategy, diving deep into the customer expectations and Bamboo Asia’s unique value proposition. Then we reinvented everything but the food to create a buzz-worthy new concept: Bamboo Asia Far Out Market—a mashup of Far East flavors and West Coast vibes. The new heart-worthy identity and hip interior design have customers lining up—literally. And everyone is hella’ welcome.</p>
-							   <p>Love, peace and far out food.</p>',
-        'projectServices'   => 'Positioning, Brand Strategy, Positioning, Identity, Interior Design, Collateral',
-        'projectSiteName'   => 'bambooasia.com',
-        'projectSiteUrl'    => 'https://www.bambooasia.com',
-    ),
-	
-'Ao' => array(
-        'url'               => 'ao',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Born from Wild Abundance. Cultivated by Cold Process.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/ao/ao-branding-packaging-cover.jpg',
-        'navProjectType'    => 'Brand Strategy &amp; Design',
-        'client'            => 'Ao Skincare',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Raw Nature. Refined Skincare.</p>
-                               <p>Imagine your skin in its native state of health—perfectly pristine, naked, raw, untouched by the elements.</p>
-                               <p>When Ao originally launched, the doctor-led brand focused on the science behind their formulations, but their story didn’t stand out and connect with consumers in a compelling way. Our strategy elevated the raw elements—cold processed active ingredients sourced in the New Zealand wild—and surfaced founder Dr. Gray’s evolutionary approach to skin health. A provocative visual expression and product communication strategy work together to create a brand that’s both wild and cultivated.</p>
-							   <p>This is beauty and branding from the brink.</p>',
-        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Copywriting, Collateral, Photography, Brand Guidelines',
-        'projectSiteName'   => 'aoskincare.com',
-        'projectSiteUrl'    => 'https://www.aoskincare.com',
-    ),
-	
-'First Day' => array(
-        'url'               => 'firstday',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'At First Day, Your Health is Second to None.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'branding messaging design',
-        'navImg'            => 'assets/img/PROJECTS/firstday/firstday-branding-packaging-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'First Day',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Rise Healthy. Shine Strong.</p>
-                               <p>Not all vitamins are created equal—and neither are all wellness brands.</p>
-                               <p>We brought our A+ game with a brand designed to make the grade for today’s perceptive parents. Packaging that pops and doubles as a kid’s cup after your 30 days is up. A cool coloring brochure that creates an immediate Insta unboxing moment. And names like “Daily Enrichments” for the multivitamin Yummy Gummies, so parents feel super smart about their choice.</p>
-							   <p>Everyday should feel like a first.</p>',
-        'projectServices'   => 'Brand Development, Positioning, Identity, Package Design, Shipping Experience',
-        'projectSiteName'   => 'firstdaylife.com',
-        'projectSiteUrl'    => 'https://www.firstdaylife.com',
     ),
 	
 'Colada Shop' => array(

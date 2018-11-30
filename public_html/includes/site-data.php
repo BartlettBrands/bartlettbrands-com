@@ -179,7 +179,7 @@ $pages = array(
         'jobPosition'       => 'Graphic Designer',
         'htmlBio'           => '<p>With an eclectic perspective developed from life in Argentina, several East Coast states and finally the City by the Bay, my unique style is somewhere between the worldly and the whimsical.</p>
                                 <p>As a graduate of The Academy of Art in San Francisco, I started on my path to becoming a multi-disciplined design pro at… Path (the other Facebook). I embrace ingenuity and flexibility with every design challenge. Identity, illustration, packaging, print, digital design and social media marketing—I’m on it.</p>
-                                <p>What can you expect from me? <br>A curiosity for anything creative, with authenticity and gut. </p>',
+                                <p>What can you expect from me? <br>A curiosity for anything creative, authentic and instigative. </p>',
         'urlInstagram'      => '',
         'urlLinkedin'       => 'https://www.linkedin.com/profile/view?id=141571753&trk=nav_responsive_tab_profile',
         'urlTumblr'         => '',
@@ -331,7 +331,7 @@ $pages = array(
         'projectSiteUrl'    => 'http://www.damariorestaurant.com/',
     ),
 	
-	'Biossance' => array(
+'Biossance' => array(
         'url'               => 'biossance',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
@@ -352,7 +352,70 @@ $pages = array(
         'projectSiteName'   => 'biossance.com',
         'projectSiteUrl'    => 'https://www.biossance.com/',
     ),
-
+	
+'Bamboo Asia' => array(
+        'url'               => 'bambooasia',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Far East Flavors. West Coast Vibes.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/bambooasia/bamboo-asia-branding-design-cover.jpg',
+        'navProjectType'    => 'Brand Strategy &amp; Design',
+        'client'            => 'Bamboo Asia',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>East Eats West.</p>
+                               <p>Bamboo Asia had made its name as a Fi-Di staple for the grab-n-go lunch crowd. But when they were ready to start expanding, they realized the brand wasn’t as fresh as the food.</p>
+                               <p>We started with strategy, diving deep into the customer expectations and Bamboo Asia’s unique value proposition. Then we reinvented everything but the food to create a buzz-worthy new concept: Bamboo Asia Far Out Market—a mashup of Far East flavors and West Coast vibes. The new heart-worthy identity and hip interior design have customers lining up—literally. And everyone is hella’ welcome.</p>
+							   <p>Love, peace and far out food.</p>',
+        'projectServices'   => 'Positioning, Brand Strategy, Positioning, Identity, Interior Design, Collateral',
+        'projectSiteName'   => 'bambooasia.com',
+        'projectSiteUrl'    => 'https://www.bambooasia.com',
+    ),
+	
+'Ao' => array(
+        'url'               => 'ao',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Born from Wild Abundance. Cultivated by Cold Process.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/ao/ao-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Brand Strategy &amp; Design',
+        'client'            => 'Ao Skincare',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Raw Nature. Refined Skincare.</p>
+                               <p>Imagine your skin in its native state of health—perfectly pristine, naked, raw, untouched by the elements.</p>
+                               <p>When Ao originally launched, the doctor-led brand focused on the science behind their formulations, but their story didn’t stand out and connect with consumers in a compelling way. Our strategy elevated the raw elements—cold processed active ingredients sourced in the New Zealand wild—and surfaced founder Dr. Gray’s evolutionary approach to skin health. A provocative visual expression and product communication strategy work together to create a brand that’s both wild and cultivated.</p>
+							   <p>This is beauty and branding from the brink.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Copywriting, Collateral, Photography, Brand Guidelines',
+        'projectSiteName'   => 'aoskincare.com',
+        'projectSiteUrl'    => 'https://www.aoskincare.com',
+    ),
+	
+'First Day' => array(
+        'url'               => 'firstday',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'At First Day, Your Health is Second to None.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/firstday/firstday-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'First Day',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Rise Healthy. Shine Strong.</p>
+                               <p>Not all vitamins are created equal—and neither are all wellness brands.</p>
+                               <p>We brought our A+ game with a brand designed to make the grade for today’s perceptive parents. Packaging that pops and doubles as a kid’s cup after your 30 days is up. A cool coloring brochure that creates an immediate Insta unboxing moment. And names like “Daily Enrichments” for the multivitamin Yummy Gummies, so parents feel super smart about their choice.</p>
+							   <p>Everyday should feel like a first.</p>',
+        'projectServices'   => 'Brand Development, Positioning, Identity, Package Design, Shipping Experience',
+        'projectSiteName'   => 'firstdaylife.com',
+        'projectSiteUrl'    => 'https://www.firstdaylife.com',
+    ),
+	
 'Colada Shop' => array(
         'url'               => 'colada',
         'pageType'          => 'project',
@@ -372,27 +435,26 @@ $pages = array(
         'projectSiteName'   => 'coladashop.com',
         'projectSiteUrl'    => 'https://www.coladashop.com/',
     ),
-
-//'Paula’s Choice' => array(
-//        'url'               => 'paulaschoice',
-//        'pageType'          => 'project',
-//        'htmlSpecialName'   => '',
-//        'metaDescription'   => 'Skincare that’s a matter of fact.',
-//        'fbOgImageUrl'      => '',
-//        'navIsActive'       => true,
-//        'navSortingClasses' => 'branding messaging design marketing',
-//        'navImg'            => 'assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-cover.jpg',
-//        'navProjectType'    => 'Branding &amp; Marketing',
-//        'client'            => 'Paula’s Choice',
-//        'clientIsInHouse'   => false,
-//        'projectHtmlDesc'   => '<p>Truth in Beauty.</p>
-//                               <p>Paula Begoun didn’t set out to disrupt the beauty industry. But after 30 years of calling the industry out on their B.S., it’s clear that she was first to make dream creams without their heads in the clouds.</p>
-//                               <p>Paula’s Choice, a global skincare brand that now features over 300 skincare products, came to us after noting that times had changed and the brand had lost it’s voice.</p>
-//                               <p>We strategically repositioned the brand to appeal to the discerning customer who wants radical results—without the high price or the marketing hype. Skincare that is a matter of fact. Then, we redesigned the brand’s identity and marketing approach from the ground up, including developing a full packaging overhaul that makes shopping the assortment easy.</p>',
-//        'projectServices'   => 'Brand Positioning, Identity, Package Design, Identity, Web Design, Brand Guidelines, Digital Standards, Social Media Standards, Collateral, Photography, Video',
-//        'projectSiteName'   => 'paulaschoice.com',
-//        'projectSiteUrl'    => 'http://www.paulaschoice.com/',
-//    ),
+	
+'Saucy Asian' => array(
+        'url'               => 'saucyasian',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => '#GetSauced at Saucy Asian with an around-the-world Korean remix.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/saucyasian/saucy-asian-branding-design-cover.gif',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Saucy Asian',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Inspired by the Korean street eats he craved after clubbing ’til dawn in Seoul, restaurateur Andrew Shinn put us in the booth to spin a clever concept for his new SF hot spot.</p>
+                               <p>We analyzed the unique potential of the Castro location and dug into San Francisco’s food trends to create a hook everyone would remember. Smart brand strategy, standout interior design and an identity that’s meant to be Insta’d upped the volume on Saucy Asian.</p>
+                               <p>The fine tune? An around-the-world Korean remix with a Cali kick in the buds. #GetSauced</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Naming, Taglines, Identity, Collateral, Packaging, Interior Design, Photography',
+        'projectSiteName'   => 'saucyasian.com',
+        'projectSiteUrl'    => 'https://www.saucyasian.com/',
+    ),
 
 'Ipsy' => array(
         'url'               => 'ipsy',
@@ -412,26 +474,6 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectServices'   => 'Positioning, Taglines, Messaging, Collateral Design, Photo Direction',
         'projectSiteName'   => 'ipsy.com',
         'projectSiteUrl'    => 'https://www.ipsy.com/',
-    ),
-
-'Saucy Asian' => array(
-        'url'               => 'saucyasian',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => '#GetSauced at Saucy Asian with an around-the-world Korean remix.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/saucyasian/saucy-asian-branding-design-cover.gif',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Saucy Asian',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Inspired by the Korean street eats he craved after clubbing ’til dawn in Seoul, restaurateur Andrew Shinn put us in the booth to spin a clever concept for his new SF hot spot.</p>
-                               <p>We analyzed the unique potential of the Castro location and dug into San Francisco’s food trends to create a hook everyone would remember. Smart brand strategy, standout interior design and an identity that’s meant to be Insta’d upped the volume on Saucy Asian.</p>
-                               <p>The fine tune? An around-the-world Korean remix with a Cali kick in the buds. #GetSauced</p>',
-        'projectServices'   => 'Brand Strategy, Positioning, Naming, Taglines, Identity, Collateral, Packaging, Interior Design, Photography',
-        'projectSiteName'   => 'saucyasian.com',
-        'projectSiteUrl'    => 'https://www.saucyasian.com/',
     ),
 
 'Freya' => array(

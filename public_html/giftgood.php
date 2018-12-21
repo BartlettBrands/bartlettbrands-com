@@ -19,7 +19,12 @@ include( $base_dir . '/includes/html-app-header.php' );
 
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
-    <img src="assets/img/PROJECTS/giftgood/giftgood-2.jpg" alt="Gift Good Holiday | Bartlett Brands">
+    <img src="assets/img/PROJECTS/giftgood/giftgood-2018-1.jpg" alt="Gift Good Holiday | Bartlett Brands">
+	<iframe src="https://player.vimeo.com/video/247557964?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<img src="assets/img/PROJECTS/giftgood/giftgood-2018-2.jpg" alt="Gift Good Holiday | Bartlett Brands">
+	<img src="assets/img/PROJECTS/giftgood/giftgood-2018-3.jpg" alt="Gift Good Holiday | Bartlett Brands">
+	<img src="assets/img/PROJECTS/giftgood/giftgood-2018-4.jpg" alt="Gift Good Holiday | Bartlett Brands">
+	<img src="assets/img/PROJECTS/giftgood/giftgood-2.jpg" alt="Gift Good Holiday | Bartlett Brands">
     <iframe src="https://player.vimeo.com/video/247557964?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <img src="assets/img/PROJECTS/giftgood/giftgood-4.gif" alt="Gift Good Holiday | Bartlett Brands">
     <a href="https://itunes.apple.com/us/app/stick-with-the-good/id1318400479?mt=8" target="_blank"><img src="assets/img/PROJECTS/giftgood/giftgood-5.gif" alt="Gift Good Holiday | Bartlett Brands"></a>

@@ -24,7 +24,7 @@ $site = array(
 // Index Page Images
 $bgs = array(
     0 => array(
-        'filename' => 'bb-splash-ao.jpg',
+        'filename' => 'bb-splash-ao2.jpg',
     ),
 	1 => array(
         'filename' => 'bb-splash-colada.jpg',
@@ -121,9 +121,9 @@ $pages = array(
                                 <p>Fascinated by the rapid evolution of digital marketing, I took a quick detour to launch a beauty-tech startup, Coterie. As their founding Creative Director, I lead user experience, design, content development and digital marketing—launching over 60 campaigns for prestige beauty brand partners such as Urban Decay, Dr. Perricone, Butter London and more.</p>
                                 <p>In 2013, I combined the sensibility of a boutique design firm, the strategic understanding of big corporate and the “move fast and break things” mentality of a tech startup to found Bartlett Brands. I’ve since strategized, concepted, innovated and directed across every touchpoint for clients ranging from cosmetics to consumables.</p>
                                 <p>What can you expect from me? I rarely speak with an indoor voice, usually prefer standing to sitting and always promise beautifully creative solutions that are unexpected, relevant and interesting.</p>',
-        'urlInstagram'      => 'http://instagram.com/lovebeckybb',
+        'urlInstagram'      => 'http://instagram.com/ohlookbitches',
         'urlLinkedin'       => 'http://www.linkedin.com/pub/rebecca-bartlett/4/661/222',
-        'urlTumblr'         => 'http://wandererbarcelona-blog.tumblr.com/',
+        'urlTumblr'         => '',
     ),
     'Annette McCormick' => array(
         'url'               => 'annette-mccormick',
@@ -209,26 +209,6 @@ $pages = array(
                                 <p>What can you expect from me? <br>A little bit of everything, with coffee on the side.</p>',
         'urlInstagram'      => '',
         'urlLinkedin'       => 'https://www.linkedin.com/in/betancourtluisa/',
-        'urlTumblr'         => '',
-    ),
-	
-		    'Angela Haughney' => array(
-        'url'               => 'angela-haughney',
-        'pageType'          => 'teammate',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Project &amp; Production Manager at Bartlett Brands.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-angela-haughney.jpg',
-        'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-angela-square.jpg',
-        'jobPosition'       => 'Project &amp; Production Manager',
-        'htmlBio'           => '<p>Born and raised in Maryland, I studied biology and journalism in Virginia. After graduating, I started as a print designer for the local newspaper where I was responsible for the daily front page and sports sections.</p>
-                                <p>After several years, the lure of living in California became too strong—and I packed my bags for San Francisco. I freelanced at various tech companies and nonprofits before finding my home at Bare Escentuals, where I led the Global Packaging Production team through product launches, annual holiday programs and two complete skincare redesigns. I honed my regulatory knowledge and am a master at making primary and secondary packaging globally compliant (including OTC products).</p>
-								<p>After Bare Escentuals, I did a 180 and switched to interactive design and production at Nest Labs. I partnered with art directors, writers and producers to create website and digital assets for product launch campaigns. I also worked with the UX/UI and localization teams to create translated UI screens for international launches.</p>
-								<p>I believe a holistic brand approach is best, where the customer is engaged and surprised throughout the experience—from packaging to emails to social media.</p>
-                                <p>What can you expect from me? <br>I thrive on aggressive deadlines and start every day with a cup of tea.</p>',
-        'urlInstagram'      => '',
-        'urlLinkedin'       => 'https://www.linkedin.com/in/angela-haughney/',
         'urlTumblr'         => '',
     ),
 	

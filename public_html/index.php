@@ -219,50 +219,35 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
             <h2 class="h2 section-title">A Few Of Our Clients</h2>
             <hr class="title-underline">
 
-            <div class="column2 prefix1">
-                <img src="assets/img/CLIENTS/client-wine-group.png" alt="Wine Group Logo">
+			<div class="column2 prefix1">
+                <img src="assets/img/CLIENTS/clients-paulaschoice.jpg" alt="Paula's Choice Logo">
             </div>
-            <div class="column2">
-                <img src="assets/img/CLIENTS/client-mina.png" alt="Mina Logo">
+			<div class="column2">
+                <img src="assets/img/CLIENTS/clients-kendo.jpg" alt="Kendo Logo">
             </div>
-            <div class="column2">
-                <img src="assets/img/CLIENTS/client-sephora.png" alt="Sephora Logo">
-            </div>
-            <div class="column2">
-                <img src="assets/img/CLIENTS/client-williams-sonoma.png" alt="Williams Sonoma Logo">
-            </div>
-            <div class="column2">
-                <img src="assets/img/CLIENTS/client-mgm-grand.png" alt="MGM Grand Logo">
-            </div>
-            <div class="column2 prefix1">
-                <img src="assets/img/CLIENTS/clients-randf.jpg" alt="Rodan and Fields Logo">
-            </div>
-            <div class="column2">
-                <img src="assets/img/CLIENTS/clients-patchology.jpg" alt="Greenleaf Logo">
-            </div>
-            <div class="column2">
+			<div class="column2">
                 <img src="assets/img/CLIENTS/clients-biossance.jpg" alt="Biossance Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/clients-ipsy.jpg" alt="Ipsy Logo">
+                <img src="assets/img/CLIENTS/clients-mina.jpg" alt="Mina Logo">
             </div>
-            <div class="column2">
-                <img src="assets/img/CLIENTS/clients-paulaschoice.jpg" alt="Paula's Choice Logo">
+			<div class="column2">
+                <img src="assets/img/CLIENTS/clients-patchology.jpg" alt="Patchology Logo">
             </div>
-            <div class="column2 prefix1">
+			<div class="column2 prefix1">
+                <img src="assets/img/CLIENTS/clients-dogus.jpg" alt="Dogus Logo">
+            </div>
+			<div class="column2">
                 <img src="assets/img/CLIENTS/clients-freya.jpg" alt="Freya Logo">
             </div>
-            <div class="column2">
-                <img src="assets/img/CLIENTS/clients-greenleaf.jpg" alt="Patchology Logo">
+			<div class="column2">
+                <img src="assets/img/CLIENTS/clients-randf.jpg" alt="Rodan and Fields Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/clients-hintmd.jpg" alt="HintMD Logo">
+                <img src="assets/img/CLIENTS/clients-williamssonoma.jpg" alt="Williams Sonoma Logo">
             </div>
             <div class="column2">
-                <img src="assets/img/CLIENTS/clients-quay.jpg" alt="Quay Australia Logo">
-            </div>
-            <div class="column2">
-                <img src="assets/img/CLIENTS/clients-naya.jpg" alt="Naya Logo">
+                <img src="assets/img/CLIENTS/clients-ipsy.jpg" alt="Ipsy Logo">
             </div>
 
         </div>

@@ -786,13 +786,12 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'navProjectType'    => 'Red, White &amp; Filled With Hope',
         'client'            => 'To All of Them',
         'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Stick with the Good.</p>
-                                <p>Between headlines that untied our heartstrings, politics not-as-usual and unicorn lattes that tried to bring the magic, 2017 was divisive. As we come down off the wave of millennial pink, we’re celebrating a season when we can all unite in shades of love, hope and gifting good.</p>
-                                <p>Since 2015, we’ve been ditching the fancy client holiday presents and boozy parties—and showing our appreciation by donating to local charities that support women and children.</p>
-								<p>Happy Holidays to our clients, partners and friends. Keep the good going.</p>',
-        'projectServices'   => 'Wish List Donations, Volunteer Days',
-        'projectSiteName'   => 'Download Stickers',
-        'projectSiteUrl'    => 'https://itunes.apple.com/us/app/stick-with-the-good/id1318400479?mt=8',
+        'projectHtmlDesc'   => '<p>Since 2015, we’ve been ditching the fancy holiday presents and boozy parties—donating what we would have spent on client razzle dazzle to Bay Area charities that support women and children.</p>
+                                <p>Then we surprise our clients with a little something fun to get them into the giving spirit too. </p>
+                                <p>We call it Gift Good. It’s our tradition to keep the goodness going.</p>',
+        'projectServices'   => 'Charity Donations, Volunteer Days',
+        'projectSiteName'   => '',
+        'projectSiteUrl'    => '',
     ),
 
 );

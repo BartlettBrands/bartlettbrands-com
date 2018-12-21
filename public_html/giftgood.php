@@ -20,7 +20,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
     <img src="assets/img/PROJECTS/giftgood/giftgood-2018-1.jpg" alt="Gift Good Holiday | Bartlett Brands">
-	<iframe src="https://player.vimeo.com/video/247557964?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/307765282" width="1100" height="619" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 	<img src="assets/img/PROJECTS/giftgood/giftgood-2018-2.jpg" alt="Gift Good Holiday | Bartlett Brands">
 	<img src="assets/img/PROJECTS/giftgood/giftgood-2018-3.jpg" alt="Gift Good Holiday | Bartlett Brands">
 	<img src="assets/img/PROJECTS/giftgood/giftgood-2018-4.jpg" alt="Gift Good Holiday | Bartlett Brands">

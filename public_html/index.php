@@ -203,9 +203,9 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
     <section class="parallax" id="services-statement">
         <div class="container12">
 
-            <h3 class="h2 section-title"><q>Yes And&hellip;</q> Creative Philosophy</h3>
+            <h3 class="h2 section-title">Our Planet-First Pledge</h3>
             <hr class="title-underline">
-            <p class="section-subtitle">Based on the fundamental rule of improv, <q>Yes. And&hellip;</q> is about listening first, then collaborating to move a story forward, even when there is no defined script. The result is the creation of something entirely new—unexpected, relevant and&nbsp;interesting.</p>
+            <p class="section-subtitle">We're committed to helping our clients make the most environmentally sustainable decisions for their products and packaging. As we create the next generation of brands, we are on the forefront of innovative solutions that make the earth and our hearts happy.</p>
 
         </div>
     </section>

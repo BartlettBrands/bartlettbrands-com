@@ -155,7 +155,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                     <img src="assets/img/ICONS/services-strategy-hover.png" alt="Strategy Hover Icon" />
                 </div>
                 <h3 class="h3 services-title">Strategy</h3>
-                <h6 class="h6 services-list">Audits</br>Planning</br>Workshops</br>Recommendations</h6>
+                <h6 class="h6 services-list">Audits</br>Research</br>Workshops</br>Recommendations</h6>
             </a>
             <?php // Branding ?>
             <a class="service-item column2" href="work?filter=branding">

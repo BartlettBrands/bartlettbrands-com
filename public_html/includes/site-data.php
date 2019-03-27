@@ -769,7 +769,7 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
         'navSortingClasses' => 'branding design',
-        'navImg'            => 'assets/img/PROJECTS/logos/logos-cover.jpg',
+        'navImg'            => 'assets/img/PROJECTS/logos/logos-cover.gif',
         'navProjectType'    => 'Design',
     ),
 

@@ -29,6 +29,8 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-8.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-9.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-10.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-11.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-12.jpg" alt="Paula's Choice Branding + Design | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

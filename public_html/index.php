@@ -320,13 +320,13 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
         <div class="container12">
 
             <div class="item column4">
-                <img src="assets/img/PROMOS/logo-wwd.png" alt="WWD">
+                <img src="assets/img/PROMOS/logo-wwd-black.png" alt="WWD">
+            </div>
+			<div class="item column4">
+                <img src="assets/img/PROMOS/logo-adc-black.png" alt="Art Directors Club">
             </div>
             <div class="item column4">
-                <img src="assets/img/PROMOS/logo-fastco.png" alt="Fast Company">
-            </div>
-            <div class="item column4">
-                <img src="assets/img/PROMOS/logo-gdusa.png" alt="GD USA">
+                <img src="assets/img/PROMOS/logo-fastco-black.png" alt="Fast Company">
             </div>
 
         </div>
@@ -337,7 +337,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                 <img src="assets/img/PROMOS/logo-graphis.png" alt="Graphis">
             </div>
             <div class="item column4">
-                <img src="assets/img/PROMOS/logo-clio.png" alt="Clio">
+                <img src="assets/img/PROMOS/logo-clio-black.png" alt="Clio">
             </div>
             <div class="item column4">
                 <img src="assets/img/PROMOS/logo-dieline-color.png" alt="Beauty ID Awards">

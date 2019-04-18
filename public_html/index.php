@@ -305,6 +305,16 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
             <?php /* Insert Teammate Navigation */ echo $teammateNav; ?>
 
         </div>
+		<div class="container12">
+
+            <h2 class="h2 section-title" style="padding-top: 4em">Jobs</h2>
+            <hr class="title-underline">
+            <p class="section-subtitle"><a href="assets/docs/BartlettBrands-Position-DirectorofStrategyandEditorial-2019.pdf" target="_blank">Director of Strategy &amp; Editorial</a><br/>
+			<a href="assets/docs/BartlettBrands-Position-BrandStrategistandAccountManager-2019.pdf" target="_blank">Brand Stategist &amp; Account Manager</a><br/>
+			<a href="assets/docs/BartlettBrands-Position-BrandCopywriter-2019.pdf" target="_blank">Brand Copywriter</a><br/>
+			<a href="assets/docs/BartlettBrands-Intern.pdf" target="_blank">Bartlett Band Camp Intern</a></p>
+
+        </div>
     </section>
 
 

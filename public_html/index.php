@@ -297,7 +297,6 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
             <h2 class="h2 section-title">Team</h2>
             <hr class="title-underline">
             <p class="section-subtitle">Idea makers. Art creators. Story shapers. Industry shakers.</p>
-           <!--><p class="section-subtitle">We love talented people. Send your portfolio and resume to <a href=mailto:hello@bartlettbrands.com?subject=JobInquiry>hello@bartlettbrands.com</a>.</p><-->
 
         </div>
         <div class="container12">

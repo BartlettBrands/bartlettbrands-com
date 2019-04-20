@@ -297,7 +297,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
             <h2 class="h2 section-title">Team</h2>
             <hr class="title-underline">
             <p class="section-subtitle">Idea makers. Art creators. Story shapers. Industry shakers.</p>
-            <p class="section-subtitle">We love talented people. Send your portfolio and resume to <a href=mailto:hello@bartlettbrands.com?subject=JobInquiry>hello@bartlettbrands.com</a>.</p>
+           <!--><p class="section-subtitle">We love talented people. Send your portfolio and resume to <a href=mailto:hello@bartlettbrands.com?subject=JobInquiry>hello@bartlettbrands.com</a>.</p><-->
 
         </div>
         <div class="container12">
@@ -307,12 +307,12 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
         </div>
 		<div class="container12">
 
-            <h2 class="h2 section-title" style="padding-top: 4em">Jobs</h2>
+            <h2 class="h2 section-title" style="padding-top: 4em">Open Positions</h2>
             <hr class="title-underline">
             <p class="section-subtitle"><a href="assets/docs/BartlettBrands-Position-DirectorofStrategyandEditorial-2019.pdf" target="_blank">Director of Strategy &amp; Editorial</a><br/>
 			<a href="assets/docs/BartlettBrands-Position-BrandStrategistandAccountManager-2019.pdf" target="_blank">Brand Stategist &amp; Account Manager</a><br/>
 			<a href="assets/docs/BartlettBrands-Position-BrandCopywriter-2019.pdf" target="_blank">Brand Copywriter</a><br/>
-			<a href="assets/docs/BartlettBrands-Intern.pdf" target="_blank">Bartlett Band Camp Intern</a></p>
+			<a href="assets/docs/BartlettBrands-Intern.pdf" target="_blank">Bartlett Brand Camp Intern</a></p>
 
         </div>
     </section>

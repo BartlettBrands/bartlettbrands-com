@@ -125,6 +125,25 @@ $pages = array(
         'urlLinkedin'       => 'http://www.linkedin.com/pub/rebecca-bartlett/4/661/222',
         'urlTumblr'         => '',
     ),
+	'Desiree Marr' => array(
+        'url'               => 'desiree-marr',
+        'pageType'          => 'teammate',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Director of Copy at Bartlett Brands.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-des.jpg',
+        'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-des-square.jpg',
+        'jobPosition'       => 'Copy Director',
+        'htmlBio'           => '<p>Born in Alameda, a not-so-tropical island in the San Francisco Bay, I earned a BA in English before booking it to the Big Apple. After studying Fashion Marketing at Parsons School of Design—and paying my dues in the notorious Teen Vogue closet—I enjoyed seven years as a fashion editor and stylist at publications like Lucky, Star, and Life & Style.</p>
+                                <p>Switching gears to the dynamic beauty space, I packed up 13 boxes of ankle boots and returned to The Bay where I spent two years as a digital writer for Sephora. Following the launch of Sephora 2.0 and its Canadian counterpart, I transitioned to Sephora Inside JCPenney—directing editorial and creating unique campaigns for almost 600 stores.</p>
+								<p>Following the birth of my cute-but-crazy twin boys, I jumped into freelance life—working for big brands like Estee Lauder, Uber, and Urban Decay, as well as for small startups, one-woman shops, you name it. Along the way, I sharpened my branding teeth freelancing for award-winning agencies around the country, including MSLK (New York) and Colony (Los Angeles). I am obsessed with creating the perfect brand voice, cutting through the content clutter, and coming up with clever, get-them-to-buy taglines.</p>
+								<p>What can you expect from me? The ability to hit deadlines, nail copy, and shatter expectations. A compelling, conversational writing style. An all-black wardrobe, an ungodly amount of hair, and—of course—emdashes galore.
+</p>',
+        'urlInstagram'      => '',
+        'urlLinkedin'       => 'https://www.linkedin.com/in/desiree-marr-12b373b/',
+        'urlTumblr'         => '',
+    ),
     'Annette McCormick' => array(
         'url'               => 'annette-mccormick',
         'pageType'          => 'teammate',

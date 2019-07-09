@@ -30,13 +30,6 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-9.jpg" alt="Ipsy Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-10.jpg" alt="Ipsy Marketing | Bartlett Brands">
     <img src="assets/img/PROJECTS/ipsy/ipsyshopper-marketing-print-11.jpg" alt="Ipsy Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-1.jpg" alt="Ipsy Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-2.jpg" alt="Ipsy Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-3.jpg" alt="Ipsy Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-4.jpg" alt="Ipsy Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-5.jpg" alt="Ipsy Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-6.jpg" alt="Ipsy Marketing | Bartlett Brands">
-    <img src="assets/img/PROJECTS/ipsy/ipsy-sugarhighness-marketing-design-7.jpg" alt="Ipsy Marketing | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

@@ -145,25 +145,6 @@ $pages = array(
         'urlTumblr'         => '',
     ),
 	
-	'Kimberly Brizzolara' => array(
-        'url'               => 'kimberly-brizzolara',
-        'pageType'          => 'teammate',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => '',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-kimberly.jpg',
-        'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-kimberly-square.jpg',
-        'jobPosition'       => 'Director, Strategy &amp; Editorial',
-        'htmlBio'           => '<p>Born and raised in the Big Easy, I followed the irresistible call of palm trees to Stanford, where I studied Creative Writing as an undergrad—then stayed on to earn an MA in Media Studies. I honed my marketing and conceptual skills on the agency side as a Copywriter/Strategist and West Coast Creative Director at Acxiom/Digital Impact—launching captivating campaigns for clients that included Kaiser Permanente, Microsoft, GAP, Visa, Wyndham, and Maybelline.</p>
-								<p>I then spent two years building and directing an Editorial team at Sephora. My team created all marketing campaigns and promotions for Sephora.com, email and the app. They also developed all cross-channel branding for Sephora’s Beauty Insider rewards program, Sephora Collection and new in-store products. After leaving Sephora, I freelanced for Netflix—creating stunning brand expressions, including their nationally recognized Pride 2015 campaign, as well as campaigns for new Netflix Originals program launches and creative product testing initiatives.</p>
-                                <p>My work has won over 80 awards—Clios, the ADDYs, ad:tech, Marketing Sherpa, Media Post and more—for both creative execution and performance metrics. In 2012, I was honored as one of DM News’ <a href="http://www.dmnews.com/thirty-under-30-the-best-and-brightest-young-direct-marketers/article/201425/" target="_blank">Thirty Under 30: The Best and Brightest Young Marketers</a>.</p>
-                                <p>What can you expect from me? <br>Stories, stylishly told. Strategies, stunningly executed. Statements, boldly presented. Smiles, consistently spread. And coffee cups, the size of my head.</p>',
-        'urlInstagram'      => 'https://instagram.com/kbrizz',
-        'urlLinkedin'       => '',
-        'urlTumblr'         => '',
-    ),
-	
 	'Desiree Marr' => array(
         'url'               => 'desiree-marr',
         'pageType'          => 'teammate',
@@ -271,23 +252,6 @@ $pages = array(
         'urlLinkedin'       => '',
         'urlTumblr'         => '',
     ),
-    // 'Nathan Akers' => array(
-    //     'url'               => 'nathan-akers',
-    //     'pageType'          => 'teammate',
-    //     'htmlSpecialName'   => '',
-    //     'metaDescription'   => '',
-    //     'fbOgImageUrl'      => '',
-    //     'navIsActive'       => false,
-    //     'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-nathan.jpg',
-    //     'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-nathan-square.jpg',
-    //     'jobPosition'       => 'UI/UX, Front End Developer',
-    //     'htmlBio'           => '<p>Hailing from the great state of Florida, I began my career drawing donuts and spaceships for PBS art shows. This experience was critical for getting in and out of art school. After graduating from the University of Florida with a BFA in Graphic Design, I journeyed into piracy (the kind with an eye patch) and then into web development at a time when the internet was young. Now, with a decade of experience as an interface designer and front-end developer, I’ve improved user experiences for all kinds of companies from non-profits (Kiva); to cosmetics (Coterie, Bravon); to a bunch of tech-tastic startups that you’ve never heard of.</p>
-    //                             <p>What can you expect from me? <br>With as many hairstyles as I have colored sneakers, I’ll stay up all night making sure a great design translates to an even greater user experience across every device and platform. Even Internet Explorer (you’re welcome, Mom).</p>',
-    //     'urlInstagram'      => 'https://instagram.com/nathanakers',
-    //     'urlLinkedin'       => 'https://www.linkedin.com/in/nathanakers',
-    //     'urlTumblr'         => '',
-    // ),
-
 
     // PROJECTS AND PROJECT GROUPS
     // NOTE - The order of projects determines order in navigation

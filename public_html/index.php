@@ -235,10 +235,10 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
                 <img src="assets/img/CLIENTS/clients-patchology.jpg" alt="Patchology Logo">
             </div>
 			<div class="column2 prefix1">
-                <img src="assets/img/CLIENTS/clients-dogus.jpg" alt="Dogus Logo">
+                <img src="assets/img/CLIENTS/clients-crabtreeandevelyn.jpg" alt="Crabtree and Evelyn Logo">
             </div>
 			<div class="column2">
-                <img src="assets/img/CLIENTS/clients-freya.jpg" alt="Freya Logo">
+                <img src="assets/img/CLIENTS/clients-sonomabrands.jpg" alt="Sonoma Brands Logo">
             </div>
 			<div class="column2">
                 <img src="assets/img/CLIENTS/clients-randf.jpg" alt="Rodan and Fields Logo">
@@ -264,24 +264,24 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
 
         <div class="container12">
             <div class="column6">
-                <p class="common-center"><q>I have worked with Bartlett Brands at two different restaurant groups, Dogus Group and the MINA Group. The team is dedicated, detailed and delivers the highest quality every time, on time. Rebecca has never promised and not come through. She is well connected and up to speed with all the trends in our&nbsp;industry.</q></p>
-                <h4 class="h2 compliment-name">Yavuz Pehlivanlar</h4>
-                <h6 class="h6 compliment-position">Executive V.P., Dogus Group</h6>
+                <p class="common-center"><q>Crabtree &amp; Evelyn is building a revolutionary brand. Bartlett Brands didn’t just understand our vision—they shared it. They are not an agency, they are us. When you like the people, it all becomes an adventure you love.</q></p>
+                <h4 class="h2 compliment-name">David Stern</h4>
+                <h6 class="h6 compliment-position">CEO, Crabtree &amp; Evelyn</h6>
             </div>
             <div class="column6">
-                <p class="common-center"><q>Bartlett Brands brought insight and perspective to every conversation. I could always count on them to collaborate but also challenge me to think harder and bigger. I found myself feeling reenergized and seeing new, amazing possibilities for the brand. I would definitely work with them again.</q></p>
-                <h4 class="h2 compliment-name">Stephanie Lin</h4>
-                <h6 class="h6 compliment-position">Head of Marketing, ipsy</h6>
+                <p class="common-center"><q>One-of-a-kind. They represent the future of brand building—a dynamic, restless and obsessive team that won’t settle. Trust in the process, buckle up and enjoy the ride.</q></p>
+                <h4 class="h2 compliment-name">James Rangihika</h4>
+                <h6 class="h6 compliment-position">CEO, Ao Skincare</h6>
             </div>
         </div>
         <div class="container12">
             <div class="column6">
-                <p class="common-center"><q>I loved working with Bartlett Brands. It’s a joy working with their talented team. They brought a fresh, creative perspective from outside my industry, which is exactly what I needed. I strongly recommend&nbsp;them.</q></p>
+                <p class="common-center"><q>I loved working with Bartlett Brands. They brought an insightful, creative perspective from outside my industry, which is exactly what I needed. I strongly recommend them.</q></p>
                 <h4 class="h2 compliment-name">Paul Arnold</h4>
                 <h6 class="h6 compliment-position">Startup Investor, Switch VC</h6>
             </div>
             <div class="column6">
-                <p class="common-center"><q>Bartlett Brands’ strategic vision guided our rebrand and launch in Sephora. They consistently think big (without overlooking the details) and demand perfection. With deep knowledge of the beauty industry and the complexities of skincare, they also proved to be adept at every point of execution. As our trusted agency partner, I'd recommend them to anyone.</q></p>
+                <p class="common-center"><q>Bartlett Brands’ strategic vision and deep knowledge of the beauty industry guided our rebrand and launch in Sephora. They think big and demand perfection. I'd recommend them to anyone.</q></p>
                 <h4 class="h2 compliment-name">Caroline Hadfield</h4>
                 <h6 class="h6 compliment-position">SVP of Personal Care, Biossance</h6>
             </div>

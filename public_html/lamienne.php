@@ -26,12 +26,6 @@ include( $base_dir . '/includes/html-app-header.php' );
     <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-5.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
     <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-6.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
     <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-7.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
-    <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-8.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
-    <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-9.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
-    <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-10.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
-    <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-11.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
-    <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-12.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
-    <img src="assets/img/PROJECTS/lamienne/LaMienne-branding-design-14.jpg" alt="La Mienne | Beauty As You Like It | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

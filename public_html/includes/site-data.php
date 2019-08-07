@@ -27,7 +27,7 @@ $bgs = array(
         'filename' => 'bb-splash-ao2.jpg',
     ),
 	1 => array(
-        'filename' => 'bb-splash-colada.jpg',
+        'filename' => 'bb-splash-crabtreeandevelyn.jpg',
     ),
     2 => array(
         'filename' => 'bb-splash-paula.jpg',
@@ -39,24 +39,27 @@ $bgs = array(
         'filename' => 'bb-splash-saucyasian.jpg',
     ),
 	5 => array(
+        'filename' => 'bb-splash-colada.jpg',
+    ),
+	6 => array(
         'filename' => 'bb-splash-paulaproduct.jpg',
     ),
-    6 => array(
+    7 => array(
         'filename' => 'bb-splash-biossance.jpg',
     ),
-	7 => array(
+	8 => array(
         'filename' => 'bb-splash-naya.jpg',
     ),
-	8 => array(
+	9 => array(
         'filename' => 'bb-splash-freya.jpg',
     ),
-	9 => array(
+	10 => array(
         'filename' => 'bb-splash-aoproduct.jpg',
     ),
-	10 => array(
+	11 => array(
         'filename' => 'bb-splash-ipsy.jpg',
     ),
-	11 => array(
+	12 => array(
         'filename' => 'bb-splash-camp.jpg',
     ),
 );
@@ -274,6 +277,29 @@ $pages = array(
     //  :projectSiteUrl     = the url of the client or project link
     //  :projectHtmlDesc    = the project desription using html
 	
+'Crabtree & Evelyn' => array(
+        'url'               => 'crabtreeandevelyn',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Crabtree & Evelyn’s fearless reinvention brings an iconic brand back from the dead.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Crabtree & Evelyn',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Born Curious. Grown Wild.</p>
+                               <p>Crabtree & Evelyn was always a disruptor. Founded in 1971, the British lifestyle brand started by selling soaps from around the world. Twenty-five years later, having grown to 160 stores in 22 countries, they pioneered a new category of retail and earned their place among the world’s most iconic brands.</p>
+                               <p>But, nearly fifty years after their inception, Crabtree & Evelyn’s customer had moved on, product expectations had evolved, standalone retail was declared “dead”—and the brand was as dusty as the rose potpourri in your grandma’s bathroom.</p>
+							   <p>It takes leadership with a bold vision and an agency that’s tapped into today to fearlessly reinvent one of the most beloved-then-forgotten brands of our time.</p>
+							   <p>Starting with strategy, we revived the brand equity that had made Crabtree & Evelyn unique—and translated it to a new audience through a full brand overhaul that highlights an entirely new product portfolio and stands out in a digital-first environment.</p>
+							   <p>Untamed and undomesticated, Crabtree & Evelyn breaks through once again.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity System, Package Design, Copywriting, Photography Direction, Brand Guidelines',
+        'projectSiteName'   => 'crabtree-evelyn.com',
+        'projectSiteUrl'    => 'https://www.crabtree-evelyn.com/',
+    ),
+	
 'First Day' => array(
         'url'               => 'firstday',
         'pageType'          => 'project',
@@ -337,26 +363,27 @@ $pages = array(
         'projectSiteUrl'    => 'https://www.bambooasia.com',
     ),
 	
-'Paula’s Choice' => array(
-        'url'               => 'paulaschoice',
+'Biossance' => array(
+        'url'               => 'biossance',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'Skincare that’s a matter of fact.',
+        'metaDescription'   => 'Biotech does it better. Squalane-based skincare, designed without compromise.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
-        'navSortingClasses' => 'all branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Marketing',
-        'client'            => 'Paula’s Choice',
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/biossance/biossance-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Biossance',
         'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Truth in Beauty.</p>
-                               <p>Paula Begoun didn’t set out to disrupt the beauty industry. But after 30 years of calling the industry out on their B.S., it’s clear that she was first to make dream creams without their heads in the clouds.</p>
-							   <p>Paula’s Choice, a global skincare brand that now features over 300 skincare products, came to us after noting that times had changed and the brand had lost its voice.</p>
-							   <p>We strategically repositioned the brand to appeal to the discerning customer who wants radical results—without the high price or the marketing hype. Skincare that is a matter of fact. Then, we redesigned the brand’s identity and marketing approach from the ground up, including developing a full packaging overhaul that makes shopping the assortment easy.</p>',
-        'projectServices'   => 'Brand Positioning, Identity, Package Design, Web Design, Brand Guidelines, Digital Standards, Social Media Standards, Collateral, Photography, Video',
-        'projectSiteName'   => 'paulaschoice.com',
-        'projectSiteUrl'    => 'https://www.paulaschoice.com/',
-    ),	
+        'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
+                               <p>Bartlett Brands took Biossance from an average “nature meets science” brand into a standout concept. Sephora called their launch “unprecedented.”</p>
+                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and remember.</p>
+                               <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
+                               <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
+        'projectSiteName'   => 'biossance.com',
+        'projectSiteUrl'    => 'https://www.biossance.com/',
+    ),
 	
 'Da Mario' => array(
         'url'               => 'damario',
@@ -378,26 +405,25 @@ $pages = array(
         'projectSiteUrl'    => 'http://www.damariorestaurant.com/',
     ),
 	
-'Biossance' => array(
-        'url'               => 'biossance',
+'Paula’s Choice' => array(
+        'url'               => 'paulaschoice',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'Biotech does it better. Squalane-based skincare, designed without compromise.',
+        'metaDescription'   => 'Skincare that’s a matter of fact.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/biossance/biossance-branding-packaging-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Biossance',
+        'navSortingClasses' => 'all branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/paulaschoice/paulaschoice-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Marketing',
+        'client'            => 'Paula’s Choice',
         'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
-                               <p>Bartlett Brands took Biossance from an average “nature meets science” brand into a standout concept. Sephora called their launch “unprecedented.”</p>
-                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and remember.</p>
-                               <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
-                               <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
-        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
-        'projectSiteName'   => 'biossance.com',
-        'projectSiteUrl'    => 'https://www.biossance.com/',
+        'projectHtmlDesc'   => '<p>Truth in Beauty.</p>
+                               <p>Paula Begoun didn’t set out to disrupt the beauty industry. But after 30 years of calling the industry out on their B.S., it’s clear that she was first to make dream creams without their heads in the clouds.</p>
+							   <p>Paula’s Choice, a global skincare brand that now features over 300 skincare products, came to us after noting that times had changed and the brand had lost its voice.</p>
+							   <p>We strategically repositioned the brand to appeal to the discerning customer who wants radical results—without the high price or the marketing hype. Skincare that is a matter of fact. Then, we redesigned the brand’s identity and marketing approach from the ground up, including developing a full packaging overhaul that makes shopping the assortment easy.</p>',
+        'projectServices'   => 'Brand Positioning, Identity, Package Design, Web Design, Brand Guidelines, Digital Standards, Social Media Standards, Collateral, Photography, Video',
+        'projectSiteName'   => 'paulaschoice.com',
+        'projectSiteUrl'    => 'https://www.paulaschoice.com/',
     ),
 	
 'Colada Shop' => array(

@@ -358,7 +358,7 @@ $pages = array(
                                <p>Bamboo Asia had made its name as a Fi-Di staple for the grab-n-go lunch crowd. But when they were ready to start expanding, they realized the brand wasn’t as fresh as the food.</p>
                                <p>We started with strategy, diving deep into the customer expectations and Bamboo Asia’s unique value proposition. Then we reinvented everything but the food to create a buzz-worthy new concept: Bamboo Asia Far Out Market—a mashup of Far East flavors and West Coast vibes. The new heart-worthy identity and hip interior design have customers lining up—literally. And everyone is hella’ welcome.</p>
 							   <p>Love, peace and far out food.</p>',
-        'projectServices'   => 'Positioning, Brand Strategy, Positioning, Identity, Interior Design, Collateral',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Interior Design, Collateral',
         'projectSiteName'   => 'bambooasia.com',
         'projectSiteUrl'    => 'https://www.bambooasia.com',
     ),

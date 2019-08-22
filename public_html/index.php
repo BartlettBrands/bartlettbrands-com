@@ -304,14 +304,6 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
             <?php /* Insert Teammate Navigation */ echo $teammateNav; ?>
 
         </div>
-		<div class="container12">
-
-            <h2 class="h2 section-title" style="padding-top: 4em">Open Positions</h2>
-            <hr class="title-underline">
-            <p class="section-subtitle">
-			<a href="assets/docs/BartlettBrands-Intern.pdf" target="_blank">Bartlett Brand Camp Intern</a></p>
-
-        </div>
     </section>
 
 

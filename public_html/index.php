@@ -206,6 +206,7 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
             <h3 class="h2 section-title">Our Planet-First Pledge</h3>
             <hr class="title-underline">
             <p class="section-subtitle">We're committed to helping our clients make the most environmentally sustainable decisions for their products and packaging. As we create the next generation of brands, we are on the forefront of innovative solutions that make the earth and our hearts happy.</p>
+			<p class="section-subtitle">Get in touch with our sustainability crew at <br>eco-warrior@bartlettbrands.com.</p>
 
         </div>
     </section>

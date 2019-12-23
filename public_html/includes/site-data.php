@@ -314,8 +314,7 @@ $pages = array(
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>Rise Healthy. Shine Strong.</p>
                                <p>Not all vitamins are created equal—and neither are all wellness brands.</p>
-                               <p>We brought our A+ game with a brand designed to make the grade for today’s perceptive parents. Packaging that pops and doubles as a kid’s cup after your 30 days is up. A cool coloring brochure that creates an immediate Insta unboxing moment. And names like “Daily Enrichments” for the multivitamin Yummy Gummies, so parents feel super smart about their choice.</p>
-							   <p>Everyday should feel like a first.</p>',
+                               <p>We brought our A+ game with a brand designed to make the grade for today’s perceptive parents. Reusable, durable packaging that doubles as a kid’s cup. A refill strategy that significantly reduces plastic waste. A cool coloring brochure that creates an immediate Insta unboxing moment. And names like “Daily Enrichments” for the multivitamin Yummy Gummies, so parents feel super smart about their choice.</p>',
         'projectServices'   => 'Brand Development, Positioning, Identity, Package Design, Shipping Experience',
         'projectSiteName'   => 'firstdaylife.com',
         'projectSiteUrl'    => 'https://www.firstdaylife.com',

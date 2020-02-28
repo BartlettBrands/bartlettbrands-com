@@ -338,7 +338,7 @@ $pages = array(
 							   <p>This is beauty and branding from the brink.</p>',
         'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Copywriting, Collateral, Photography, Brand Guidelines',
         'projectSiteName'   => 'aoskincare.com',
-        'projectSiteUrl'    => 'https://www.aoskincare.com',
+        'projectSiteUrl'    => '',
     ),
 	
 'Bamboo Asia' => array(

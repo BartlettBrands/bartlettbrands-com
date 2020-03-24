@@ -18,4 +18,4 @@ jobs:
         ftp-username: slowyiom
         ftp-password: ${{ secrets.FTP_PASSWORD }}
         local-dir: ./
-        git-ftp-args: --dry-run --remote-root public_html
+        git-ftp-args: --remote-root public_html

@@ -33,12 +33,16 @@ include( $base_dir . '/includes/html-app-header.php' );
 	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-12.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-13.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-14.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
-	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-15.gif" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-15.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-16.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-17.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-18.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
-	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-19.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-19.gif" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
 	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-20.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-21.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-22.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-23.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
+	<img src="assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-24.jpg" alt="Crabtree & Evelyn Branding + Design | Bartlett Brands">
 
     <?php /* Include Projects End Content and Nav */ echo $projectPageContent_bottom; ?>
 

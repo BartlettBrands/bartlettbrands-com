@@ -143,7 +143,7 @@ include( $base_dir . '/includes/html-app-header.php' );
             <hr class="title-underline">
             <p class="section-subtitle">Bartlett Brands is an award-winning boutique branding agency.
 From cosmetics to consumables, we bring the all-girl power to creating brands that challenge the status and cut through the quo.</p>
-            <p class="common-center">Our snappy strategies, stylish stories and standout designs attract the attention of even the world’s most distracted humans, engaging and entertaining them for the long haul. We never met a branding boundary we couldn’t break. Or a lipstick shade we couldn’t pull off. </p>
+            <p class="common-center">Our snappy strategies, stylish stories and standout designs attract the attention of even the world’s most distracted humans, engaging and entertaining them for the long haul. We never met a branding boundary we couldn’t break.</p>
 
             <h3 class="h2 section-title">Yes, We Do.</h3>
             <hr class="title-underline">
@@ -206,7 +206,6 @@ From cosmetics to consumables, we bring the all-girl power to creating brands th
             <h3 class="h2 section-title">Our Planet-First Pledge</h3>
             <hr class="title-underline">
             <p class="section-subtitle">We're committed to helping our clients make the most environmentally sustainable decisions for their products and packaging. As we create the next generation of brands, we are on the forefront of innovative solutions that make the earth and our hearts happy.</p>
-			<p class="section-subtitle">Get in touch with our sustainability crew at <br>eco-warrior@bartlettbrands.com.</p>
 
         </div>
     </section>

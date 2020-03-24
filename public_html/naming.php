@@ -19,7 +19,13 @@ include( $base_dir . '/includes/html-app-header.php' );
 
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
-    <img src="assets/img/PROJECTS/naming/naming-branding-1-saucyasian.jpg" alt="Naming | Bartlett Brands">
+    <img src="assets/img/PROJECTS/naming/naming-branding-aceofair.jpg" alt="Naming | Bartlett Brands">
+	<p class="section-subtitle">The first and only 100% circular beauty &amp; wellness brand.</p>
+	<br>
+	<img src="assets/img/PROJECTS/naming/naming-branding-solvasa.jpg" alt="Naming | Bartlett Brands">
+	<p class="section-subtitle">Integrative beauty &amp; selfcare based on Eastern tradition.</p>
+	<br>
+	<img src="assets/img/PROJECTS/naming/naming-branding-1-saucyasian.jpg" alt="Naming | Bartlett Brands">
 	<p class="section-subtitle">Cali-Korean remixed restaurant with street food swagger.</p>
 	<br>
     <img src="assets/img/PROJECTS/naming/naming-branding-2-moonshot.jpg" alt="Naming | Bartlett Brands">

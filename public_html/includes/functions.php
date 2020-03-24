@@ -82,7 +82,6 @@ $nav = '
 
                 $nav .= '
                 <li><a href="#contact" class="scroll">Contact</a></li>
-                <li><a href="blog">Blog</a></li>
             </ul>
         </nav>' .
 

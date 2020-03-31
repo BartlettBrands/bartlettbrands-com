@@ -1,3 +1,4 @@
+<video controls></video>
 <?php
 // BEGIN SITE-DATA INCLUDES FILE
 // @has: page and site arrays
@@ -318,6 +319,27 @@ $pages = array(
         'projectServices'   => 'Brand Development, Positioning, Identity, Package Design, Shipping Experience',
         'projectSiteName'   => 'firstdaylife.com',
         'projectSiteUrl'    => 'https://www.firstdaylife.com',
+    ),
+	
+'German Kabirski' => array(
+        'url'               => 'german-kabirski',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Fine art jewelry that is precious and peculiar.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/german-kabirski/german-kabirski-branding-design-cover.gif',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'German Kabirski',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>The Art of Impulse</p>
+                               <p>Diamonds may be a basic girl’s best friend but for those with much more eclectic taste in jewelry, German Kabirski is the main madman—turning over every stone to cater to those who go for the bold and bizarre.</p>
+                               <p>But with no presence in the US, the Bangkok-based team struggled to get their precious and peculiar designs into (and onto) the hands, wrists and necks of the American consumer.</p>
+							   <p>From positioning to art direction, we made German Kabirski’s fine art jewelry stand out in a sea of strange with unconventional branding that’s ready to wear.</p>',
+        'projectServices'   => 'Identity, Package Design, Copywriting, Photography Direction, Shipping Experience, Web Design',
+        'projectSiteName'   => 'germankabirski.com',
+        'projectSiteUrl'    => 'https://www.germankabirski.com',
     ),
 	
 'Ao' => array(

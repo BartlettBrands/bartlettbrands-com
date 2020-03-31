@@ -77,15 +77,15 @@ include( $base_dir . '/includes/html-app-header.php' );
                 </div>
             </a>
 			
-			<?php // HIGHLIGHT 1 - "Crabtree & Evelyn" ?>
-            <a class="column4 item" href="<?php echo $pages['Crabtree & Evelyn']['url']; ?>" data-url="<?php echo $pages['Crabtree & Evelyn']['url']; ?>" title="Crabtree & Evelyn">
-                <img src="<?php echo $pages['Crabtree & Evelyn']['navImg']; ?>" alt="Preview of Crabtree & Evelyn">
+			<?php // HIGHLIGHT 1 - "Superkin" ?>
+            <a class="column4 item" href="<?php echo $pages['Superkin']['url']; ?>" data-url="<?php echo $pages['Superkin']['url']; ?>" title="Superkin">
+                <img src="<?php echo $pages['Superkin']['navImg']; ?>" alt="Preview of Superkin">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>
                         <hr>
-                        <h4 class="h4 project-name">Crabtree &amp; Evelyn</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Crabtree & Evelyn']['navProjectType']; ?></h5>
+                        <h4 class="h4 project-name">Superkin</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Superkin']['navProjectType']; ?></h5>
                     </div>
                 </div>
             </a>
@@ -103,28 +103,28 @@ include( $base_dir . '/includes/html-app-header.php' );
                 </div>
             </a>
 			
-			<?php // HIGHLIGHT 6 - "Bamboo Asia" ?>
-            <a class="column4 item" href="<?php echo $pages['Bamboo Asia']['url']; ?>" data-url="<?php echo $pages['Bamboo Asia']['url']; ?>" title="Bamboo Asia">
-                <img src="<?php echo $pages['Bamboo Asia']['navImg']; ?>" alt="Preview of Bamboo Asia">
+			<?php // HIGHLIGHT 6 - "Styleseat" ?>
+            <a class="column4 item" href="<?php echo $pages['Styleseat']['url']; ?>" data-url="<?php echo $pages['Styleseat']['url']; ?>" title="Styleseat">
+                <img src="<?php echo $pages['Styleseat']['navImg']; ?>" alt="Preview of Styleseat">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>
                         <hr>
-                        <h4 class="h4 project-name">Bamboo Asia</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Bamboo Asia']['navProjectType']; ?></h5>
+                        <h4 class="h4 project-name">Styleseat</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Styleseat']['navProjectType']; ?></h5>
                     </div>
                 </div>
             </a>
 			
-			<?php // HIGHLIGHT 3 - "Ao" ?>
-            <a class="column4 item" href="<?php echo $pages['Ao']['url']; ?>" data-url="<?php echo $pages['Ao']['url']; ?>" title="Ao">
-                <img src="<?php echo $pages['Ao']['navImg']; ?>" alt="Preview of Ao">
+			<?php // HIGHLIGHT 1 - "Crabtree & Evelyn" ?>
+            <a class="column4 item" href="<?php echo $pages['Crabtree & Evelyn']['url']; ?>" data-url="<?php echo $pages['Crabtree & Evelyn']['url']; ?>" title="Crabtree & Evelyn">
+                <img src="<?php echo $pages['Crabtree & Evelyn']['navImg']; ?>" alt="Preview of Crabtree & Evelyn">
                 <div class="hover-group">
                     <div class="hover-group-inner">
                         <h3 class="h3 project-category"><span>New Work</span></h3>
                         <hr>
-                        <h4 class="h4 project-name">Ao</h4>
-                        <h5 class="h5 project-type"><?php echo $pages['Ao']['navProjectType']; ?></h5>
+                        <h4 class="h4 project-name">Crabtree &amp; Evelyn</h4>
+                        <h5 class="h5 project-type"><?php echo $pages['Crabtree & Evelyn']['navProjectType']; ?></h5>
                     </div>
                 </div>
             </a>

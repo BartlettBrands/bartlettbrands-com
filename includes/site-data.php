@@ -331,9 +331,9 @@ $pages = array(
         'client'            => 'Superkin',
         'clientIsInHouse'   => false,
         'projectHtmlDesc'   => '<p>Not a maternity brand.</p>
-                               <p>When Bloomwell needed to rebirth their brand, Bartlett Brands jumped at the chance to take them from well to super.</p>
-                               <p>Our strategy? <i>Blasphemy.</i> By making the bump take a backseat, we turned a delicate maternity brand into deliberate Superkin, AKA “Not a Maternity Brand.”</p>
-							   <p>First, we shifted the narrative to celebrate fearless females who don’t just keep up but rise up—repositioning Superkin as high-tech, low maintenance essentials, and enticing power player consumers eager to dump the frump. Then we overhauled the brand’s identity, words and web design, and developed an ongoing marketing strategy to keep business bumpin’.</p>
+                               <p>When the former “Bloomwell” needed to rebirth their brand, we took aim—making a pointed statement at overturning the outdated conventions of pregnancy and apparell.</p>
+                               <p>Our strategy? Blasphemy. By making “the bump” take a backseat, we turned a delicate maternity brand into deliberate Superkin, AKA “Not a Maternity Brand.”</p>
+							   <p>First, we shifted the narrative to celebrate fearless females who want to be well-dressed and well-respected—repositioning Superkin as high-tech, low maintenance essentials for women eager to dump the frump. Then we overhauled the brand’s identity, words and web design, and developed an ongoing marketing strategy to keep business bumpin’.</p>
 							   <p>It’s branding without the bows and bullsh*t.</p>',
         'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Web Design',
         'projectSiteName'   => 'superkin.com',
@@ -366,22 +366,20 @@ $pages = array(
         'url'               => 'styleseat',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'Biotech does it better. Squalane-based skincare, designed without compromise.',
+        'metaDescription'   => 'Style in a swipe. Trends in a tap.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/biossance/biossance-branding-packaging-cover.jpg',
+        'navSortingClasses' => 'strategy branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/styleseat/styleseat-branding-design-cover.jpg',
         'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Biossance',
+        'client'            => 'Styleseat',
         'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
-                               <p>Bartlett Brands took Biossance from an average “nature meets science” brand into a standout concept. Sephora called their launch “unprecedented.”</p>
-                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and remember.</p>
-                               <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
-                               <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
-        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
-        'projectSiteName'   => 'biossance.com',
-        'projectSiteUrl'    => 'https://www.biossance.com/',
+        'projectHtmlDesc'   => '<p>Best-in-Class, Booked.</p>
+                               <p>Since its launch in 2009, Styleseat has become the go-to booking platform for talented stylists and barbers looking to make their businesses go gangbusters.</p>
+                               <p>When Styleseat wanted to level up their own look, they turned to us for a targeted strategy and a fierce AF identity. From positioning to digital standards, we unleashed an unapologetically bold brand inspired by go-getting Pros and discerning clients eager to step into their swagger.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Digital Standards',
+        'projectSiteName'   => 'styleseat.com',
+        'projectSiteUrl'    => 'https://www.styleseat.com/',
     ),
 	
 'Crabtree & Evelyn' => array(

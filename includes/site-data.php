@@ -1,4 +1,3 @@
-<video controls></video>
 <?php
 // BEGIN SITE-DATA INCLUDES FILE
 // @has: page and site arrays

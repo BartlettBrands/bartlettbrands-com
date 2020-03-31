@@ -278,27 +278,25 @@ $pages = array(
     //  :projectSiteUrl     = the url of the client or project link
     //  :projectHtmlDesc    = the project desription using html
 	
-'Crabtree & Evelyn' => array(
-        'url'               => 'crabtreeandevelyn',
+'German Kabirski' => array(
+        'url'               => 'german-kabirski',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'Crabtree & Evelyn’s fearless reinvention brings an iconic brand back from the dead.',
+        'metaDescription'   => 'Fine art jewelry that is precious and peculiar.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-cover.jpg',
+        'navSortingClasses' => 'branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/german-kabirski/german-kabirski-branding-design-cover.gif',
         'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Crabtree & Evelyn',
+        'client'            => 'German Kabirski',
         'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Born Curious. Grown Wild.</p>
-                               <p>Crabtree & Evelyn was always a disruptor. Founded in 1971, the British lifestyle brand started by selling soaps from around the world. Twenty-five years later, having grown to 160 stores in 22 countries, they pioneered a new category of retail and earned their place among the world’s most iconic brands.</p>
-                               <p>But, nearly fifty years after their inception, Crabtree & Evelyn’s customer had moved on, product expectations had evolved, standalone retail was declared “dead”—and the brand was as dusty as the rose potpourri in your grandma’s bathroom.</p>
-							   <p>It takes leadership with a bold vision and an agency that’s tapped into today to fearlessly reinvent one of the most beloved-then-forgotten brands of our time.</p>
-							   <p>Starting with strategy, we revived the brand equity that had made Crabtree & Evelyn unique—and translated it to a new audience through a full brand overhaul that highlights an entirely new product portfolio and stands out in a digital-first environment.</p>
-							   <p>Untamed and undomesticated, Crabtree & Evelyn breaks through once again.</p>',
-        'projectServices'   => 'Brand Strategy, Positioning, Identity System, Package Design, Copywriting, Photography Direction, Brand Guidelines',
-        'projectSiteName'   => 'crabtree-evelyn.com',
-        'projectSiteUrl'    => 'https://www.crabtree-evelyn.com/',
+        'projectHtmlDesc'   => '<p>The Art of Impulse</p>
+                               <p>Diamonds may be a basic girl’s best friend but for those with much more eclectic taste in jewelry, German Kabirski is the main madman—turning over every stone to cater to those who go for the bold and bizarre.</p>
+                               <p>But with no presence in the US, the Bangkok-based team struggled to get their precious and peculiar designs into (and onto) the hands, wrists and necks of the American consumer.</p>
+							   <p>From positioning to art direction, we made German Kabirski’s fine art jewelry stand out in a sea of strange with unconventional branding that’s ready to wear.</p>',
+        'projectServices'   => 'Identity, Package Design, Copywriting, Photography Direction, Shipping Experience, Web Design',
+        'projectSiteName'   => 'germankabirski.com',
+        'projectSiteUrl'    => 'https://www.germankabirski.com',
     ),
 	
 'First Day' => array(
@@ -321,25 +319,93 @@ $pages = array(
         'projectSiteUrl'    => 'https://www.firstdaylife.com',
     ),
 	
-'German Kabirski' => array(
-        'url'               => 'german-kabirski',
+'Superkin' => array(
+        'url'               => 'superkin',
         'pageType'          => 'project',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'Fine art jewelry that is precious and peculiar.',
+        'metaDescription'   => 'A getup for greatness designed to dress you—not the bump.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
-        'navSortingClasses' => 'branding messaging design',
-        'navImg'            => 'assets/img/PROJECTS/german-kabirski/german-kabirski-branding-design-cover.gif',
+        'navSortingClasses' => 'strategy branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/superkin/superkin-branding-design-cover.jpg',
         'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'German Kabirski',
+        'client'            => 'Superkin',
         'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>The Art of Impulse</p>
-                               <p>Diamonds may be a basic girl’s best friend but for those with much more eclectic taste in jewelry, German Kabirski is the main madman—turning over every stone to cater to those who go for the bold and bizarre.</p>
-                               <p>But with no presence in the US, the Bangkok-based team struggled to get their precious and peculiar designs into (and onto) the hands, wrists and necks of the American consumer.</p>
-							   <p>From positioning to art direction, we made German Kabirski’s fine art jewelry stand out in a sea of strange with unconventional branding that’s ready to wear.</p>',
-        'projectServices'   => 'Identity, Package Design, Copywriting, Photography Direction, Shipping Experience, Web Design',
-        'projectSiteName'   => 'germankabirski.com',
-        'projectSiteUrl'    => 'https://www.germankabirski.com',
+        'projectHtmlDesc'   => '<p>Not a maternity brand.</p>
+                               <p>When Bloomwell needed to rebirth their brand, Bartlett Brands jumped at the chance to take them from well to super.</p>
+                               <p>Our strategy? <i>Blasphemy.</i> By making the bump take a backseat, we turned a delicate maternity brand into deliberate Superkin, AKA “Not a Maternity Brand.”</p>
+							   <p>First, we shifted the narrative to celebrate fearless females who don’t just keep up but rise up—repositioning Superkin as high-tech, low maintenance essentials, and enticing power player consumers eager to dump the frump. Then we overhauled the brand’s identity, words and web design, and developed an ongoing marketing strategy to keep business bumpin’.</p>
+							   <p>It’s branding without the bows and bullsh*t.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Web Design',
+        'projectSiteName'   => 'superkin.com',
+        'projectSiteUrl'    => 'https://www.superkin.com',
+    ),
+	
+'Biossance' => array(
+        'url'               => 'biossance',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Biotech does it better. Squalane-based skincare, designed without compromise.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/biossance/biossance-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Biossance',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
+                               <p>Bartlett Brands took Biossance from an average “nature meets science” brand into a standout concept. Sephora called their launch “unprecedented.”</p>
+                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and remember.</p>
+                               <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
+                               <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
+        'projectSiteName'   => 'biossance.com',
+        'projectSiteUrl'    => 'https://www.biossance.com/',
+    ),
+	
+'Styleseat' => array(
+        'url'               => 'styleseat',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Biotech does it better. Squalane-based skincare, designed without compromise.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/biossance/biossance-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Biossance',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
+                               <p>Bartlett Brands took Biossance from an average “nature meets science” brand into a standout concept. Sephora called their launch “unprecedented.”</p>
+                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and remember.</p>
+                               <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
+                               <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
+        'projectSiteName'   => 'biossance.com',
+        'projectSiteUrl'    => 'https://www.biossance.com/',
+    ),
+	
+'Crabtree & Evelyn' => array(
+        'url'               => 'crabtreeandevelyn',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Crabtree & Evelyn’s fearless reinvention brings an iconic brand back from the dead.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/crabtreeandevelyn/crabtreeandevelyn-branding-packaging-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Crabtree & Evelyn',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Born Curious. Grown Wild.</p>
+                               <p>Crabtree & Evelyn was always a disruptor. Founded in 1971, the British lifestyle brand started by selling soaps from around the world. Twenty-five years later, having grown to 160 stores in 22 countries, they pioneered a new category of retail and earned their place among the world’s most iconic brands.</p>
+                               <p>But, nearly fifty years after their inception, Crabtree & Evelyn’s customer had moved on, product expectations had evolved, standalone retail was declared “dead”—and the brand was as dusty as the rose potpourri in your grandma’s bathroom.</p>
+							   <p>It takes leadership with a bold vision and an agency that’s tapped into today to fearlessly reinvent one of the most beloved-then-forgotten brands of our time.</p>
+							   <p>Starting with strategy, we revived the brand equity that had made Crabtree & Evelyn unique—and translated it to a new audience through a full brand overhaul that highlights an entirely new product portfolio and stands out in a digital-first environment.</p>
+							   <p>Untamed and undomesticated, Crabtree & Evelyn breaks through once again.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity System, Package Design, Copywriting, Photography Direction, Brand Guidelines',
+        'projectSiteName'   => 'crabtree-evelyn.com',
+        'projectSiteUrl'    => 'https://www.crabtree-evelyn.com/',
     ),
 	
 'Ao' => array(
@@ -382,48 +448,6 @@ $pages = array(
         'projectServices'   => 'Brand Strategy, Positioning, Identity, Interior Design, Collateral',
         'projectSiteName'   => 'bambooasia.com',
         'projectSiteUrl'    => 'https://www.bambooasia.com',
-    ),
-	
-'Biossance' => array(
-        'url'               => 'biossance',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Biotech does it better. Squalane-based skincare, designed without compromise.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/biossance/biossance-branding-packaging-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Biossance',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Biology by Nature. Human by Design.</p>
-                               <p>Bartlett Brands took Biossance from an average “nature meets science” brand into a standout concept. Sephora called their launch “unprecedented.”</p>
-                               <p>Our strategy tapped into the power of simplicity. Using a single ingredient brand story, we introduced squalane oil to the millennial beauty customer in a way that she could instantly understand and remember.</p>
-                               <p>Biossance holds themselves to the highest standard of sustainability. Likewise, we didn’t compromise when designing chic packaging in highly recyclable primary components and eco-friendly outer cartons made from sugarcane. Waste? Not.</p>
-                               <p>An immediate disruptor, Biossance became one of the top skincare brands in Sephora after just a few weeks.</p>',
-        'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
-        'projectSiteName'   => 'biossance.com',
-        'projectSiteUrl'    => 'https://www.biossance.com/',
-    ),
-	
-'Da Mario' => array(
-        'url'               => 'damario',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Meet la famiglia DaMario. Classically prepared cuisine paired with a classically modern brand concept. #daMariolife',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'branding messaging design',
-        'navImg'            => 'assets/img/PROJECTS/damario/damario-branding-design-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Da Mario',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Food is life and life is good.</p>
-                               <p>In Dallas, Italian food means pizza served delivery-style. Enter DaMario, located in the The Star (the world headquarters of the Dallas Cowboys). They’re shaking parmesan over those perceptions with classically prepared flavors and a classically modern brand concept.</p>
-							   <p>We took our inspiration from the heart of everything Italian: family. Then, we developed a storytelling brand around la famiglia DaMario, complete with an 80-page family saga that pairs with over 500 wine options.</p>',
-        'projectServices'   => 'Branding, Positioning, Taglines, Identity, Collateral',
-        'projectSiteName'   => 'damariorestaurant.com',
-        'projectSiteUrl'    => 'http://www.damariorestaurant.com/',
     ),
 	
 'Paula’s Choice' => array(
@@ -485,6 +509,26 @@ $pages = array(
         'projectServices'   => 'Brand Strategy, Positioning, Naming, Taglines, Identity, Collateral, Packaging, Interior Design, Photography',
         'projectSiteName'   => 'saucyasian.com',
         'projectSiteUrl'    => 'https://www.saucyasian.com/',
+    ),
+	
+'Da Mario' => array(
+        'url'               => 'damario',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Meet la famiglia DaMario. Classically prepared cuisine paired with a classically modern brand concept. #daMariolife',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/damario/damario-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Da Mario',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Food is life and life is good.</p>
+                               <p>In Dallas, Italian food means pizza served delivery-style. Enter DaMario, located in the The Star (the world headquarters of the Dallas Cowboys). They’re shaking parmesan over those perceptions with classically prepared flavors and a classically modern brand concept.</p>
+							   <p>We took our inspiration from the heart of everything Italian: family. Then, we developed a storytelling brand around la famiglia DaMario, complete with an 80-page family saga that pairs with over 500 wine options.</p>',
+        'projectServices'   => 'Branding, Positioning, Taglines, Identity, Collateral',
+        'projectSiteName'   => 'damariorestaurant.com',
+        'projectSiteUrl'    => 'http://www.damariorestaurant.com/',
     ),
 
 'Ipsy' => array(

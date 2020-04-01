@@ -39,7 +39,7 @@ $bgs = array(
         'filename' => 'bb-splash-saucyasian.jpg',
     ),
 	5 => array(
-        'filename' => 'bb-splash-colada.jpg',
+        'filename' => 'bb-splash-german-kabirski2.jpg',
     ),
 	6 => array(
         'filename' => 'bb-splash-paulaproduct.jpg',
@@ -48,10 +48,10 @@ $bgs = array(
         'filename' => 'bb-splash-biossance.jpg',
     ),
 	8 => array(
-        'filename' => 'bb-splash-naya.jpg',
+        'filename' => 'bb-splash-styleseat.jpg',
     ),
 	9 => array(
-        'filename' => 'bb-splash-freya.jpg',
+        'filename' => 'bb-splash-german-kabirski.jpg',
     ),
 	10 => array(
         'filename' => 'bb-splash-aoproduct.jpg',
@@ -60,7 +60,7 @@ $bgs = array(
         'filename' => 'bb-splash-ipsy.jpg',
     ),
 	12 => array(
-        'filename' => 'bb-splash-camp.jpg',
+        'filename' => 'bb-splash-superkin.jpg',
     ),
 );
 

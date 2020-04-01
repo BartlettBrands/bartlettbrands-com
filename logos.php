@@ -21,9 +21,13 @@ include( $base_dir . '/includes/html-app-header.php' );
 
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_PaulasChoice.jpg"            alt="Paula's Choice Logo | Bartlett Brands">
 	<img src="assets/img/PROJECTS/logos/Branding_logo_design_Biossance.jpg"            alt="Biossance Logo | Bartlett Brands">
+	<img src="assets/img/PROJECTS/logos/Branding_logo_design_CandE.jpg"            alt="Crabtree & Evelyn Logo | Bartlett Brands">
 	<img src="assets/img/PROJECTS/logos/Branding_logo_design_GermanKabirski.jpg"            alt="German Kabirski Logo | Bartlett Brands">
-	<img src="assets/img/PROJECTS/logos/Branding_logo_design_Camp.jpg"                alt="Camp Collection Logo | Bartlett Brands">
 	<img src="assets/img/PROJECTS/logos/Branding_logo_design_FirstDay.jpg"            alt="First Day Logo | Bartlett Brands">
+	<img src="assets/img/PROJECTS/logos/Branding_logo_design_Camp.jpg"                alt="Camp Collection Logo | Bartlett Brands">
+	<img src="assets/img/PROJECTS/logos/Branding_logo_design_styleseat.jpg"            alt="Styleseat Logo | Bartlett Brands">
+	<img src="assets/img/PROJECTS/logos/Branding_logo_design_Luna.jpg"            alt="Luna Mexican Kitchen Logo | Bartlett Brands">
+	<img src="assets/img/PROJECTS/logos/Branding_logo_design_superkin.jpg"            alt="Superkin Logo | Bartlett Brands">
     <img src="assets/img/PROJECTS/logos/Branding_logo_design_DianesBM.jpg"            alt="Diane's Bloody Mary Logo | Bartlett Brands">
 	<img src="assets/img/PROJECTS/logos/Branding_logo_design_FifthTaste.jpg"            alt="Fifth Taste Logo | Bartlett Brands">
 	<img src="assets/img/PROJECTS/logos/logos-visual-bareminerals.jpg"                alt="bareMinerals Logo | Bartlett Brands">

@@ -20,7 +20,7 @@ include( $base_dir . '/includes/html-app-header.php' );
     <?php /* Include Projects Intro Content */ echo $projectPageContent_top; ?>
 
     <img src="assets/img/PROJECTS/superkin/superkin-branding-design-1.jpg" alt="German Kabirski Branding | Bartlett Brands">
-	<img src="assets/img/PROJECTS/superkin/superkin-branding-design-2.gif" alt="German Kabirski Branding | Bartlett Brands">
+	<img src="assets/img/PROJECTS/superkin/superkin-branding-design-2.jpg" alt="German Kabirski Branding | Bartlett Brands">
 	<img src="assets/img/PROJECTS/superkin/superkin-branding-design-3.jpg" alt="German Kabirski Branding | Bartlett Brands">
 	<img src="assets/img/PROJECTS/superkin/superkin-branding-design-4.jpg" alt="German Kabirski Branding | Bartlett Brands">
 	<img src="assets/img/PROJECTS/superkin/superkin-branding-design-5.jpg" alt="German Kabirski Branding | Bartlett Brands">

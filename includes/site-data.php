@@ -48,18 +48,15 @@ $bgs = array(
         'filename' => 'bb-splash-biossance.jpg',
     ),
 	8 => array(
-        'filename' => 'bb-splash-styleseat.jpg',
-    ),
-	9 => array(
         'filename' => 'bb-splash-german-kabirski.jpg',
     ),
-	10 => array(
+	9 => array(
         'filename' => 'bb-splash-aoproduct.jpg',
     ),
-	11 => array(
+	10 => array(
         'filename' => 'bb-splash-ipsy.jpg',
     ),
-	12 => array(
+	11 => array(
         'filename' => 'bb-splash-superkin.jpg',
     ),
 );
@@ -361,25 +358,25 @@ $pages = array(
         'projectSiteUrl'    => 'https://www.biossance.com/',
     ),
 	
-'Styleseat' => array(
-        'url'               => 'styleseat',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Style in a swipe. Trends in a tap.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design',
-        'navImg'            => 'assets/img/PROJECTS/styleseat/styleseat-branding-design-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Styleseat',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Best-in-Class, Booked.</p>
-                               <p>Since its launch in 2009, Styleseat has become the go-to booking platform for talented stylists and barbers looking to make their businesses go gangbusters.</p>
-                               <p>When Styleseat wanted to level up their own look, they turned to us for a targeted strategy and a fierce AF identity. From positioning to digital standards, we unleashed an unapologetically bold brand inspired by go-getting Pros and discerning clients eager to step into their swagger.</p>',
-        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Digital Standards',
-        'projectSiteName'   => 'styleseat.com',
-        'projectSiteUrl'    => 'https://www.styleseat.com/',
-    ),
+//	'Styleseat' => array(
+//        'url'               => 'styleseat',
+//        'pageType'          => 'project',
+//        'htmlSpecialName'   => '',
+//        'metaDescription'   => 'Style in a swipe. Trends in a tap.',
+//        'fbOgImageUrl'      => '',
+//        'navIsActive'       => true,
+//        'navSortingClasses' => 'strategy branding messaging design',
+//        'navImg'            => 'assets/img/PROJECTS/styleseat/styleseat-branding-design-cover.jpg',
+//        'navProjectType'    => 'Branding &amp; Design',
+//        'client'            => 'Styleseat',
+//        'clientIsInHouse'   => false,
+//        'projectHtmlDesc'   => '<p>Best-in-Class, Booked.</p>
+//                               <p>Since its launch in 2009, Styleseat has become the go-to booking platform for talented stylists and barbers looking to make their businesses go gangbusters.</p>
+//                               <p>When Styleseat wanted to level up their own look, they turned to us for a targeted strategy and a fierce AF identity. From positioning to digital standards, we unleashed an unapologetically bold brand inspired by go-getting Pros and discerning clients eager to step into their swagger.</p>',
+//        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Digital Standards',
+//        'projectSiteName'   => 'styleseat.com',
+//        'projectSiteUrl'    => 'https://www.styleseat.com/',
+//    ),
 	
 'Crabtree & Evelyn' => array(
         'url'               => 'crabtreeandevelyn',
@@ -645,27 +642,6 @@ An evolved ipsy voice to better appeal to their bizillion glam bag subscribers. 
         'projectServices'   => 'Brand Development, Identity, Naming, Taglines, Copy, Marketing, Collateral Design, Packaging Design, Photography, UI/UX, Website Design',
         'projectSiteName'   => 'bravonbeauty.com',
         'projectSiteUrl'    => 'http://bravonbeauty.com/',
-    ),
-
-'La Mienne' => array(
-        'url'               => 'lamienne',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Branding, identity, web design, app creation, emails and more—we made all of La Mienne a truly gorgeous experience.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'branding messaging design marketing',
-        'navImg'            => 'assets/img/PROJECTS/lamienne/LaMienne-branding-design-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Ella Cora, Inc.',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Finally. Someone to wait on you so you never have to wait on a beauty appointment again.</p>
-                                <p>We summoned our expertise in prestige beauty and premium technology to bring you La Mienne, an on-demand primping and pampering service for the everyday fashionista. Branding, identity, web design, app creation, emails and more—we made all of La Mienne a truly gorgeous experience.</p>
-                                <p>Now Bay Area women can call personal makeup artists, hairstylists, and nail experts to their doorsteps with a snap of the fingers—and the tap of an app. It’s beauty as you like it.</p>
-                                <p>Bring on the champagne? It’s already brought.</p>',
-        'projectServices'   => 'Brand Development, Naming, Identity, Copy, UI/UX, Website Design, Mobile App Design, Marketing Campaigns, Collateral Design, Packaging Design, Photography',
-        'projectSiteName'   => 'lamienne.com',
-        'projectSiteUrl'    => 'https://www.lamienne.com/',
     ),
 
 'Pub 1842' => array(

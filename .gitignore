@@ -2,3 +2,4 @@
 blog/
 cgi-bin/
 .ftpquota
+error_log

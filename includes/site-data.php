@@ -330,7 +330,7 @@ $pages = array(
         'projectHtmlDesc'   => '<p>Not a maternity brand.</p>
                                <p>When former “Bloomwell” asked us to rebirth their brand, we took aim—making a pointed statement at overturning outdated conventions of pregnancy.</p>
                                <p>Our strategy? Blasphemy. We made “the bump” take a backseat, and created Superkin, AKA “Not a Maternity Brand.”</p>
-							   <p>First, we shifted the narrative to focus on fearless females who want to be well-dressed and well-respected—repositioning Superkin as high tech, low maintenance essentials deliberately designed to dress her—not her bump. Then we overhauled their words, web and marketing strategy to keep business bumpin.’</p>',
+							   <p>First, we shifted the narrative to focus on fearless females who want to be well-dressed and well-respected—repositioning Superkin as high tech, low maintenance essentials deliberately designed to dress her, not just her bump. Then we overhauled their words, web and marketing strategy to keep business bumpin.’</p>',
         'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Web Design',
         'projectSiteName'   => 'superkin.com',
         'projectSiteUrl'    => 'https://www.superkin.com',

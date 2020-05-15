@@ -358,25 +358,25 @@ $pages = array(
         'projectSiteUrl'    => 'https://www.biossance.com/',
     ),
 	
-//	'Styleseat' => array(
-//        'url'               => 'styleseat',
-//        'pageType'          => 'project',
-//        'htmlSpecialName'   => '',
-//        'metaDescription'   => 'Style in a swipe. Trends in a tap.',
-//        'fbOgImageUrl'      => '',
-//        'navIsActive'       => true,
-//        'navSortingClasses' => 'strategy branding messaging design',
-//        'navImg'            => 'assets/img/PROJECTS/styleseat/styleseat-branding-design-cover.jpg',
-//        'navProjectType'    => 'Branding &amp; Design',
-//        'client'            => 'Styleseat',
-//        'clientIsInHouse'   => false,
-//        'projectHtmlDesc'   => '<p>Best-in-Class, Booked.</p>
-//                               <p>Since its launch in 2009, Styleseat has become the go-to booking platform for talented stylists and barbers looking to make their businesses go gangbusters.</p>
-//                               <p>When Styleseat wanted to level up their own look, they turned to us for a targeted strategy and a fierce AF identity. From positioning to digital standards, we unleashed an unapologetically bold brand inspired by go-getting Pros and discerning clients eager to step into their swagger.</p>',
-//        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Digital Standards',
-//        'projectSiteName'   => 'styleseat.com',
-//        'projectSiteUrl'    => 'https://www.styleseat.com/',
-//    ),
+	'Styleseat' => array(
+        'url'               => 'styleseat',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Style in a swipe. Trends in a tap.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/styleseat/styleseat-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Styleseat',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Best-in-Class, Booked.</p>
+                               <p>Since its launch in 2009, Styleseat has become the go-to booking platform for talented stylists and barbers looking to make their businesses go gangbusters.</p>
+                               <p>When Styleseat wanted to level up their own look, they turned to us for a targeted strategy and a fierce AF identity. From positioning to digital standards, we unleashed an unapologetically bold brand inspired by go-getting Pros and discerning clients eager to step into their swagger.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Digital Standards',
+        'projectSiteName'   => 'styleseat.com',
+        'projectSiteUrl'    => 'https://www.styleseat.com/',
+    ),
 	
 'Crabtree & Evelyn' => array(
         'url'               => 'crabtreeandevelyn',

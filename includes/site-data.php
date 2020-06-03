@@ -130,12 +130,12 @@ $pages = array(
         'url'               => 'vannett-li',
         'pageType'          => 'teammate',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'Senior Strategist at Bartlett Brands.',
+        'metaDescription'   => 'Strategy Director at Bartlett Brands.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
         'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-vannett.jpg',
         'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-vannett-square.jpg',
-        'jobPosition'       => 'Senior Stategist',
+        'jobPosition'       => 'Strategy Director',
         'htmlBio'           => '<p>A California native that recently returned from the Big Apple, I am a 5&prime; 3 &frac12;&Prime; tall visionary with a firecracker personality. A trend and innovation junkie, my passion is a marriage of business strategy and design. My ability to effortlessly create connections and identify strategic tensions has lead me to award-winning success in revitalizing heritage brands and creating new brands for both giant corporations and startups.</p>
                                 <p>My career began in advertising in sunny Los Angeles managing the behemoth Toyota account at Saatchi & Saatchi where I received a comprehensive schooling in digital, print, TV and radio. I made my way back up the coast to Venables Bell & Partners in San Francisco to revive the digital and social experience for ConAgra Foods and Google. Then I transitioned exclusively into strategy at CBA—leading brand development and package design with Nestle, Coffee-mate, Purina, Cree and Michael Mina Group.</p>
                                 <p>In 2014, I was lured to New York City via Jones Knowles Ritchie to work on positioning and brand identity systems for Anheuser-Busch InBev, Diageo, Unilever, Mars Chocolate and Walker & Co. Eventually, I transitioned to CBX to lead innovation, brand and research for Hain Celestial, Proximo Spirits, Mission Foods, Lavazza Coffee, Hormel Foods, Boston Beer Company, JM Smucker Company and Big Heart Pets.</p>
@@ -203,12 +203,12 @@ $pages = array(
         'url'               => 'carolina-pistone',
         'pageType'          => 'teammate',
         'htmlSpecialName'   => '',
-        'metaDescription'   => 'Graphic Designer at Bartlett Brands.',
+        'metaDescription'   => 'Senior Designer at Bartlett Brands.',
         'fbOgImageUrl'      => '',
         'navIsActive'       => true,
         'imgPortraitFull'   => 'assets/img/TEAMMATES/teammate-carolina.jpg',
         'imgPortraitSquare' => 'assets/img/TEAMMATES/teammate-carolina-square.jpg',
-        'jobPosition'       => 'Graphic Designer',
+        'jobPosition'       => 'Senior Designer',
         'htmlBio'           => '<p>With an eclectic perspective developed from life in Argentina, several East Coast states and finally the City by the Bay, my unique style is somewhere between the worldly and the whimsical.</p>
                                 <p>As a graduate of The Academy of Art in San Francisco, I started on my path to becoming a multi-disciplined design pro at… Path (the other Facebook). I embrace ingenuity and flexibility with every design challenge. Identity, illustration, packaging, print, digital design and social media marketing—I’m on it.</p>
                                 <p>What can you expect from me? <br>A curiosity for anything creative, authentic and instigative. </p>',

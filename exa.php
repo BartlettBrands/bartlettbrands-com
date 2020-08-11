@@ -23,11 +23,11 @@ include( $base_dir . '/includes/html-app-header.php' );
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-2.jpg" alt="Exa Branding & Packaging | Bartlett Brands">
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-3.jpg" alt="Exa Branding & Packaging | Bartlett Brands">
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-4.jpg" alt="Exa Branding & Packaging | Bartlett Brands">
-	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-5.jpg" alt="Exa Branding & Packaging | Bartlett Brands">
+	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-5.gif" alt="Exa Branding & Packaging | Bartlett Brands">
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-6.gif" alt="Exa Branding & Packaging | Bartlett Brands">
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-7.gif" alt="Exa Branding & Packaging | Bartlett Brands">
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-8.jpg" alt="Exa Branding & Packaging | Bartlett Brands">
-	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-9.jpg" alt="Exa Branding & Packaging | Bartlett Brands">
+	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-9.gif" alt="Exa Branding & Packaging | Bartlett Brands">
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-10.jpg" alt="Exa Branding & Packaging | Bartlett Brands">
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-11.jpg" alt="Exa Branding & Packaging | Bartlett Brands">
 	<img src="assets/img/PROJECTS/exa/exa-branding-packaging-12.jpg" alt="Exa Branding & Packaging | Bartlett Brands">

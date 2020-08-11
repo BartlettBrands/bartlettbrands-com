@@ -274,6 +274,27 @@ $pages = array(
     //  :projectSiteUrl     = the url of the client or project link
     //  :projectHtmlDesc    = the project desription using html
 	
+'Exa' => array(
+        'url'               => 'exa',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Clean makeup made for everyone and every frequency.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'all strategy branding messaging design marketing',
+        'navImg'            => 'assets/img/PROJECTS/exa/exa-branding-packaging-thumb2.gif',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Exa',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>There was a white space in clean beauty. And it was really, really white.</p>
+                               <p>The founders of Credo came to us looking to amp up the inclusivity of their retail offering by creating the first-of-its-kind clean complexion range that is high on standards and super-charged with positivity.</p>
+                               <p>We took Exa from idea to everything, creating a clean makeup brand that shatters expectations and breaks open ceilings—redefining what clean beauty can be and who it is for. Smart on strategy, sustainable in packaging, super stylish in storytelling—and so so so many shades matched.</p>
+							   <p>Finally. Clean makeup made for everyone and every frequency.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Package Design, Web Design, In-Store Display, Collateral, Photography, Video, Digital Marketing, Brand Guidelines',
+        'projectSiteName'   => 'exabeauty.com',
+        'projectSiteUrl'    => 'https://www.exabeauty.com',
+    ),
+	
 'German Kabirski' => array(
         'url'               => 'german-kabirski',
         'pageType'          => 'project',
@@ -335,6 +356,27 @@ $pages = array(
         'projectSiteName'   => 'superkin.com',
         'projectSiteUrl'    => 'https://www.superkin.com',
     ),
+
+'Styleseat' => array(
+        'url'               => 'styleseat',
+        'pageType'          => 'project',
+        'htmlSpecialName'   => '',
+        'metaDescription'   => 'Style in a swipe. Trends in a tap.',
+        'fbOgImageUrl'      => '',
+        'navIsActive'       => true,
+        'navSortingClasses' => 'strategy branding messaging design',
+        'navImg'            => 'assets/img/PROJECTS/styleseat/styleseat-branding-design-cover.jpg',
+        'navProjectType'    => 'Branding &amp; Design',
+        'client'            => 'Styleseat',
+        'clientIsInHouse'   => false,
+        'projectHtmlDesc'   => '<p>Best-in-Class, Booked.</p>
+                               <p>Since its launch in 2009, Styleseat has become the go-to booking platform for talented stylists and barbers looking to make their businesses go gangbusters.</p>
+                               <p>When Styleseat wanted to level up their own look, they turned to us for a targeted strategy and a fierce AF identity. From positioning to digital standards, we unleashed an unapologetically bold brand inspired by go-getting Pros and discerning clients eager to step into their swagger.</p>',
+        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Digital Standards',
+        'projectSiteName'   => 'styleseat.com',
+        'projectSiteUrl'    => 'https://www.styleseat.com/',
+    ),
+	
 	
 'Biossance' => array(
         'url'               => 'biossance',
@@ -356,26 +398,6 @@ $pages = array(
         'projectServices'   => 'Brand Strategy, Positioning, Identity, Package Design, Web Design, Fixture Design, In-Store Display, Collateral, Marketing Campaigns, Photography, Video, Email, Social Media, Brand Guidelines',
         'projectSiteName'   => 'biossance.com',
         'projectSiteUrl'    => 'https://www.biossance.com/',
-    ),
-	
-	'Styleseat' => array(
-        'url'               => 'styleseat',
-        'pageType'          => 'project',
-        'htmlSpecialName'   => '',
-        'metaDescription'   => 'Style in a swipe. Trends in a tap.',
-        'fbOgImageUrl'      => '',
-        'navIsActive'       => true,
-        'navSortingClasses' => 'strategy branding messaging design',
-        'navImg'            => 'assets/img/PROJECTS/styleseat/styleseat-branding-design-cover.jpg',
-        'navProjectType'    => 'Branding &amp; Design',
-        'client'            => 'Styleseat',
-        'clientIsInHouse'   => false,
-        'projectHtmlDesc'   => '<p>Best-in-Class, Booked.</p>
-                               <p>Since its launch in 2009, Styleseat has become the go-to booking platform for talented stylists and barbers looking to make their businesses go gangbusters.</p>
-                               <p>When Styleseat wanted to level up their own look, they turned to us for a targeted strategy and a fierce AF identity. From positioning to digital standards, we unleashed an unapologetically bold brand inspired by go-getting Pros and discerning clients eager to step into their swagger.</p>',
-        'projectServices'   => 'Brand Strategy, Positioning, Identity, Copywriting, Photography Direction, Digital Standards',
-        'projectSiteName'   => 'styleseat.com',
-        'projectSiteUrl'    => 'https://www.styleseat.com/',
     ),
 	
 'Crabtree & Evelyn' => array(
